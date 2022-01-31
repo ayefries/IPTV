@@ -1,2 +1,392 @@
-#EXTINF:-1 tvg-id="CNN.com" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ks1nzKm.png" group-title="General",CNN (US)
-https://1942468522.rsc.cdn77.org/9HgTmri1qbWnDuWs_i8bYQ==,1643641888/1942468522/tracks-v1a1/mono.m3u8
+#EXTINF:-1, CNN USA
+http://142.4.216.60:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421&xs=_we_cmp4bzhoejE3cTl3YWlxfDEzOTY4MjM0MTZ8NDkuOTMuMzcuNjN8NTM0MWM3NjgyZTY3Nnw5YWNmYzRhM2FiNjQwMmFkMmY1OGQ2YjJlOWVkMjllYTQ0MTgxODI2
+
+#EXTINF:-1, CNN International
+http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8?b?b*t$
+
+#EXTINF:-1,CNN International
+http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8
+
+#EXTINF:-1,CNN International
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+
+#EXTINF:-1, TRAVEL Channel
+http://cdn.live.simplestream.com/5HPRNXTMZ1XEKVAK676Z/3/playlist-limelight.m3u8?b?b*t$
+
+#EXTINF:-1, TRAVEL Channel
+http://83.139.104.123/Content/HLS/Live/Channel(travel_channel)/Stream(03)/index.m3u8
+
+#EXTINF:-1,Travel Channel HD
+http://142.4.216.60:1935/edge/_definst_/4aiufk0o430qt0d/playlist.m3u8?wowzasessionid=1419877887&xs=_we_MWZ2dW9rMm55NGp0bWdxfDE0MTk5MTM4ODd8fDU0YTE5ZGZmMjgwNTR8MjZlNDRkMjc2ZDFiZDExODcyM2UyMGQ2OGZlNTFkNmI3NDA1NmQzZA
+
+#EXTINF:-1,Travel Channel
+http://142.4.216.60:1935/edge/_definst_/1fvuok2ny4jtmgq/playlist.m3u8?wowzasessionid=1419877887&xs=_we_MWZ2dW9rMm55NGp0bWdxfDE0MTk5MTM4ODd8fDU0YTE5ZGZmMjgwNTR8MjZlNDRkMjc2ZDFiZDExODcyM2UyMGQ2OGZlNTFkNmI3NDA1NmQzZA
+
+#EXTINF:-1, A&E
+http://142.4.216.60:1935/edge/_definst_/tuc280rbycwnsvs/playlist.m3u8?wowzasessionid=1419880467&xs=_we_dHVjMjgwcmJ5Y3duc3ZzfDE0MTk5MTY0Njd8NzIuMjcuMjE0LjMzfDU0YTFhODEzOGZkNDR8ZmE0OGE4YmUwMTczYjU4MWVjNzUzYTg4OTQzM2I1MGE0ODYwNjQzZA
+
+#EXTINF:-1,AMC HD
+http://142.4.216.60:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419880157&xs=_we_N3BjdG1yZTB6ZndzYzI0fDE0MTk5MTYxNTd8NzIuMjcuMjE0LjMzfDU0YTFhNmRkY2JjNDd8ZjlhZTYzZWQyNDg5NTYyYmE2OWM5ODcyZWMxOTQ0M2RkYjA4YzBmMg
+
+#EXTINF:-1,AMC
+http://142.4.216.60:1935/edge/_definst_/7pctmre0zfwsc24/playlist.m3u8?wowzasessionid=1419880157&xs=_we_N3BjdG1yZTB6ZndzYzI0fDE0MTk5MTYxNTd8NzIuMjcuMjE0LjMzfDU0YTFhNmRkY2JjNDd8ZjlhZTYzZWQyNDg5NTYyYmE2OWM5ODcyZWMxOTQ0M2RkYjA4YzBmMg
+
+#EXTINF:-1,BET
+http://142.4.216.60:1935/edge/_definst_/kexkxje3nqi6dtl/playlist.m3u8?wowzasessionid=1419880467&xs=_we_dHVjMjgwcmJ5Y3duc3ZzfDE0MTk5MTY0Njd8NzIuMjcuMjE0LjMzfDU0YTFhODEzOGZkNDR8ZmE0OGE4YmUwMTczYjU4MWVjNzUzYTg4OTQzM2I1MGE0ODYwNjQzZA
+
+#EXTINF:-1,Bravo
+
+http://142.4.216.60:1935/edge/_definst_/uw433ikqnrj501l/playlist.m3u8?wowzasessionid=1419880467&xs=_we_dHVjMjgwcmJ5Y3duc3ZzfDE0MTk5MTY0Njd8NzIuMjcuMjE0LjMzfDU0YTFhODEzOGZkNDR8ZmE0OGE4YmUwMTczYjU4MWVjNzUzYTg4OTQzM2I1MGE0ODYwNjQzZA
+
+#EXTINF:-1,OWN
+http://142.4.216.60:1935/edge/_definst_/uehgy5htiasffj3/playlist.m3u8?wowzasessionid=1419878658&xs=_we_dWVoZ3k1aHRpYXNmZmozfDE0MTk5MTQ2NTh8fDU0YTFhMTAyYWFmNDV8YjhmYTUyMTQ1OTQ5OWY3NzNiZWExYjdlZGE5ZWM5OWEzODkzMjI0ZA
+
+#EXTINF:-1,Oxygen
+http://142.4.216.60:1935/edge/_definst_/zmt2swezlswh9nz/playlist.m3u8?wowzasessionid=1419878658&xs=_we_dWVoZ3k1aHRpYXNmZmozfDE0MTk5MTQ2NTh8fDU0YTFhMTAyYWFmNDV8YjhmYTUyMTQ1OTQ5OWY3NzNiZWExYjdlZGE5ZWM5OWEzODkzMjI0ZA
+
+#EXTINF:-1,ABC Family
+http://142.4.216.60:1935/edge/_definst_/vx63a0c7mxk2jt8/playlist.m3u8?wowzasessionid=1419880244&xs=_we_dng2M2EwYzdteGsyanQ4fDE0MTk5MTYyNDR8NzIuMjcuMjE0LjMzfDU0YTFhNzM0MmFiMmZ8MzlmZjIyYjdjMDkyYTFhY2MzNDEzZTYyZTM2ODE5MTY0YWNkOTdiNw
+
+#EXTINF:-1,ABC HD
+http://142.4.216.60:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374&xs=_we_Mzcxamx1aXJsamNzamVufDE0MTk5MTYzNzR8NzIuMjcuMjE0LjMzfDU0YTFhN2I2MzUxMWJ8ZDU3ODc0MTUyMWE0YTMyODdmZjdkYzJiMTYyZmY0MDA1YzM4NjdkYQ
+
+#EXTINF:-1,ABC
+http://142.4.216.60:1935/edge/_definst_/371jluirljcsjen/playlist.m3u8?wowzasessionid=1420168303&xs=_we_Mzcxamx1aXJsamNzamVufDE0MjAyMDQzMDN8NzIuMjcuMjE0LjMzfDU0YTYwYzZmMGE2NGV8OGMxYmQ2YWM5M2ZmNzY1OTIwYzVhMTBiZGQ1MzEyZDM0ZjRiZjNjNQ
+
+#EXTINF:-1,ABC
+http://142.4.216.60:1935/edge/_definst_/5czfrhq0r6n7cr7/playlist.m3u8?wowzasessionid=1420168290&xs=_we_NWN6ZnJocTByNm43Y3I3fDE0MjAyMDQyOTB8NzIuMjcuMjE0LjMzfDU0YTYwYzYyZDNmZjF8NzMwYmFhMTdmN2YyNDVlOWQzMWQ4NmU0ZDE5N2ZlYTJmYWI0ZDQzZg
+
+#EXTINF:-1,CBS HD
+http://142.4.216.60:1935/edge/_definst_/vp4q2gonwzh2dku/playlist.m3u8?wowzasessionid=1419872048&xs=_we_b2J6cTNsdHJqb2F4Z2xmfDE0MTk5MDgwNDh8NzIuMjcuMjE0LjMzfDU0YTE4NzMwOGM1Y2Z8Y2ZhYmFmNTFiY2VmNzczNzQ5MDI4YWU1OGUxNDBhZmZlYjhlYTRlMw
+
+#EXTINF:-1,CBS
+http://142.4.216.60:1935/edge/_definst_/vp4q2gonwzh2dku/playlist.m3u8?wowzasessionid=1419872048&xs=_we_b2J6cTNsdHJqb2F4Z2xmfDE0MTk5MDgwNDh8NzIuMjcuMjE0LjMzfDU0YTE4NzMwOGM1Y2Z8Y2ZhYmFmNTFiY2VmNzczNzQ5MDI4YWU1OGUxNDBhZmZlYjhlYTRlMw
+
+#EXTINF:-1,CW HD
+http://142.4.216.60:1935/edge/_definst_/fvksu1sp51ijtyd/playlist.m3u8?wowzasessionid=1419879994&xs=_we_cXZ2a3Zvamxhbm85aG5qfDE0MTk5MTU5OTR8NzIuMjcuMjE0LjMzfDU0YTFhNjNhY2MxYzJ8OThiYzA4YWRlNmVhZTRhNWM3ZmExNTM0MTg0OWMyNzA3MWFjODU3Nw
+
+#EXTINF:-1,CW
+http://142.4.216.60:1935/edge/_definst_/qvvkvojlano9hnj/playlist.m3u8?wowzasessionid=1419903868&xs=_we_cXZ2a3Zvamxhbm85aG5qfDE0MTk5Mzk4Njh8NzIuMjcuMjE0LjMzfDU0YTIwMzdjNmNlZjR8OTc1M2ZmYjFmYjIyNzBmMzU5YjFkMjAwNGNjYWIzODUzZDNhMWY3ZA
+
+#EXTINF:-1,FOX HD
+http://142.4.216.60:1935/edge/_definst_/yuu6p5oaa1x4a1p/playlist.m3u8?wowzasessionid=1419906680&xs=_we_cTQ5dXl2aWoxNDV3Y2t5fDE0MTk5NDI2ODB8NzIuMjcuMjE0LjMzfDU0YTIwZTc4MGNjZDh8YmZjM2Y4ODUwOGJkMmMyYTU4ZDVlNzYxNGEyOTlmNjU2NDI1MjQ1ZQ
+
+#EXTINF:-1,FOX
+http://142.4.216.60:1935/edge/_definst_/q49uyvij145wcky/playlist.m3u8?wowzasessionid=1419873438&xs=_we_aGM5OTJxN3g3Y3o4NnQ5fDE0MTk5MDk0Mzh8NzIuMjcuMjE0LjMzfDU0YTE4YzllN2MyNGV8M2JlZWQ5MmM4MDE2YzYyMWZiYjM5OGQwNGQ0ZDU0YzEyNjhkNDM1NA
+
+#EXTINF:-1,FX
+http://142.4.216.60:1935/edge/_definst_/hrjtbc6cg6tbtgz/playlist.m3u8?wowzasessionid=1420168729&xs=_we_aW1uOTAweTBzdmNyZHp1fDE0MjAyMDQ3Mjl8NzIuMjcuMjE0LjMzfDU0YTYwZTE5YzRjNzZ8NjQ5Y2VkYTk3MTI3ZmJhYTA5YWI3ZDdkYTEyYWM3ZDgzYTMzMjYwMg
+
+#EXTINF:-1,NBC
+http://142.4.216.60:1935edge/_definst_/s5whw37nl7weedp/playlist.m3u8?wowzasessionid=1420124473&xs=_we_czV3aHczN25sN3dlZWRwfDE0MjAxNjA0NzN8NzIuMjcuMjE0LjMzfDU0YTU2MTM5OWJiYjF8YWZlZTFlNWNkMjIwZmM0ZDIzMWEwMWM2ZGVhYjQ3MmY4NzMwYmVjNg
+
+#EXTINF:-1,NBC HD
+http://142.4.216.60:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103&xs=_we_czV3aHczN25sN3dlZWRwfDE0MTk5MTUxMDN8fDU0YTFhMmJmNjRhOWJ8NzEyZTU4Y2M2Mzc5MTI5ZWI4OTc5OTJlNTQzMDkxNDMzYjQzYzMyMg
+
+#EXTINF:-1,CNN
+http://142.4.216.60:1935/edge/_definst_/1z3ps9vxnknuskb/playlist.m3u8?wowzasessionid=1419872183&xs=_we_MXozcHM5dnhua251c2tifDE0MTk5MDgxODN8NzIuMjcuMjE0LjMzfDU0YTE4N2I3YWFkZjN8ZDg0ZmIxZGM2NWM0MjUyMTQwNTk5NjQ2YTdmNzQ0ZTc5YzViNTdmYg
+
+#EXTINF:-1,ESPN 2 HD
+http://142.4.216.60:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325&xs=_we_NWhkMTlrd3hlZjViNTlvfDE0MTk5NDIzMjV8NzIuMjcuMjE0LjMzfDU0YTIwZDE1N2VjNzF8N2QyYmM3ZTU2ZGZhMWFlZjQyMGEwOTU3NjM1NDA1MTJhNTZjZGM0Ng
+
+#EXTINF:-1,ESPN 2
+http://142.4.216.60:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722&xs=_we_NWhkMTlrd3hlZjViNTlvfDE0MjAxNTk3MjJ8NzIuMjcuMjE0LjMzfDU0YTU1ZTRhMzc3YjN8MDUyOGQ2Njg0MGJmNjRkMWY5MzIxN2QzOTljOTUwYTJmYjE5MmM5Zg
+
+#EXTINF:-1,ESPN HD
+http://142.4.216.60:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934&xs=_we_amJnNngwYnowcXRheWhjfDE0MTk5MTU5MzR8NzIuMjcuMjE0LjMzfDU0YTFhNWZlNDBlZWJ8ZTk1OGYxM2U5MjFmOGNmYWYwZDU4ZTk4ZDczY2JhNzFjODJlOGJkNw
+
+#EXTINF:-1,ESPN
+http://142.4.216.60:1935/edge/_definst_/dp2g1w4ip6v0zoc/playlist.m3u8?wowzasessionid=1419906402&xs=_we_ZHAyZzF3NGlwNnYwem9jfDE0MTk5NDI0MDJ8NzIuMjcuMjE0LjMzfDU0YTIwZDYyZGJmNmV8NWRiY2NlZTRiMjU5MzMzNTU4N2JhZWYxZjc2NGE1MTFhNDIxMTdlOA
+
+#EXTINF:-1,FOX MOVIE
+http://142.4.216.60:1935/edge/_definst_/hc992q7x7cz86t9/playlist.m3u8?wowzasessionid=1419873438&xs=_we_aGM5OTJxN3g3Y3o4NnQ5fDE0MTk5MDk0Mzh8NzIuMjcuMjE0LjMzfDU0YTE4YzllN2MyNGV8M2JlZWQ5MmM4MDE2YzYyMWZiYjM5OGQwNGQ0ZDU0YzEyNjhkNDM1NA
+
+#EXTINF:-1,Fox News HD
+http://142.4.216.60:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821&xs=_we_dzBtcjEwZ2V0dnNpa2FtfDE0MjAxNTk4MjF8NzIuMjcuMjE0LjMzfDU0YTU1ZWFkODY0YmV8YWVlYjYzYzQwMzFmZjZmN2RkNDJhM2IzMmQ1NTQ0M2YxYzRkNWFhNw
+
+#EXTINF:-1, SKY SPORT 2
+http://142.4.216.60:1935/edge/_definst_/on39ol6in4f2ewp/playlist.m3u8?wowzasessionid=1419879754&xs=_we_OWRkbHBpaWpqY2kxMm85fDE0MTk5MTU3NTR8NzIuMjcuMjE0LjMzfDU0YTFhNTRhNmJiYjV8NTllOTBjMzBlZTI3NTdmMWFkYzBjZWRmNWJiMmEzZDg1MWY1YzRkOA
+
+#EXTINF:-1, SKY SPORT 4
+http://142.4.216.60:1935/edge/_definst_/21ajqprn56aebp3/playlist.m3u8?wowzasessionid=1419879754&xs=_we_OWRkbHBpaWpqY2kxMm85fDE0MTk5MTU3NTR8NzIuMjcuMjE0LjMzfDU0YTFhNTRhNmJiYjV8NTllOTBjMzBlZTI3NTdmMWFkYzBjZWRmNWJiMmEzZDg1MWY1YzRkOA
+
+#EXTINF:-1, FOX SOCCER PLUS HD
+http://142.4.216.60:1935/edge/_definst_/31j6bqlq8e3wwc5/playlist.m3u8?wowzasessionid=1420168629&xs=_we_OW1mejdqa2lrdWF0ZnF6fDE0MjAyMDQ2Mjl8NzIuMjcuMjE0LjMzfDU0YTYwZGI1NGJkNTR8M2ViMmVlMzk1NjFiZmE5M2U1NWZhZjk4NTk2YTllNDJhNWJhMGI2Zg
+
+#EXTINF:-1, NBA Live TV
+http://142.4.216.60:1935/edge/_definst_/9mfz7jkikuatfqz/playlist.m3u8?wowzasessionid=1420168629&xs=_we_OW1mejdqa2lrdWF0ZnF6fDE0MjAyMDQ2Mjl8NzIuMjcuMjE0LjMzfDU0YTYwZGI1NGJkNTR8M2ViMmVlMzk1NjFiZmE5M2U1NWZhZjk4NTk2YTllNDJhNWJhMGI2Zg
+
+#EXTINF:-1, NBA Live TV
+http://142.4.216.60:1935/edge/_definst_/d3ku4emysq0an9d/playlist.m3u8?wowzasessionid=1420168738&xs=_we_ZDNrdTRlbXlzcTBhbjlkfDE0MjAyMDQ3Mzh8NzIuMjcuMjE0LjMzfDU0YTYwZTIyZDQzZWZ8MDEyZTc0MGY3ODZkN2VjZTA1ZjBmMzljYzk4MTViMjI1NDcwMTg2ZA
+
+#EXTINF:-1, NBA Live TV
+http://142.4.216.60:1935/edge/_definst_/imn900y0svcrdzu/playlist.m3u8?wowzasessionid=1420168729&xs=_we_aW1uOTAweTBzdmNyZHp1fDE0MjAyMDQ3Mjl8NzIuMjcuMjE0LjMzfDU0YTYwZTE5YzRjNzZ8NjQ5Y2VkYTk3MTI3ZmJhYTA5YWI3ZDdkYTEyYWM3ZDgzYTMzMjYwMg
+
+#EXTINF:-1, NBA Live TV
+http://142.4.216.60:1935/edge/_definst_/8xqw0j3uksr7m8c/playlist.m3u8?wowzasessionid=1420168704&xs=_we_OHhxdzBqM3Vrc3I3bThjfDE0MjAyMDQ3MDR8NzIuMjcuMjE0LjMzfDU0YTYwZTAwYzc1NjF8Zjc1M2ZiOTg4YTc2ZmQwYmU3NWQ0ZjQ2NWJmMjQ3N2UwMmFiMjVhNA
+
+#EXTINF:-1,NBC Sport Network
+http://142.4.216.60:1935/edge/_definst_/2qmiwfydbj6yu89/playlist.m3u8?wowzasessionid=1419879018&xs=_we_MnFtaXdmeWRiajZ5dTg5fDE0MTk5MTUwMTh8fDU0YTFhMjZhYTVhZjl8MWVhMmFlNjIyY2RhZGM4MjFiYWI1ZjM2NjY3YzlkMjU2MDMwMWNhNg
+
+#EXTINF:-1,NBC Sport Network HD
+http://142.4.216.60:1935/edge/_definst_/0fm1lstybe4a0j4/playlist.m3u8?wowzasessionid=1419879018&xs=_we_MnFtaXdmeWRiajZ5dTg5fDE0MTk5MTUwMTh8fDU0YTFhMjZhYTVhZjl8MWVhMmFlNjIyY2RhZGM4MjFiYWI1ZjM2NjY3YzlkMjU2MDMwMWNhNg
+
+#EXTINF:-1,NFL Network HD
+http://142.4.216.60:1935/edge/_definst_/fzasab6vz02yuf7/playlist.m3u8?wowzasessionid=1419878830&xs=_we_Znphc2FiNnZ6MDJ5dWY3fDE0MTk5MTQ4MzB8fDU0YTFhMWFlODc0MTF8ZjhmMmU5ZGYwMGM3YTJkOWIwMDM3YWQzNmZjYWJkN2ZjMDA3ZWY1Mg
+
+#EXTINF:-1,NFL Network
+http://142.4.216.60:1935/edge/_definst_/fzasab6vz02yuf7/playlist.m3u8?wowzasessionid=1419878756&xs=_we_dmE3M3M4NnQ4Y2w1ZTczfDE0MTk5MTQ3NTZ8fDU0YTFhMTY0Y2M1ZDB8M2QyYTQ0OTU5NTE1MmZkMGRlODhiZmMzNjM2MmRlOTk1NDE5ZmJhNQ
+
+#EXTINF:-1,Golf Channel HD
+http://142.4.216.60:1935/edge/_definst_/ts6w24dx29tcwi4/playlist.m3u8?wowzasessionid=1420169504&xs=_we_bHcxa3VmaW0xa21pdDFofDE0MjAyMDU1MDR8NzIuMjcuMjE0LjMzfDU0YTYxMTIwYWY1YTh8ZTRmZmI3YTRmZmQwZmE2YmMxODA4YzVjYWE1ZGEzOTc4NzE3YjQwNg
+
+#EXTINF:-1,Golf channel
+http://142.4.216.60:1935/edge/_definst_/lw1kufim1kmit1h/playlist.m3u8?wowzasessionid=1420169504&xs=_we_bHcxa3VmaW0xa21pdDFofDE0MjAyMDU1MDR8NzIuMjcuMjE0LjMzfDU0YTYxMTIwYWY1YTh8ZTRmZmI3YTRmZmQwZmE2YmMxODA4YzVjYWE1ZGEzOTc4NzE3YjQwNg
+
+#EXTINF:-1,Fox News
+http://142.4.216.60:1935/edge/_definst_/w0mr10getvsikam/playlist.m3u8?wowzasessionid=1419873587&xs=_we_dzBtcjEwZ2V0dnNpa2FtfDE0MTk5MDk1ODd8NzIuMjcuMjE0LjMzfDU0YTE4ZDMzYTQ2NDd8NDRjMzIwMjIwOGUxZjZmNmFiODBiNjg3ZTAyNDlhMWQ0OTI4Njk1Ng
+
+#EXTINF:-1,Hallmark HD
+http://142.4.216.60:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236&xs=_we_bHcxa3VmaW0xa21pdDFofDE0MTk5MTAyMzZ8NzIuMjcuMjE0LjMzfDU0YTE4ZmJjOTVhMWN8MzJmYjg0MzMxMDZiMTlhNzNhNzY0M2JlNjBmNTdkZDJkYjEyMWFjNA
+
+#EXTINF:-1,HBO HD
+http://142.4.216.60:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571&xs=_we_cXpiYnUyNmdjdmp4a3N6fDE0MTk5MTU1NzF8NzIuMjcuMjE0LjMzfDU0YTFhNDkzYjMyNjd8NjE2ZDU3ZTQ5NDJhMWU0NDc2NTVlMGUzYzg3Nzc2ZTE2MmI0ZWJjZQ
+
+#EXTINF:-1,HBO
+
+http://142.4.216.60:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=1419907309&xs=_we_cXpiYnUyNmdjdmp4a3N6fDE0MTk5NDMzMDl8NzIuMjcuMjE0LjMzfDU0YTIxMGVkNTEyNmF8OGUzN2Q3OGJkNGZiNTBkOGU2ZmVlZTFiMzlkNjAxYWMyMzcyY2VmMg
+
+#EXTINF:-1,Showtime HD
+http://142.4.216.60:1935/edge/_definst_/bwbop58ixz281wv/playlist.m3u8?wowzasessionid=1419875151&xs=_we_Znphc2FiNnZ6MDJ5dWY3fDE0MTk5MTExNTF8NzIuMjcuMjE0LjMzfDU0YTE5MzRmYTllNTR8YjMwMjUzZmExNTA2YjViZjFhNDg2YjQwZjc2YWM5MWQ4ZDAzNWU0NQ
+
+#EXTINF:-1,Showtime Movie
+http://142.4.216.60:1935/edge/_definst_/s53jbkmyldngbks/playlist.m3u8?wowzasessionid=1419873587&xs=_we_dzBtcjEwZ2V0dnNpa2FtfDE0MTk5MDk1ODd8NzIuMjcuMjE0LjMzfDU0YTE4ZDMzYTQ2NDd8NDRjMzIwMjIwOGUxZjZmNmFiODBiNjg3ZTAyNDlhMWQ0OTI4Njk1N
+
+#EXTINF:-1,Jackie Chan (1991-2008)
+http://142.4.216.60:1935/edge/_definst_/aq6ijlszct7wfl4/playlist.m3u8?wowzasessionid=1420169797&xs=_we_YXE2aWpsc3pjdDd3Zmw0fDE0MjAyMDU3OTd8NzIuMjcuMjE0LjMzfDU0YTYxMjQ1OTE2YjF8ZGI5NjFlZTczZDQ2YzgzYzNlYjZkYjViN2FhYmU5ZWU3ZjMxODVjMA
+
+#EXTINF:-1,Jackie Chan movies (1979-1990)
+http://142.4.216.60:1935/edge/_definst_/gby01m6h4xd3lag/playlist.m3u8?wowzasessionid=1420169835&xs=_we_Z2J5MDFtNmg0eGQzbGFnfDE0MjAyMDU4MzV8NzIuMjcuMjE0LjMzfDU0YTYxMjZiOTdlZDB8ZDc4NWZiNTg0YzVjOGYyMjY4YmYyMGJjMmE2Yzc5MDAwNzM2MDlkYw
+
+#EXTINF:-1,Starz
+http://142.4.216.60:1935/edge/_definst_/jw0ygi8ojhsw1t3/playlist.m3u8?wowzasessionid=1420170032&xs=_we_OGc3eDgwb3p1Nmh6MmRzfDE0MjAyMDYwMzJ8NzIuMjcuMjE0LjMzfDU0YTYxMzMwNGUzMjJ8OGQ1OGI2ZTljMTJhZTVlNWQ2ZGU4MGVlMDU0ZDJjN2JkMTM3YTM5Nw
+
+#EXTINF:-1,HBO Comedy
+http://142.4.216.60:1935/edge/_definst_/a1wn1j3ra1w0cv0/playlist.m3u8?wowzasessionid=1419879335&xs=_we_YTF3bjFqM3JhMXcwY3YwfDE0MTk5MTUzMzV8NzIuMjcuMjE0LjMzfDU0YTFhM2E3OTJlOWZ8ODdjNjQyZWFjMWEzN2ZkYTA5MWZhYjc0Yjk4MDFiMWJiZTQ1MTViYQ
+
+#EXTINF:-1,StarZ movie channel
+http://142.4.216.60:1935/edge/_definst_/8g7x80ozu6hz2ds/playlist.m3u8?wowzasessionid=1419874554&xs=_we_OGc3eDgwb3p1Nmh6MmRzfDE0MTk5MTA1NTR8NzIuMjcuMjE0LjMzfDU0YTE5MGZhNTUwNjV8ZDM2MzAzYjkwYTE5MDBmMzhhOGM2YjE2ZDc4Mjk3ZDdkZjU0NDhlYw
+
+#EXTINF:-1, HD Movies
+http://142.4.216.60:1935/edge/_definst_/asn0crzhq351g0w/playlist.m3u8?wowzasessionid=1420171902&xs=_we_YXNuMGNyemhxMzUxZzB3fDE0MjAyMDc5MDJ8NzIuMjcuMjE0LjMzfDU0YTYxYTdlNWM2YzJ8ZDhkNjY0Yzc5MDA1ZTJmOTk1NmY2NDIzZGQ2OTdjYWQ0NTZkOGNjNQ
+
+#EXTINF:-1, HD Movies 2
+http://142.4.216.60:1935/edge/_definst_/3mu6xhoy4xa8l7w/playlist.m3u8?wowzasessionid=1420172620&xs=_we_M211Nnhob3k0eGE4bDd3fDE0MjAyMDg2MjB8NzIuMjcuMjE0LjMzfDU0YTYxZDRjNWRjMTF8YWMxODA2ZWExOTQ2ZjRmZjUyY2NlZDliYmFmMzg1M2ZhNjZkY2NiOA
+
+#EXTINF:-1, Drama Movies
+http://142.4.216.60:1935/edge/_definst_/ia7kfnih3r09lnx/playlist.m3u8?wowzasessionid=1420172214&xs=_we_aWE3a2ZuaWgzcjA5bG54fDE0MjAyMDgyMTR8NzIuMjcuMjE0LjMzfDU0YTYxYmI2ODIxMTB8ZDRlNzEzYTllMDZmZmUyMzA0MmVkNjRiOGY5ZTRkOWI5YmE2YjcwMQ
+
+#EXTINF:-1, Action Movies
+http://142.4.216.60:1935/edge/_definst_/8t7yzaodzxwqguu/playlist.m3u8?wowzasessionid=1420172322&xs=_we_OHQ3eXphb2R6eHdxZ3V1fDE0MjAyMDgzMjJ8NzIuMjcuMjE0LjMzfDU0YTYxYzIyODJiNGJ8NmE3YjYxMzJkYWFlMzQ1Y2VkZThjNTExN2QwOTg1OTBmZTEwMGExYQ
+
+#EXTINF:-1, Comedy Movies
+http://142.4.216.60:1935/edge/_definst_/z0r2suo285n8m0z/playlist.m3u8?wowzasessionid=1420172450&xs=_we_ejByMnN1bzI4NW44bTB6fDE0MjAyMDg0NTB8NzIuMjcuMjE0LjMzfDU0YTYxY2EyNjYxNzZ8ZjE3NmU4Nzk2NDk2ZDM1ODUxMzQxMWZkMGJlMDk1MzE0OWQwNWM5Nw
+
+#EXTINF:-1, Teenage Mutant Ninja Turtles
+http://142.4.216.60:1935/edge/_definst_/lg1jacdtav94uqv/playlist.m3u8?wowzasessionid=1420173668&xs=_we_bGcxamFjZHRhdjk0dXF2fDE0MjAyMDk2Njh8NzIuMjcuMjE0LjMzfDU0YTYyMTY0NWY2YTZ8MDUxMDJiNDVjOWRlZTU4ZmNiMjg0N2RiMDc4YjJhOWFhNzE5NmIyOA
+
+#EXTINF:-1, Curse of Chucky
+http://142.4.216.60:1935/edge/_definst_/ahqxz3o5puqph3c/playlist.m3u8?wowzasessionid=1420173743&xs=_we_YWhxeHozbzVwdXFwaDNjfDE0MjAyMDk3NDN8NzIuMjcuMjE0LjMzfDU0YTYyMWFmODI4ZmZ8MWZkYmExYzQ4ZTEwZGYxMGY4ODU4MTljOGQ5MDBmYmM4Yjg3OTA3MQ
+
+#EXTINF:-1,MSNBC
+http://142.4.216.60:1935/edge/_definst_/1ioc7taql4472xs/playlist.m3u8?wowzasessionid=1419874712&xs=_we_MWlvYzd0YXFsNDQ3MnhzfDE0MTk5MTA3MTJ8NzIuMjcuMjE0LjMzfDU0YTE5MTk4NzJjYjF8MjFmMjQ4Yjk3OGQzYjljOGEzOTUzNWI3NzQ0NDhkMTYxODhkZTYxZA
+
+#EXTINF:-1,MSNBC HD
+http://142.4.216.60:1935/edge/_definst_/1341ujtliqndod8/playlist.m3u8?wowzasessionid=1419874712&xs=_we_MWlvYzd0YXFsNDQ3MnhzfDE0MTk5MTA3MTJ8NzIuMjcuMjE0LjMzfDU0YTE5MTk4NzJjYjF8MjFmMjQ4Yjk3OGQzYjljOGEzOTUzNWI3NzQ0NDhkMTYxODhkZTYxZA
+
+#EXTINF:-1,TLC
+http://142.4.216.60:1935/edge/_definst_/iugceoy4o6ljhck/playlist.m3u8?wowzasessionid=1419907929&xs=_we_NnE0amxicXd2eHVpbmdvfDE0MTk5NDM5Mjl8NzIuMjcuMjE0LjMzfDU0YTIxMzU5YzNhNDl8NzlhMGE2NzE3M2RmZTE1NmNjMThhMmYyZDVjOTA3N2Q5OGU2YjNjMg
+
+
+#EXTINF:-1,Food Network HD
+http://142.4.216.60:1935/edge/_definst_/ibnnu7537h3ax6e/playlist.m3u8?wowzasessionid=1419873022&xs=_we_cWM2eGt6ZjRoNDhiejJlfDE0MTk5MDkwMjJ8NzIuMjcuMjE0LjMzfDU0YTE4YWZlNzAwMGJ8Y2FkMmFlNzUyZmRkYWM3NjIzYjA2MDM2ZWRlY2FlMDlmMjBhYmQzZg
+
+#EXTINF:-1,Food Network
+http://142.4.216.60:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022&xs=_we_cWM2eGt6ZjRoNDhiejJlfDE0MTk5MDkwMjJ8NzIuMjcuMjE0LjMzfDU0YTE4YWZlNzAwMGJ8Y2FkMmFlNzUyZmRkYWM3NjIzYjA2MDM2ZWRlY2FlMDlmMjBhYmQzZg
+
+#EXTINF:-1,HGTV
+http://142.4.216.60:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602&xs=_we_cXpiYnUyNmdjdmp4a3N6fDE0MTk4NDc2MDJ8NzIuMjcuMjE0LjMzfDU0YTA5YjEyMGE1YmZ8OTJhMTdmNDg3NGM4ODk2NWNhZGIxOWMwYWNhZWQzYzFmMDg4YzY5MQ
+
+#EXTINF:-1,History
+http://142.4.216.60:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554&xs=_we_OGc3eDgwb3p1Nmh6MmRzfDE0MTk5MTA1NTR8NzIuMjcuMjE0LjMzfDU0YTE5MGZhNTUwNjV8ZDM2MzAzYjkwYTE5MDBmMzhhOGM2YjE2ZDc4Mjk3ZDdkZjU0NDhlYw
+
+#EXTINF:-1,Investigation Discovery HD
+http://142.4.216.60:1935/edge/_definst_/yjma618cibkqxeo/playlist.m3u8?wowzasessionid=1420168729&xs=_we_aW1uOTAweTBzdmNyZHp1fDE0MjAyMDQ3Mjl8NzIuMjcuMjE0LjMzfDU0YTYwZTE5YzRjNzZ8NjQ5Y2VkYTk3MTI3ZmJhYTA5YWI3ZDdkYTEyYWM3ZDgzYTMzMjYwMg
+
+#EXTINF:-1,Lifetime HD
+http://142.4.216.60:1935/edge/_definst_/7b2gr554gyyth8e/playlist.m3u8?wowzasessionid=1419879018&xs=_we_MnFtaXdmeWRiajZ5dTg5fDE0MTk5MTUwMTh8fDU0YTFhMjZhYTVhZjl8MWVhMmFlNjIyY2RhZGM4MjFiYWI1ZjM2NjY3YzlkMjU2MDMwMWNhNg
+
+#EXTINF:-1,Discovery HD
+http://142.4.216.60:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569&xs=_we_cm83YzllaGEwejk2aHBwfDE0MTk5MDg1Njl8NzIuMjcuMjE0LjMzfDU0YTE4OTM5ZjJkMzN8YTI0NDkzYmNjNmJiM2NjYTQ4YTAzYWE4ODRjODY0M2M0ZThhMGVlOA
+
+#EXTINF:-1,Discovery Science HD
+http://142.4.216.60:1935/edge/_definst_/ajcjdksbd8wk32z/playlist.m3u8?wowzasessionid=1419872682&xs=_we_YWpjamRrc2JkOHdrMzJ6fDE0MTk5MDg2ODJ8NzIuMjcuMjE0LjMzfDU0YTE4OWFhN2I2YTh8MTI1Zjg1ZGY3OGYzMDgzY2RiN2RmOWNiNzQ5YTU1NjRlNzBlMTkyNQ
+
+#EXTINF:-1,Discovery
+http://142.4.216.60:1935/edge/_definst_/ro7c9eha0z96hpp/playlist.m3u8?wowzasessionid=1419872569&xs=_we_cm83YzllaGEwejk2aHBwfDE0MTk5MDg1Njl8NzIuMjcuMjE0LjMzfDU0YTE4OTM5ZjJkMzN8YTI0NDkzYmNjNmJiM2NjYTQ4YTAzYWE4ODRjODY0M2M0ZThhMGVlOA
+
+#EXTINF:-1,Science HD
+http://142.4.216.60:1935/edge/_definst_/00t250wv1d4ltib/playlist.m3u8?wowzasessionid=1420170626&xs=_we_cWFuOTZuYXNlbXU5eGZufDE0MjAyMDY2MjZ8NzIuMjcuMjE0LjMzfDU0YTYxNTgyMzg3MmJ8YjQxYTMwNTkzYTgzOGI2MWYyMTc2MDEzYmFlMGZjZDZlYjc5OGQ0Ng
+
+#EXTINF:-1,National Geographic
+http://142.4.216.60:1935/edge/_definst_/b8bav5ayzso8m8q/playlist.m3u8?wowzasessionid=1420170282&xs=_we_YjhiYXY1YXl6c284bThxfDE0MjAyMDYyODJ8NzIuMjcuMjE0LjMzfDU0YTYxNDJhNDM5YWF8NTVjODFmOGQzMGVmN2M3ODhlZjEyYWNmNWVkNWFhNjE0NjVlOWYyNQ
+
+#EXTINF:-1,National Geographic HD
+http://142.4.216.60:1935/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420170282&xs=_we_YjhiYXY1YXl6c284bThxfDE0MjAyMDYyODJ8NzIuMjcuMjE0LjMzfDU0YTYxNDJhNDM5YWF8NTVjODFmOGQzMGVmN2M3ODhlZjEyYWNmNWVkNWFhNjE0NjVlOWYyNQ
+
+#EXTINF:-1,National Geographic WILD HD
+http://142.4.216.60:1935/_definst_/200buzqbltv6mfc/playlist.m3u8?wowzasessionid=1420170918&xs=_we_MjAwYnV6cWJsdHY2bWZjfDE0MjAyMDY5MTh8NzIuMjcuMjE0LjMzfDU0YTYxNmE2OTI0M2R8ODk1NzI3NDk4NTYzZTlhNTNhODJkY2Q4MzQyN2YwYWExZjcxYmE4NA
+
+#EXTINF:-1,Animal Planet
+http://142.4.216.60:1935/_definst_/mp4ffvlqs2rpfz7/playlist.m3u8?wowzasessionid=1420171794&xs=_we_bXA0ZmZ2bHFzMnJwZno3fDE0MjAyMDc3OTR8NzIuMjcuMjE0LjMzfDU0YTYxYTEyMThjNWR8MGQyZmU4Y2IyZTVmMzFmN2I0ZDQ0MWUxZDFlMzJhYjE5NTZmYzBhNg
+
+#EXTINF:-1, CARTOON NETWORK
+http://142.4.216.60:1935/edge/_definst_/p78zj79dhlxx3ws/playlist.m3u8?wowzasessionid=1420123962&xs=_we_cDc4emo3OWRobHh4M3dzfDE0MjAxNTk5NjJ8NzIuMjcuMjE0LjMzfDU0YTU1ZjNhMGE0ZTd8NTY2OWZhYTFmYWViN2M0OWVlNWEzY2NkOWYwMGJjNzA1OTQ3YjcxMw
+
+#EXTINF:-1,Nickelodeon
+http://142.4.216.60:1935/edge/_definst_/q2hs5fqm8b039y0/playlist.m3u8?wowzasessionid=1420170368&xs=_we_cTJoczVmcW04YjAzOXkwfDE0MjAyMDYzNjh8NzIuMjcuMjE0LjMzfDU0YTYxNDgwYmM4NGF8MmZjYmQzNDQ5OTMwMzE3ZjIxN2U3ZTBhOTBkZjkzMzcyZjlhMTY1Ng
+
+#EXTINF:-1, Disney
+http://142.4.216.60:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412&xs=_we_MnRhZzRkemd3b2Y1bWEyfDE0MjAyMDY0MTJ8NzIuMjcuMjE0LjMzfDU0YTYxNGFjYjQwN2V8ZWMzN2Y0ZTg3OGE2ZDhmMzgyY2Y0ODhjMTgzOTYzMTVjNDVhMWVjMg
+
+#EXTINF:-1, Boomerang
+http://142.4.216.60:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170626&xs=_we_cWFuOTZuYXNlbXU5eGZufDE0MjAyMDY2MjZ8NzIuMjcuMjE0LjMzfDU0YTYxNTgyMzg3MmJ8YjQxYTMwNTkzYTgzOGI2MWYyMTc2MDEzYmFlMGZjZDZlYjc5OGQ0Ng
+
+#EXTINF:-1,Spike
+http://142.4.216.60:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529&xs=_we_c2F4Mm1xMmFscGlybnd3fDE0MTk5MTQ1Mjl8fDU0YTFhMDgxNWFmZjd8MzUzYjhmNmNhMmM1YmJmYWMwNjY0MDdiYzUzZGUwZTM1NzBjZGM2NA
+
+#EXTINF:-1,Syfy
+http://142.4.216.60:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403&xs=_we_b2VwejlxNW9pdmZsYmN3fDE0MTk5MTQ0MDN8fDU0YTFhMDAzNTYyYWF8MGU5MmY3YWI2ZmZiM2E2ZjMwNDNmYWY1MjdhMjE4ZTYyNjM4N2I3Zg
+
+#EXTINF:-1,Syfy HD
+http://142.4.216.60:1935/edge/_definst_/x7uii7mll2b7lh4/playlist.m3u8?wowzasessionid=1419878403&xs=_we_b2VwejlxNW9pdmZsYmN3fDE0MTk5MTQ0MDN8fDU0YTFhMDAzNTYyYWF8MGU5MmY3YWI2ZmZiM2E2ZjMwNDNmYWY1MjdhMjE4ZTYyNjM4N2I3Zg
+
+#EXTINF:-1,TBS
+http://142.4.216.60:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319&xs=_we_amg4bmowNjJicWJzeGRofDE0MTk5MTQzMTl8fDU0YTE5ZmFmNTJhZjh8OGQ3NTAzZWFkMDNmN2JmMmFiMTE1ZWRjZmRjMjFmNTgyOWM4M2Y4NA
+
+#EXTINF:-1,TNT HD
+http://142.4.216.60:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827&xs=_we_NnE0amxicXd2eHVpbmdvfDE0MjAxNjA4Mjd8NzIuMjcuMjE0LjMzfDU0YTU2MjliZGU4Zjh8ZDhjZjgzMzk0ZTNiODI4MzFiNDU3ZmE1MDk4ODdlZTMzZTJjZGYwNw
+
+#EXTINF:-1,TNT
+http://142.4.216.60:1935/edge/_definst_/6q4jlbqwvxuingo/playlist.m3u8?wowzasessionid=1420124827&xs=_we_NnE0amxicXd2eHVpbmdvfDE0MjAxNjA4Mjd8NzIuMjcuMjE0LjMzfDU0YTU2MjliZGU4Zjh8ZDhjZjgzMzk0ZTNiODI4MzFiNDU3ZmE1MDk4ODdlZTMzZTJjZGYwNw
+
+#EXTINF:-1,TruTV HD
+http://142.4.216.60:1935/edge/_definst_/uhnr4161ybioa5w/playlist.m3u8?wowzasessionid=1420124955&xs=_we_aDVlb3ZhajFqZWVnbHVxfDE0MjAxNjA5NTV8NzIuMjcuMjE0LjMzfDU0YTU2MzFiMGExMzJ8ZTI3MjlkOTQ0NmFmYTJjMDU5NjQ5NTg5OWQwNDdmYzI5Y2VkNDRjMA
+
+#EXTINF:-1,TV Land
+http://142.4.216.60:1935/edge/_definst_/7yxirr4046nk5ca/playlist.m3u8?wowzasessionid=1419908401&xs=_we_aDVlb3ZhajFqZWVnbHVxfDE0MTk5NDQ0MDF8NzIuMjcuMjE0LjMzfDU0YTIxNTMxNjFlOGF8MDY4MjljMzE1NWQwMmEwNDNiZmQ1MjJiZWQzNzgzYjA0MGY1YjU0YQ
+
+#EXTINF:-1,USA Network
+http://142.4.216.60:1935/edge/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420170509&xs=_we_aDVlb3ZhajFqZWVnbHVxfDE0MjAyMDY1MDl8NzIuMjcuMjE0LjMzfDU0YTYxNTBkYTRjNDR8ZDBkMTQwYWQ0NWI5M2JmMWEwYTBmZDMxNGRkYzBkNDljMTIwZjcxYg
+
+#EXTINF:-1,VH1
+http://142.4.216.60:1935:1935/edge/_definst_/oeiigxxv1gbeqq9/playlist.m3u8?wowzasessionid=1420170560&xs=_we_b2VpaWd4eHYxZ2JlcXE5fDE0MjAyMDY1NjB8NzIuMjcuMjE0LjMzfDU0YTYxNTQwNDRkMDl8NTQ0Mzg0MmU4ZDU1YjU1M2I5N2RjZjU4YzhhNjNkOTg5YjMwMTY2NA
+
+#EXTINF:-1, MTV
+http://142.4.216.60:1935:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062&xs=_we_ZDJ6MXZjNGFocmw2eDI2fDE0MjAyMDcwNjJ8NzIuMjcuMjE0LjMzfDU0YTYxNzM2OGE4ODl8NDAyY2I4NjFkNzk5YmY5ZTA5MzFlZTEyZTQ1NTBiOWY5OGQ1NzQ4OQ
+
+#EXTINF:-1,NCIS all seasons
+http://142.4.216.60:1935/edge/_definst_/866l7jy73xntgpa/playlist.m3u8?wowzasessionid=1419879488&xs=_we_ODY2bDdqeTczeG50Z3BhfDE0MTk5MTU0ODh8NzIuMjcuMjE0LjMzfDU0YTFhNDQwODJhODN8MmYzYzBiOTcwNjU0MjY3MWQ4NDQwZjY0ZTNmZjNjNTg1NTY5OWMxNw
+
+#EXTINF:-1, JNN
+http://rjr_flash-lh.akamaihd.net/i/jnn_1@177149/master.m3u8?b?b*t$
+
+#EXTINF:-1, Viasat History
+http://83.139.104.123/Content/HLS/Live/Channel(viasat_history)/Stream(03)/index.m3u8?b?b*t$
+
+#EXTINF: -1, Hunting and Fishing
+http://46.44.3.20:5555/udp/239.0.2.50:1234
+
+#EXTINF:-1, FilmBox DocuBox
+http://stream1.zoovision.com//livespi/docubox/playlist.m3u8?b?b*t$
+
+#EXTINF:-1, Baby First
+
+http://202.75.23.33/live/ch27/03.m3u8?b?b*t$
+
+#EXTINF:-1, English Club TV
+http://85.187.154.9:2001/?b?b*t$
+
+#EXTINF:-1, BBC two
+http://81.23.58.184:8080/udp/0.0.0.0:20015?b?b*t$
+
+#EXTINF:-1, EVE
+http://202.75.23.34/live/ch34/03.m3u8?b?b*t$
+
+#EXTINF:-1, Fashion TV.
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8?b?b*t$
+
+#EXTINF:-1, GINX
+rtmp://204.107.26.252:8086/live/796.high.stream?b?b*t$
+
+#EXTINF:-1, BBC World News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8?b?b*t$
+
+#EXTINF:-1, Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+
+#EXTINF:-1, Bloomberg TV
+http://hd4.lsops.net/live/bloomber_en_hls.smil/chunklist_w976476961_b453000.m3u8?b?b*t$
+
+#EXTINF:-1,SMASH HITS
+http://csm-e.cds1.yospace.com/csm/live/86561609.m3u8
+
+#EXTINF:-1,KISS TV
+http://csm-e.cds1.yospace.com/csm/live/86561716.m3u8
+
+#EXTINF:-1,4MUSIC
+http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8
+
+#EXTINF:0,CNN
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+
+#EXTINF:-1,discovery world hd
+http://202.75.23.34:1400/live/ch30/03.m3u8
+
+#EXTINF:-1,cartoon ch 3 usa
+http://62.210.76.216:8080/hls/archerxhd.m3u8
+
+#EXTINF:-1,king of the hill hd
+
+http://62.210.76.216:8080/hls/kinghillhxd.m3u8
+
+#EXTINF:-1,archerxhd
+http://62.210.76.216:8080/hls/archerxhd.m3u8
+
+#EXTINF:-1,cartman hd
+http://62.210.76.216:8080/hls/cartmanhd.m3u8
+
+#EXTINF:0,NatGeo Wild
+
+http://202.75.23.35/live/ch39/01.m3u8
+
+#EXTINF:0,Discovery Channel
+http://202.75.23.34:1400/live/ch29/02.m3u8
+
+#EXTINF:0,Discovery Channel
+http://202.75.23.34/live/ch29/01.m3u8
+
+#EXTINF:0,Discovery Science
+http://202.75.23.34:1400/live/ch33/03.m3u8
+
+#EXTINF:0,Discovery Science
+http://202.75.23.34/live/ch33/01.m3u8
+
+#EXTINF:0,Discovery World
+http://202.75.23.34:1400/live/ch30/03.m3u8
+
+#EXTINF:0,Discovery World
+http://202.75.23.34/live/ch30/01.m3u8
+
+#EXTINF: -1, Hunting and Fishing
+http://46.44.3.20:5555/udp/239.0.2.50:1234
