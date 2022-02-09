@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTCG 1" tvg-country="ME" tvg-language="Montenegrin" tvg-logo="https://i.ibb.co/w74PxKc/RTCG1logo.png" group-title="General",RTCG 1
+http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTCG 2" tvg-country="ME" tvg-language="Montenegrin" tvg-logo="https://i.ibb.co/q5bwBk1/RTCG2logo.png" group-title="General",RTCG 2
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTCG SAT" tvg-country="ME" tvg-language="Montenegrin" tvg-logo="https://i.ibb.co/W2BbG9N/RTCGsatlogo.png" group-title="General",RTCG SAT
+http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HRT1" tvg-name="HRT 1" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="General",HRT 1
+http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
+#EXTINF:-1 tvg-id="HRT2" tvg-name="HRT 2" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="General",HRT 2
+http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
+#EXTINF:-1 tvg-id="HRT3" tvg-name="HRT 3" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/0hrv92c.png" group-title="General",HRT 3
+http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
+#EXTINF:-1 tvg-id="HRT4" tvg-name="HRT 4" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="General",HRT 4
+http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
+#EXTINF:-1 tvg-id="RAI4K" tvg-name="Rai 4K" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/lMYm1hC.png" group-title="General",Rai 4K
+https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:-1 tvg-id="RAI1" tvg-name="Rai 1" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/2UDFbGd.png" group-title="General",Rai Uno
+http://ott-cdn.ucom.am:80/s29/04.m3u8
+#EXTINF:-1 tvg-id="RAI3" tvg-name="Rai 3" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/Vy7mpmW.png" group-title="General",Rai Tre
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1 tvg-id="AJB" tvg-name="Al Jazeera Balkans" tvg-country="BA;HR;MK;ME;RS;SI" tvg-language="Bosnian;Serbian;Croatian;Montenegrin" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Al_Jazeera_Balkans.png/220px-Al_Jazeera_Balkans.png" group-title="General",Al Jazeera Balkans
+#EXTINF:-1 tvg-id="BBCWN" tvg-name="BBC World News" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="General",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="General",CNN International
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/u3iPFUh.png" group-title="General",CBS News
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/701a2a7e-bc0b-4b81-aeab-c600f600c049:GRQ/master.m3u8
