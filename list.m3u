@@ -22,24 +22,24 @@ http://ott-cdn.ucom.am:80/s29/04.m3u8
 #EXTINF:-1 tvg-id="RAI3" tvg-name="Rai 3" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/Vy7mpmW.png" group-title="General",Rai Tre
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 tvg-id="AJB" tvg-name="Al Jazeera Balkans" tvg-country="BA;HR;MK;ME;RS;SI" tvg-language="Bosnian;Serbian;Croatian;Montenegrin" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Al_Jazeera_Balkans.png/220px-Al_Jazeera_Balkans.png" group-title="General",Al Jazeera Balkans
-#EXTINF:-1 tvg-id="CNNUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="General",CNN (US)
+#EXTINF:-1 tvg-id="CNNUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/Gk9g2w2/cnn.png" group-title="General",CNN (US)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="BBCWN" tvg-name="BBC World News" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="General",BBC World News
-https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCWN" tvg-name="BBC World News" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/1QnssrV/bbcwn.png" group-title="General",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="General",CNN International
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/u3iPFUh.png" group-title="General",CBS News
 https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/701a2a7e-bc0b-4b81-aeab-c600f600c049:GRQ/master.m3u8
 #EXTINF:-1 tvg-id="VH1.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/VH1_2020.png" group-title="United States",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 tvg-id="WNYWTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OfGcsUO.png" group-title="General",FOX 5 NY
+#EXTINF:-1 tvg-id="WNYWTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/KyDxq9M/fox5ny.png" group-title="General",FOX 5 NY
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
-#EXTINF:-1 tvg-id="ABCNews.us" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="General",ABC News
+#EXTINF:-1 tvg-id="ABCNews.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/VYGVVDb/abc.png" group-title="General",ABC News
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" group-title="General" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Business",Bloomberg TV Europe (2160p)
-#EXTINF:-1 tvg-id="TVSLOVENIJA1.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/3t60yS0.png" group-title="Slovenia",TV SLO 1 (1080p)
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" group-title="General" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="General",Bloomberg TV Europe (2160p)
+#EXTINF:-1 tvg-id="TVSLOVENIJA1.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.ibb.co/qpHB5Rx/TV-SLO-1-HD.png" group-title="General",TV SLO 1 (1080p)
 https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSLOVENIJA2.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/QweABvP.png" group-title="Slovenia",TV SLO 2 (1080p)
+#EXTINF:-1 tvg-id="TVSLOVENIJA2.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.ibb.co/mCLfqP3/TV-SLO-2-HD.png" group-title="General",TV SLO 2 (1080p)
 https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSLOVENIJA3.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/uO0QUzi.png" group-title="Slovenia",TV SLO 3 (720p)
+#EXTINF:-1 tvg-id="TVSLOVENIJA3.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.ibb.co/PG6hxw9/TV-SLO-3-HD.png" group-title="General",TV SLO 3 (720p)
 https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
