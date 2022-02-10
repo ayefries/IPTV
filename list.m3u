@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RTCG 1" tvg-country="ME" tvg-language="Montenegrin" tvg-logo="https://i.ibb.co/w74PxKc/RTCG1logo.png" group-title="General",RTCG 1
+#EXTINF:-1 tvg-id="RTCG 1" tvg-country="ME" tvg-language="Montenegrin" tvg-logo="https://i.ibb.co/Qm0H9R1/Frame-3.png" group-title="General",RTCG 1
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTCG 2" tvg-country="ME" tvg-language="Montenegrin" tvg-logo="https://i.ibb.co/q5bwBk1/RTCG2logo.png" group-title="General",RTCG 2
+#EXTINF:-1 tvg-id="RTCG 2" tvg-country="ME" tvg-language="Montenegrin" tvg-logo="https://i.ibb.co/Z2PLXKz/Frame-2.png" group-title="General",RTCG 2
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTCG SAT" tvg-country="ME" tvg-language="Montenegrin" tvg-logo="https://i.ibb.co/W2BbG9N/RTCGsatlogo.png" group-title="General",RTCG SAT
 http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
@@ -13,6 +13,8 @@ http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
 #EXTINF:-1 tvg-id="HRT4" tvg-name="HRT 4" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="General",HRT 4
 http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
+#EXTINF:-1 tvg-id="n1.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="General",N1 RS
+https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
 #EXTINF:-1 tvg-id="RAI4K" tvg-name="Rai 4K" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/lMYm1hC.png" group-title="General",Rai 4K
 https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-id="RAI1" tvg-name="Rai 1" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/2UDFbGd.png" group-title="General",Rai Uno
@@ -20,9 +22,24 @@ http://ott-cdn.ucom.am:80/s29/04.m3u8
 #EXTINF:-1 tvg-id="RAI3" tvg-name="Rai 3" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/Vy7mpmW.png" group-title="General",Rai Tre
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 tvg-id="AJB" tvg-name="Al Jazeera Balkans" tvg-country="BA;HR;MK;ME;RS;SI" tvg-language="Bosnian;Serbian;Croatian;Montenegrin" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Al_Jazeera_Balkans.png/220px-Al_Jazeera_Balkans.png" group-title="General",Al Jazeera Balkans
+#EXTINF:-1 tvg-id="CNNUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="General",CNN (US)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="BBCWN" tvg-name="BBC World News" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="General",BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="General",CNN International
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/u3iPFUh.png" group-title="General",CBS News
 https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/701a2a7e-bc0b-4b81-aeab-c600f600c049:GRQ/master.m3u8
+#EXTINF:-1 tvg-id="VH1.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/VH1_2020.png" group-title="United States",VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 tvg-id="WNYWTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OfGcsUO.png" group-title="General",FOX 5 NY
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
+#EXTINF:-1 tvg-id="ABCNews.us" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="General",ABC News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" group-title="General" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Business",Bloomberg TV Europe (2160p)
+#EXTINF:-1 tvg-id="TVSLOVENIJA1.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/3t60yS0.png" group-title="Slovenia",TV SLO 1 (1080p)
+https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSLOVENIJA2.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/QweABvP.png" group-title="Slovenia",TV SLO 2 (1080p)
+https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSLOVENIJA3.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/uO0QUzi.png" group-title="Slovenia",TV SLO 3 (720p)
+https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
