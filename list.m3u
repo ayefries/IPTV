@@ -25,18 +25,21 @@ http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/Gk9g2w2/cnn.png" group-title="General",CNN (US)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="BBCWN" tvg-name="BBC World News" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/1QnssrV/bbcwn.png" group-title="General",BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="General",CNN International
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/u3iPFUh.png" group-title="General",CBS News
-https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/701a2a7e-bc0b-4b81-aeab-c600f600c049:GRQ/master.m3u8
-#EXTINF:-1 tvg-id="VH1.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/VH1_2020.png" group-title="General",VH1
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 tvg-id="WNYWTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/KyDxq9M/fox5ny.png" group-title="General",FOX 5 NY
+#EXTINF:-1 tvg-id="WCBSNY" tvg-name="CBS News" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YaSDbst.png" group-title="General",CBS News 2 NY
+https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+#EXTINF:-1 tvg-id="WNYWTV" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/KyDxq9M/fox5ny.png" group-title="General",FOX 5 NY (broken)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
-#EXTINF:-1 tvg-id="ABCNews.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/VYGVVDb/abc.png" group-title="General",ABC News
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" group-title="General" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="General",Bloomberg TV Europe (2160p)
+#EXTINF:-1 tvg-id="WABCNY" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/5xQ2r9t/abc7.png" group-title="General",ABC 7 24/7
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:-1 tvg-id="WPIX" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZYmBFhO.png" group-title="General",PIX11 Plus
+https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" group-title="General" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="General",Bloomberg TV Europe
+https://bloomberg-bloombergtv-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FOXNews" group-title="General" tvg-name="FOX News" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/640px-Fox_News_Channel_logo.svg.png" group-title="General",FOX News
+http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSLOVENIJA1.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.ibb.co/qpHB5Rx/TV-SLO-1-HD.png" group-title="General",TV SLO 1 (1080p)
 https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSLOVENIJA2.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.ibb.co/mCLfqP3/TV-SLO-2-HD.png" group-title="General",TV SLO 2 (1080p)
