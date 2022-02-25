@@ -1,5 +1,6 @@
 # IPTV
 just random IPTV channels I find, better to have a collection. You can also use this as a sample for your own m3u files.
+If it's not enough for you, move on. This list prefers quality, and not quantity.
 
 ## Channel organisation
 **First section**: 
