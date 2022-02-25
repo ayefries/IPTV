@@ -1,75 +1,75 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="RTCG 1" tvg-country="ME" tvg-language="Montenegrin" tvg-logo="https://i.ibb.co/Qm0H9R1/Frame-3.png" group-title="General",RTCG 1
+#EXTM3U url-tvg="http://m3u4u.com/epg/5g28nevgxvc2pp6yzpe9"
+#EXTINF:-1 tvg-id="TVCG1.me" tvg-name="RTCG 1" tvg-logo="https://i.ibb.co/Qm0H9R1/Frame-3.png" group-title="General",RTCG 1
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTCG 2" tvg-country="ME" tvg-language="Montenegrin" tvg-logo="https://i.ibb.co/Z2PLXKz/Frame-2.png" group-title="General",RTCG 2
+#EXTINF:-1 tvg-id="TVCG2.me" tvg-name="RTCG 2" tvg-logo="https://i.ibb.co/Z2PLXKz/Frame-2.png" group-title="General",RTCG 2
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTCG SAT" tvg-country="ME" tvg-language="Montenegrin" tvg-logo="https://i.ibb.co/W2BbG9N/RTCGsatlogo.png" group-title="General",RTCG SAT
+#EXTINF:-1 tvg-id="TVCGSat.me" tvg-name="RTCG SAT" tvg-logo="https://i.ibb.co/jgbPVLM/rtcgsat.png" group-title="General",RTCG SAT
 http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HRT1" tvg-name="HRT 1" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="General",HRT 1
+#EXTINF:-1 tvg-id="HRT1.hr" tvg-name="HRT 1" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="General",HRT 1
 http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
-#EXTINF:-1 tvg-id="HRT2" tvg-name="HRT 2" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="General",HRT 2
+#EXTINF:-1 tvg-id="HRT2.hr" tvg-name="HRT 2" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="General",HRT 2
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
-#EXTINF:-1 tvg-id="HRT3" tvg-name="HRT 3" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/0hrv92c.png" group-title="General",HRT 3
+#EXTINF:-1 tvg-id="HRT3.hr" tvg-name="HRT 3" tvg-logo="https://i.ibb.co/5k9gjxj/HRT3-Logo-aktuell.png" group-title="General",HRT 3
 http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
-#EXTINF:-1 tvg-id="HRT4" tvg-name="HRT 4" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="General",HRT 4
+#EXTINF:-1 tvg-id="HRT4.hr" tvg-name="HRT 4" tvg-logo="https://i.ibb.co/pn2kvP2/HRT4-logo.png" group-title="General",HRT 4
 http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
-#EXTINF:-1 tvg-id="n1.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="General",N1 RS
+#EXTINF:-1 tvg-id="N1Srbija.rs" tvg-name="N1 RS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/N1_Info_logo.svg/1280px-N1_Info_logo.svg.png" group-title="General",N1 RS
 https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
-#EXTINF:-1 tvg-id="RAI1" tvg-name="Rai 1" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/2UDFbGd.png" group-title="General",Rai Uno
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://i.imgur.com/2UDFbGd.png" group-title="General",Rai 1
 http://ott-cdn.ucom.am:80/s29/04.m3u8
-#EXTINF:-1 tvg-id="RAI3" tvg-name="Rai 3" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/Vy7mpmW.png" group-title="General",Rai Tre
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://i.imgur.com/Vy7mpmW.png" group-title="General",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1 tvg-id="AJB" tvg-name="Al Jazeera Balkans" tvg-country="BA;HR;MK;ME;RS;SI" tvg-language="Bosnian;Serbian;Croatian;Montenegrin" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Al_Jazeera_Balkans.png/220px-Al_Jazeera_Balkans.png" group-title="General",Al Jazeera Balkans
+#EXTINF:-1 tvg-id="AlJazeeraBalkans.qa" tvg-name="Al Jazeera Balkans" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Al_Jazeera_Balkans.png/220px-Al_Jazeera_Balkans.png" group-title="General",Al Jazeera Balkans
 http://live-hls-web-ajb.getaj.net/AJB/01.m3u8
-#EXTINF:-1 tvg-id="TVSLOVENIJA1.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.ibb.co/qpHB5Rx/TV-SLO-1-HD.png" group-title="General",TV SLO 1 (1080p)
+#EXTINF:-1 tvg-id="TVSlovenija1.si" tvg-name="TV SLO 1 (1080p)" tvg-logo="https://i.ibb.co/qpHB5Rx/TV-SLO-1-HD.png" group-title="General",TV SLO 1 (1080p)
 https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSLOVENIJA2.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.ibb.co/mCLfqP3/TV-SLO-2-HD.png" group-title="General",TV SLO 2 (1080p)
+#EXTINF:-1 tvg-id="TVSlovenija2.si" tvg-name="TV SLO 2 (1080p)" tvg-logo="https://i.ibb.co/mCLfqP3/TV-SLO-2-HD.png" group-title="General",TV SLO 2 (1080p)
 https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSLOVENIJA3.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.ibb.co/PG6hxw9/TV-SLO-3-HD.png" group-title="General",TV SLO 3 (720p)
+#EXTINF:-1 tvg-id="TVSlovenija3.si" tvg-name="TV SLO 3 (720p)" tvg-logo="https://i.ibb.co/PG6hxw9/TV-SLO-3-HD.png" group-title="General",TV SLO 3 (720p)
 https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-id="WCBS" tvg-name="WCBS-TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/B3NcrHm/wcbs.png" group-title="General",CBS 2 NY (WCBS-DT1)
+#EXTINF:-1 tvg-id="WCBSDT1.us" tvg-name="CBS 2 NY (WCBS)" tvg-logo="https://i.ibb.co/B3NcrHm/wcbs.png" group-title="General",CBS 2 NY (WCBS)
 https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNBC-DT1" tvg-country="US" tvg-language="English" tvg-logo="https://pbs.twimg.com/profile_images/767715187491217408/rEi3ozQZ_400x400.jpg" group-title="General",NBC 4 NY (WNBC-DT1)
+#EXTINF:-1 tvg-id="WNBCDT1.us" tvg-name="NBC 4 NY (WNBC-DT1)" tvg-logo="https://pbs.twimg.com/profile_images/767715187491217408/rEi3ozQZ_400x400.jpg" group-title="General",NBC 4 NY (WNBC-DT1)
 https://v-ny.theus6tv.tk/hls/4.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNBC-DT2" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/M1VyKBm/cozi.png" group-title="General",Cozi TV (WNBC-DT2)
+#EXTINF:-1 tvg-id="WNBCDT2.us" tvg-name="Cozi TV 4.2 (WNBC-DT2)" tvg-logo="https://i.ibb.co/M1VyKBm/cozi.png" group-title="General",Cozi TV 4.2 (WNBC-DT2)
 https://v-ny.theus6tv.tk/hls/4.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WNYW" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/KyDxq9M/fox5ny.png" group-title="General",FOX 5 NY (WNYW-DT1)
+#EXTINF:-1 tvg-id="WNYWDT1.us" tvg-name="FOX 5 NY (WNYW-DT1)" tvg-logo="https://i.ibb.co/xDk4qyg/fox5ny.png" group-title="General",FOX 5 NY (WNYW-DT1)
 https://v-ny.theus6tv.tk/hls/5.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WABC" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/5xQ2r9t/abc7.png" group-title="General",ABC 7 NY (WABC)
+#EXTINF:-1 tvg-id="WABCDT1.us" tvg-name="ABC 7 NY (WABC-DT1)" tvg-logo="https://i.ibb.co/5xQ2r9t/abc7.png" group-title="General",ABC 7 NY (WABC-DT1)
 https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WPIX-DT4" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/hyqgzwM/rewind.png" group-title="General",Rewind TV (WPIX-DT4)
+#EXTINF:-1 tvg-id="WPIXDT4.us" tvg-name="Rewind TV 11.4 (WPIX-DT4)" tvg-logo="https://i.ibb.co/hyqgzwM/rewind.png" group-title="General",Rewind TV 11.4 (WPIX-DT4)
 https://v-ny.theus6tv.tk/hls/11.4/playlist.m3u8
-#EXTINF:-1 tvg-id="WNET-DT1" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/4PfgqCm/wnet.png" group-title="General",PBS Thirteen (WNET-DT1)
+#EXTINF:-1 tvg-id="WNETDT1.us" tvg-name="PBS Thirteen (WNET-DT1)" tvg-logo="https://i.ibb.co/4PfgqCm/wnet.png" group-title="General",PBS Thirteen (WNET-DT1)
 https://v-ny.theus6tv.tk/hls/13.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNET-DT2" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1280px-PBS_Kids_Logo.svg.png" group-title="General",PBS Kids 13.1 (WNET-DT2)
+#EXTINF:-1 tvg-id="WNETDT2.us" tvg-name="PBS Kids 13.1 (WNET-DT2)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1280px-PBS_Kids_Logo.svg.png" group-title="General",PBS Kids 13.1 (WNET-DT2)
 https://v-ny.theus6tv.tk/hls/13.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WLIW-DT1" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/MDGk6tP/wliw21.png" group-title="General",PBS WLIW 21 (WLIW-DT1)
+#EXTINF:-1 tvg-id="WLIWDT1.us" tvg-name="PBS WLIW 21 (WLIW-DT1)" tvg-logo="https://i.ibb.co/MDGk6tP/wliw21.png" group-title="General",PBS WLIW 21 (WLIW-DT1)
 https://v-ny.theus6tv.tk/hls/21.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WLIW-DT2" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/nk081xB/createtv.png" group-title="General",Create TV 21.2 (WLIW-DT2)
+#EXTINF:-1 tvg-id="WLIWDT2.us" tvg-name="Create TV 21.2 (WLIW-DT2)" tvg-logo="https://i.ibb.co/nk081xB/createtv.png" group-title="General",Create TV 21.2 (WLIW-DT2)
 https://v-ny.theus6tv.tk/hls/21.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WLIW-DT3" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/nk081xB/createtv.png" group-title="General",PBS World 21.3 (WLIW-DT3)
+#EXTINF:-1 tvg-id="WLIWDT3.us" tvg-name="PBS World 21.3 (WLIW-DT3)" tvg-logo="https://i.ibb.co/b6BgPBf/pbsworld.png" group-title="General",PBS World 21.3 (WLIW-DT3)
 https://v-ny.theus6tv.tk/hls/21.3/playlist.m3u8
-#EXTINF:-1 tvg-id="WLIW-DT4" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/JQpnnDM/allarts.png" group-title="General",All Arts 21.4 (WLIW-DT4)
+#EXTINF:-1 tvg-id="WLIWDT4.us" tvg-name="All Arts 21.4 (WLIW-DT4)" tvg-logo="https://i.ibb.co/JQpnnDM/allarts.png" group-title="General",All Arts 21.4 (WLIW-DT4)
 https://v-ny.theus6tv.tk/hls/21.4/playlist.m3u8
-#EXTINF:-1 tvg-id="WNYE-DT1" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/W23pntn/nyclife.png" group-title="General",NYC Life 25.1 (WNYE-DT1)
+#EXTINF:-1 tvg-id="WNYEDT1.us" tvg-name="NYC Life 25.1 (WNYE-DT1)" tvg-logo="https://i.ibb.co/W23pntn/nyclife.png" group-title="General",NYC Life 25.1 (WNYE-DT1)
 https://v-ny.theus6tv.tk/hls/25.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNYE-DT2" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/HqpRdDm/nycgov.png" group-title="General",NYC Gov 25.2 (WNYE-DT2)
+#EXTINF:-1 tvg-id="WNYEDT2.us" tvg-name="NYC Gov 25.2 (WNYE-DT2)" tvg-logo="https://i.ibb.co/HqpRdDm/nycgov.png" group-title="General",NYC Gov 25.2 (WNYE-DT2)
 https://v-ny.theus6tv.tk/hls/25.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WNYE-DT3" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/CUNY_TV_Logo_2017.jpg" group-title="General",CUNY TV 25.3 (WNYE-DT3)
+#EXTINF:-1 tvg-id="WNYEDT3.us" tvg-name="CUNY TV 25.3 (WNYE-DT3)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/CUNY_TV_Logo_2017.jpg" group-title="General",CUNY TV 25.3 (WNYE-DT3)
 https://v-ny.theus6tv.tk/hls/25.3/playlist.m3u8
-#EXTINF:-1 tvg-id="WPXN-DT4" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/Rg5bD4B/defy.png" group-title="General",Defy TV 31.4 (WPXN-DT4)
+#EXTINF:-1 tvg-id="WPXNDT4.us" tvg-name="Defy TV 31.4 (WPXN-DT4)" tvg-logo="https://i.ibb.co/Rg5bD4B/defy.png" group-title="General",Defy TV 31.4 (WPXN-DT4)
 https://v-ny.theus6tv.tk/hls/31.4/playlist.m3u8
-#EXTINF:-1 tvg-id="WMBQ-CD" tvg-country="US" tvg-language="English" tvg-logo="https://publicfiles.fcc.gov/api/manager/download/entity/logo/14322/tv" group-title="General",First Nations Experience 46 (WMBQ-CD)
+#EXTINF:-1 tvg-id="WMBQCD1.us" tvg-name="First Nations Experience 46 (WMBQ-CD)" tvg-logo="https://publicfiles.fcc.gov/api/manager/download/entity/logo/14322/tv" group-title="General",First Nations Experience 46 (WMBQ-CD)
 https://v-ny.theus6tv.tk/hls/46.1/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png" group-title="General",CNN (US)
+#EXTINF:-1 tvg-id="CNNUSA.us" tvg-name="CNN (US)" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png" group-title="General",CNN (US)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="BBCWN" tvg-name="BBC World News" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/1QnssrV/bbcwn.png" group-title="General",BBC World News
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://i.ibb.co/GWTVrFk/bbcwn.png" group-title="General",BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="General",CNN International
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-name="CNN International Europe" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="General",CNN International Europe
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="CBSNNY" tvg-name="CBS News NY" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YaSDbst.png" group-title="General",CBS News NY
+#EXTINF:-1 tvg-id="CBSNewsNY.us" tvg-name="CBSN NY" tvg-logo="https://i.imgur.com/YaSDbst.png" group-title="General",CBSN NY
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
-#EXTINF:-1 tvg-id="ABC7247" tvg-name="CBS News NY" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/nQLBmtL/abcnews.png" group-title="General",ABC News 24/7 NY
+#EXTINF:-1 tvg-id="ABC7247" tvg-name="ABC News NY 24/7" tvg-logo="https://i.ibb.co/nQLBmtL/abcnews.png" group-title="General",ABC News NY 24/7
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
-#EXTINF:-1 tvg-id="FOXNews" group-title="General" tvg-name="FOX News" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/640px-Fox_News_Channel_logo.svg.png" group-title="General",FOX News
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/640px-Fox_News_Channel_logo.svg.png" group-title="General",FOX News
 http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
