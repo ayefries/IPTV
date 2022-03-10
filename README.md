@@ -2,14 +2,13 @@
 just random IPTV channels I find, better to have a collection. You can also use this as a sample for your own m3u files.
 If it's not enough for you, move on. This list prefers quality, and not quantity.
 
-## Channel organisation
-**First section**: 
+## Channel organisation / tvg groups
+**Section 1 🇲🇪🇪🇺🇺🇳**: 
 - Montenegrin public television, RTCG 1, 2, SAT, no Parliament for now :(
 - Channels from Yugoslavia, such as HRT, N1 Serbia, Al Jazeera Balkans, TV Slovenia
-- Italian channels (Rai 1 and 3 for now)
+- International channels such CNN International, BBC World News, CNBC World
+- Channels from the rest of Europe
 
-**Second section**:
+**Section 2 🇺🇸**:
 - Local channels from the Northeastern US Tri-state Area (mainly New York)
-- US national, US local streaming and general international channels
-
-*US national will probably have its own section soon, as local tristate channels are done, so my next goal is getting some US national channels*
+- US national and 24/7 local channels
