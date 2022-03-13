@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/5g28nevgxvc2pp6yzpe9"
+#EXTM3U url-tvg="http://m3u4u.com/epg/jwmzn17rk7t2rp6n7214"
 #EXTINF:-1 tvg-id="TVCG1.me" tvg-name="RTCG 1" tvg-logo="https://i.ibb.co/Qm0H9R1/Frame-3.png" group-title="Section 1",RTCG 1
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCG2.me" tvg-name="RTCG 2" tvg-logo="https://i.ibb.co/Z2PLXKz/Frame-2.png" group-title="Section 1",RTCG 2
@@ -45,7 +45,7 @@ https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EU
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-name="CNN International Europe" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="Section 1",CNN International Europe
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="CNBC World" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/400px-CNBC_logo.svg.png" group-title="Section 1",CNBC World
+#EXTINF:-1 tvg-id="CNBCEurope.us" tvg-name="CNBC Europe" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/400px-CNBC_logo.svg.png" group-title="Section 1",CNBC Europe
 http://ott-cdn.ucom.am/s65/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-name="Euronews English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/440px-Euronews_2016_logo.svg.png" group-title="Section 1",Euronews English
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
