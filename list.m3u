@@ -31,7 +31,7 @@ http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8?hdnea=st=1647004011~exp=1647004161~acl=/*~hmac=e5f979fa5dd0655e55655e7c0a30a4fb7497e8a60ef1eec9dafcd2ac907270eb
 #EXTINF:-1 tvg-id="La7.it" tvg-name="La7" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/237_image_7_w116.webp" group-title="Section 1",La7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
-#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG 24" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/393_image_7_w116.webp" group-title="Section 1",Sky TG 24 Italia
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG 24" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/393_image_7_w116.webp" group-title="Section 1",Sky TG 24
 https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/300px-Deutsche_Welle_symbol_2012.svg.png" group-title="Section 1",DW
 http://ott-cdn.ucom.am/s26/index.m3u8
@@ -45,7 +45,7 @@ https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EU
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-name="CNN International Europe" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="Section 1",CNN International Europe
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCEurope.us" tvg-name="CNBC Europe" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/400px-CNBC_logo.svg.png" group-title="Section 1",CNBC Europe
+#EXTINF:-1 tvg-id="CNBCEurope.us" tvg-name="CNBC Europe" tvg-logo="" group-title="Section 1",CNBC Europe
 http://ott-cdn.ucom.am/s65/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-name="Euronews English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/440px-Euronews_2016_logo.svg.png" group-title="Section 1",Euronews English
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
@@ -53,23 +53,25 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowApp_AlJazeera_new4-4logo_001_xlrg.png" group-title="Section 1",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="WCBSDT1.us" tvg-name="CBS 2 NY (WCBS)" tvg-logo="https://i.ibb.co/B3NcrHm/wcbs.png" group-title="Section 2",CBS 2 NY (WCBS)
+#EXTINF:-1 tvg-id="History.us" tvg-name="HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/300px-History_%282021%29.svg.png" group-title="Section 1",HISTORY
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="WCBS.us" tvg-name="CBS 2 NY (WCBS)" tvg-logo="https://i.ibb.co/B3NcrHm/wcbs.png" group-title="Section 2",CBS 2 NY (WCBS)
 https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNBCDT1.us" tvg-name="NBC 4 NY (WNBC-DT1)" tvg-logo="https://pbs.twimg.com/profile_images/767715187491217408/rEi3ozQZ_400x400.jpg" group-title="Section 2",NBC 4 NY (WNBC-DT1)
+#EXTINF:-1 tvg-id="WNBC.us" tvg-name="NBC 4 NY (WNBC-DT1)" tvg-logo="https://pbs.twimg.com/profile_images/767715187491217408/rEi3ozQZ_400x400.jpg" group-title="Section 2",NBC 4 NY (WNBC-DT1)
 https://v-ny.theus6tv.tk/hls/4.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WNBCDT2.us" tvg-name="Cozi TV 4.2 (WNBC-DT2)" tvg-logo="https://i.ibb.co/M1VyKBm/cozi.png" group-title="Section 2",Cozi TV 4.2 (WNBC-DT2)
 https://v-ny.theus6tv.tk/hls/4.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WNYWDT1.us" tvg-name="FOX 5 NY (WNYW-DT1)" tvg-logo="https://i.ibb.co/xDk4qyg/fox5ny.png" group-title="Section 2",FOX 5 NY (WNYW-DT1)
+#EXTINF:-1 tvg-id="WNYW.us" tvg-name="FOX 5 NY (WNYW-DT1)" tvg-logo="https://i.ibb.co/xDk4qyg/fox5ny.png" group-title="Section 2",FOX 5 NY (WNYW-DT1)
 https://v-ny.theus6tv.tk/hls/5.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WABCDT1.us" tvg-name="ABC 7 NY (WABC-DT1)" tvg-logo="https://i.ibb.co/5xQ2r9t/abc7.png" group-title="Section 2",ABC 7 NY (WABC-DT1)
+#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC 7 NY (WABC-DT1)" tvg-logo="https://i.ibb.co/5xQ2r9t/abc7.png" group-title="Section 2",ABC 7 NY (WABC-DT1)
 https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WPIXDT4.us" tvg-name="Rewind TV 11.4 (WPIX-DT4)" tvg-logo="https://i.ibb.co/hyqgzwM/rewind.png" group-title="Section 2",Rewind TV 11.4 (WPIX-DT4)
 https://v-ny.theus6tv.tk/hls/11.4/playlist.m3u8
-#EXTINF:-1 tvg-id="WNETDT1.us" tvg-name="PBS Thirteen (WNET-DT1)" tvg-logo="https://i.ibb.co/4PfgqCm/wnet.png" group-title="Section 2",PBS Thirteen (WNET-DT1)
+#EXTINF:-1 tvg-id="WNET.us" tvg-name="PBS Thirteen (WNET-DT1)" tvg-logo="https://i.ibb.co/4PfgqCm/wnet.png" group-title="Section 2",PBS Thirteen (WNET-DT1)
 https://v-ny.theus6tv.tk/hls/13.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WNETDT2.us" tvg-name="PBS Kids 13.1 (WNET-DT2)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1280px-PBS_Kids_Logo.svg.png" group-title="Section 2",PBS Kids 13.1 (WNET-DT2)
 https://v-ny.theus6tv.tk/hls/13.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WLIWDT1.us" tvg-name="PBS WLIW 21 (WLIW-DT1)" tvg-logo="https://i.ibb.co/MDGk6tP/wliw21.png" group-title="Section 2",PBS WLIW 21 (WLIW-DT1)
+#EXTINF:-1 tvg-id="WLIW.us" tvg-name="PBS WLIW 21 (WLIW-DT1)" tvg-logo="https://i.ibb.co/MDGk6tP/wliw21.png" group-title="Section 2",PBS WLIW 21 (WLIW-DT1)
 https://v-ny.theus6tv.tk/hls/21.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WLIWDT2.us" tvg-name="Create TV 21.2 (WLIW-DT2)" tvg-logo="https://i.ibb.co/nk081xB/createtv.png" group-title="Section 2",Create TV 21.2 (WLIW-DT2)
 https://v-ny.theus6tv.tk/hls/21.2/playlist.m3u8
@@ -77,7 +79,7 @@ https://v-ny.theus6tv.tk/hls/21.2/playlist.m3u8
 https://v-ny.theus6tv.tk/hls/21.3/playlist.m3u8
 #EXTINF:-1 tvg-id="WLIWDT4.us" tvg-name="All Arts 21.4 (WLIW-DT4)" tvg-logo="https://i.ibb.co/JQpnnDM/allarts.png" group-title="Section 2",All Arts 21.4 (WLIW-DT4)
 https://v-ny.theus6tv.tk/hls/21.4/playlist.m3u8
-#EXTINF:-1 tvg-id="WNYEDT1.us" tvg-name="NYC Life 25.1 (WNYE-DT1)" tvg-logo="https://i.ibb.co/W23pntn/nyclife.png" group-title="Section 2",NYC Life 25.1 (WNYE-DT1)
+#EXTINF:-1 tvg-id="WNYE.us" tvg-name="NYC Life 25.1 (WNYE-DT1)" tvg-logo="https://i.ibb.co/W23pntn/nyclife.png" group-title="Section 2",NYC Life 25.1 (WNYE-DT1)
 https://v-ny.theus6tv.tk/hls/25.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WNYEDT2.us" tvg-name="NYC Gov 25.2 (WNYE-DT2)" tvg-logo="https://i.ibb.co/HqpRdDm/nycgov.png" group-title="Section 2",NYC Gov 25.2 (WNYE-DT2)
 https://v-ny.theus6tv.tk/hls/25.2/playlist.m3u8
@@ -85,23 +87,19 @@ https://v-ny.theus6tv.tk/hls/25.2/playlist.m3u8
 https://v-ny.theus6tv.tk/hls/25.3/playlist.m3u8
 #EXTINF:-1 tvg-id="WPXNDT4.us" tvg-name="Defy TV 31.4 (WPXN-DT4)" tvg-logo="https://i.ibb.co/Rg5bD4B/defy.png" group-title="Section 2",Defy TV 31.4 (WPXN-DT4)
 https://v-ny.theus6tv.tk/hls/31.4/playlist.m3u8
-#EXTINF:-1 tvg-id="WMBQCD1.us" tvg-name="First Nations Experience 46 (WMBQ-CD)" tvg-logo="https://publicfiles.fcc.gov/api/manager/download/entity/logo/14322/tv" group-title="Section 2",First Nations Experience 46 (WMBQ-CD)
-https://v-ny.theus6tv.tk/hls/46.1/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNUSA.us" tvg-name="CNN (US)" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png" group-title="Section 2",CNN (US)
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN (US)" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png" group-title="Section 2",CNN (US)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="CBSNewsNY.us" tvg-name="CBSN NY" tvg-logo="https://i.imgur.com/YaSDbst.png" group-title="Section 2",CBSN NY
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/500px-ABC_News_Live_logo_2021.svg.png" group-title="Section 2",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="ABC7247" tvg-name="ABC News NY 24/7" tvg-logo="https://i.ibb.co/nQLBmtL/abcnews.png" group-title="Section 2",ABC News NY 24/7
+#EXTINF:-1 tvg-id="ABCNewsNow.us" tvg-name="ABC News NY 24/7" tvg-logo="https://i.ibb.co/nQLBmtL/abcnews.png" group-title="Section 2",ABC News NY 24/7
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/640px-Fox_News_Channel_logo.svg.png" group-title="Section 2",FOX News
 http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
-#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" tvg-logo="https://www.dailydot.com/wp-content/uploads/2020/08/CSpan.png" group-title="Section 2",C-SPAN 1
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" tvg-logo="https://www.dailydot.com/wp-content/uploads/2020/08/CSpan.png" group-title="Section 2",C-SPAN
 http://trn03.tulix.tv/teleup-cspan/playlist.m3u8
-#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/797px-CBS_News_logo_%282020%29.svg.png" group-title="Section 2",CBSN
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/797px-CBS_News_logo_%282020%29.svg.png" group-title="Section 2",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-name="Bloomberg Quicktake" tvg-logo="https://www.adweek.com/wp-content/uploads/2019/12/quicktake-bloomberg-tictoc-CONTENT-2019-640x360.jpg" group-title="Section 2",Bloomberg Quicktake
 https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
-#EXTINF:-1 tvg-id="History.us" tvg-name="HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/300px-History_%282021%29.svg.png" group-title="Section 1",History Channel (US)
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
