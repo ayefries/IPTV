@@ -37,8 +37,14 @@ https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
 http://ott-cdn.ucom.am/s26/index.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/500px-Mezzo_Logo.svg.png" group-title="Section 1",Mezzo
 http://ott-cdn.ucom.am/s35/index.m3u8
-#EXTINF:-1 tvg-id="FashionTVHDEurope.fr" tvg-name="Fashion TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/240px-Fashion_TV_logo.svg.png" group-title="Section 1",Fashion TV
+#EXTINF:-1 tvg-id="FashionTVHDEurope.fr" tvg-name="Fashion TV" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/44/ac/08/44ac0848-d834-ba0d-a354-52e2633c182e/source/512x512bb.jpg" group-title="Section 1",Fashion TV
 http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/playlist.m3u8
+#EXTINF:-1 tvg-id="EbS.be" tvg-name="Europe by Satellite" tvg-logo="https://audiovisual.ec.europa.eu/presentation/img/content/03-EBS/01-EBS/ebs-LOGO.png" group-title="Section 1",Europe by Satellite
+https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=96000-video=2600000.m3u8
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png" group-title="Section 1",NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-id="VoATV.us" tvg-name="Voice of America" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="Section 1",Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 #EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Section 1",Bloomberg TV Europe
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://i.ibb.co/GWTVrFk/bbcwn.png" group-title="Section 1",BBC World News
@@ -53,8 +59,6 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowApp_AlJazeera_new4-4logo_001_xlrg.png" group-title="Section 1",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="History.us" tvg-name="HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/300px-History_%282021%29.svg.png" group-title="Section 1",HISTORY
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="WCBS.us" tvg-name="CBS 2 NY (WCBS)" tvg-logo="https://i.ibb.co/B3NcrHm/wcbs.png" group-title="Section 2",CBS 2 NY (WCBS)
 https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WNBC.us" tvg-name="NBC 4 NY (WNBC-DT1)" tvg-logo="https://pbs.twimg.com/profile_images/767715187491217408/rEi3ozQZ_400x400.jpg" group-title="Section 2",NBC 4 NY (WNBC-DT1)
@@ -101,5 +105,13 @@ http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
 http://trn03.tulix.tv/teleup-cspan/playlist.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/797px-CBS_News_logo_%282020%29.svg.png" group-title="Section 2",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logod.png" group-title="Section 2",Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-name="Bloomberg Quicktake" tvg-logo="https://www.adweek.com/wp-content/uploads/2019/12/quicktake-bloomberg-tictoc-CONTENT-2019-640x360.jpg" group-title="Section 2",Bloomberg Quicktake
 https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
+#EXTINF:-1 tvg-id="CheddarNews.us" tvg-name="Cheddar News" tvg-logo="https://cheddar-production.s3.amazonaws.com/assets/cheddar_news_share.png" group-title="Section 2",Cheddar News
+https://live.chdrstatic.com/cbn/index.m3u8
+#EXTINF:-1 tvg-id="YoutooAmerica.us" tvg-name="Youtoo America" tvg-logo="https://i.imgur.com/3se2VEB.png" group-title="Section 2",Youtoo America
+https://thegateway.app/YouToo/YTamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60526b849849524498245b78" group-title="Section 2",Court TV
+https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
