@@ -1,27 +1,43 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jwmzn17rk7t2rp6n7214"
-#EXTINF:-1 tvg-id="TVCG1.me" tvg-name="RTCG 1" tvg-logo="https://i.ibb.co/Qm0H9R1/Frame-3.png" group-title="Section 1",RTCG 1
+#EXTINF:-1 tvg-id="TVCG1.me" tvg-name="RTCG 1" tvg-logo="https://i.ibb.co/Qm0H9R1/Frame-3.png" group-title="Section 1",RTCG 1 HD
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCG2.me" tvg-name="RTCG 2" tvg-logo="https://i.ibb.co/Z2PLXKz/Frame-2.png" group-title="Section 1",RTCG 2
+#EXTINF:-1 tvg-id="TVCG2.me" tvg-name="RTCG 2" tvg-logo="https://i.ibb.co/Z2PLXKz/Frame-2.png" group-title="Section 1",RTCG 2 HD
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCGSat.me" tvg-name="RTCG SAT" tvg-logo="https://i.ibb.co/jgbPVLM/rtcgsat.png" group-title="Section 1",RTCG SAT
 http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HRT1.hr" tvg-name="HRT 1" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Section 1",HRT 1
+#EXTINF:-1 tvg-id="TV7.me" tvg-name="TV7" tvg-logo="https://aemcg.org/wp-content/uploads/2018/04/TV7.png" group-title="Section 1",TV 777 Podgorica
+https://5a1178b42cc03.streamlock.net/tehnikatv777/tehnikatv777/chunklist_w950220315.m3u8
+#EXTINF:-1 tvg-id="HRT1.hr" tvg-name="HRT 1" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Section 1",HRT 1 HD
 http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
-#EXTINF:-1 tvg-id="HRT2.hr" tvg-name="HRT 2" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Section 1",HRT 2
+#EXTINF:-1 tvg-id="HRT2.hr" tvg-name="HRT 2" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Section 1",HRT 2 HD
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
-#EXTINF:-1 tvg-id="HRT3.hr" tvg-name="HRT 3" tvg-logo="https://i.ibb.co/5k9gjxj/HRT3-Logo-aktuell.png" group-title="Section 1",HRT 3
+#EXTINF:-1 tvg-id="HRT3.hr" tvg-name="HRT 3" tvg-logo="https://i.ibb.co/5k9gjxj/HRT3-Logo-aktuell.png" group-title="Section 1",HRT 3 HD
 http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
-#EXTINF:-1 tvg-id="HRT4.hr" tvg-name="HRT 4" tvg-logo="https://i.ibb.co/pn2kvP2/HRT4-logo.png" group-title="Section 1",HRT 4
+#EXTINF:-1 tvg-id="HRT4.hr" tvg-name="HRT 4" tvg-logo="https://i.ibb.co/pn2kvP2/HRT4-logo.png" group-title="Section 1",HRT 4 HD
 http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
+#EXTINF:-1 tvg-id="RTL.hr" tvg-name="RTL Hrvatska" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/rtl-hd-hr.png" group-title="Section 1",RTL Hrvatska HD
+http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:-1 tvg-id="StudioB.rs" tvg-name="Studio B" tvg-logo="https://mediadaily.biz/wp-content/uploads/2019/03/studio-b.png" group-title="Section 1",Studio B
+http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="N1Srbija.rs" tvg-name="N1 RS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/N1_Info_logo.svg/1280px-N1_Info_logo.svg.png" group-title="Section 1",N1 RS
 https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
+#EXTINF:-1 tvg-id="KurirTV.rs" tvg-name="Kurir TV HD" tvg-logo="https://i.ibb.co/YNr48W6/a92c2fe87f1d7e453bd2402c608642827c0faa555a6a30ef97ff65e2af7c3387.jpg" group-title="Section 1",Kurir TV
+https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
+#EXTINF:-1 tvg-id="RedTV.rs" tvg-name="Red TV RS" tvg-logo="https://i.ibb.co/njcZ5Jp/unnamed.jpg" group-title="Section 1",Red TV RS
+https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsSrbija.rs" tvg-name="Euronews Srbija" tvg-logo="https://scontent.ftgd4-1.fna.fbcdn.net/v/t1.6435-9/151039604_771839690416428_8319265980988368326_n.png?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Bb2JUq-ODFYAX_d0xlh&_nc_ht=scontent.ftgd4-1.fna&oh=00_AT_LPEYoqx26OKcQYypuEGMxFvFzO6_fJRrN4dweJ2MQfg&oe=6265C568" group-title="Section 1",Euronews Srbija
+https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w1797442721_b6256000.m3u8
+#EXTINF:-1 tvg-id="RTRS.ba" tvg-name="RTRS" tvg-logo="https://www.rtrs.tv/_bmp/og_rtrs.jpg" group-title="Section 1",RTRS
+http://parh.rtrs.tv:1935/tv/live/index.m3u8
+#EXTINF:-1 tvg-id="BN Televizija" tvg-logo="https://iconape.com/wp-content/png_logo_vector/bn-tv-logo.png",BN Televizija
+https://dns2.rtvbn.com:8080/live/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraBalkans.qa" tvg-name="Al Jazeera Balkans" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowApp_AlJazeera_new4-4logo_001_xlrg.png" group-title="Section 1",Al Jazeera Balkans
 http://live-hls-web-ajb.getaj.net/AJB/01.m3u8
-#EXTINF:-1 tvg-id="TVSlovenija1.si" tvg-name="TV SLO 1 (1080p)" tvg-logo="https://i.ibb.co/qpHB5Rx/TV-SLO-1-HD.png" group-title="Section 1",TV SLO 1 (1080p)
+#EXTINF:-1 tvg-id="TVSlovenija1.si" tvg-name="TV SLO 1" tvg-logo="https://i.ibb.co/qpHB5Rx/TV-SLO-1-HD.png" group-title="Section 1",TV SLO 1 HD
 https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSlovenija2.si" tvg-name="TV SLO 2 (1080p)" tvg-logo="https://i.ibb.co/mCLfqP3/TV-SLO-2-HD.png" group-title="Section 1",TV SLO 2 (1080p)
+#EXTINF:-1 tvg-id="TVSlovenija2.si" tvg-name="TV SLO 2" tvg-logo="https://i.ibb.co/mCLfqP3/TV-SLO-2-HD.png" group-title="Section 1",TV SLO 2 HD
 https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSlovenija3.si" tvg-name="TV SLO 3 (720p)" tvg-logo="https://i.ibb.co/PG6hxw9/TV-SLO-3-HD.png" group-title="Section 1",TV SLO 3 (720p)
+#EXTINF:-1 tvg-id="TVSlovenija3.si" tvg-name="TV SLO 3" tvg-logo="https://i.ibb.co/PG6hxw9/TV-SLO-3-HD.png" group-title="Section 1",TV SLO 3 HD
 https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://i.imgur.com/2UDFbGd.png" group-title="Section 1",Rai 1
 http://ott-cdn.ucom.am/s29/index.m3u8
@@ -35,6 +51,8 @@ https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/300px-Deutsche_Welle_symbol_2012.svg.png" group-title="Section 1",DW
 http://ott-cdn.ucom.am/s26/index.m3u8
+#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/46b12ecedc273ad2e5909220cd064070-1.png",France 24 Français
+http://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/500px-Mezzo_Logo.svg.png" group-title="Section 1",Mezzo
 http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTINF:-1 tvg-id="FashionTVHDEurope.fr" tvg-name="Fashion TV" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/44/ac/08/44ac0848-d834-ba0d-a354-52e2633c182e/source/512x512bb.jpg" group-title="Section 1",Fashion TV
