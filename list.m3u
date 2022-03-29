@@ -29,7 +29,7 @@ https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
 https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w1797442721_b6256000.m3u8
 #EXTINF:-1 tvg-id="RTRS.ba" tvg-name="RTRS" tvg-logo="https://www.rtrs.tv/_bmp/og_rtrs.jpg" group-title="Section 1",RTRS
 http://parh.rtrs.tv:1935/tv/live/index.m3u8
-#EXTINF:-1 tvg-id="BN Televizija" tvg-logo="https://iconape.com/wp-content/png_logo_vector/bn-tv-logo.png",BN Televizija
+#EXTINF:-1 tvg-id="BN Televizija" group-title="Section 1" tvg-logo="https://iconape.com/wp-content/png_logo_vector/bn-tv-logo.png",BN Televizija
 https://dns2.rtvbn.com:8080/live/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraBalkans.qa" tvg-name="Al Jazeera Balkans" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowApp_AlJazeera_new4-4logo_001_xlrg.png" group-title="Section 1",Al Jazeera Balkans
 http://live-hls-web-ajb.getaj.net/AJB/01.m3u8
@@ -51,7 +51,7 @@ https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/300px-Deutsche_Welle_symbol_2012.svg.png" group-title="Section 1",DW
 http://ott-cdn.ucom.am/s26/index.m3u8
-#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/46b12ecedc273ad2e5909220cd064070-1.png",France 24 Français
+#EXTINF:-1 tvg-id="France24.fr" group-title="Section 1" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/46b12ecedc273ad2e5909220cd064070-1.png",France 24 Français
 http://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/500px-Mezzo_Logo.svg.png" group-title="Section 1",Mezzo
 http://ott-cdn.ucom.am/s35/index.m3u8
