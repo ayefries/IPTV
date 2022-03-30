@@ -1,6 +1,5 @@
 # IPTV
-Various IPTV channels I find
-If it's not enough for you, move on. This list prefers quality, and not quantity.
+Various IPTV channels I find. If it's not enough for you, move on. This list prefers quality, and not quantity.
 
 ## Channel organisation / tvg groups
 **🇲🇪 / 🇪🇺 / 🌍 Section 1**:
