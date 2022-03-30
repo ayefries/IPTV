@@ -79,38 +79,54 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowApp_AlJazeera_new4-4logo_001_xlrg.png" group-title="Section 1",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="WCBS.us" tvg-name="CBS 2 NY (WCBS)" tvg-logo="https://i.ibb.co/B3NcrHm/wcbs.png" group-title="Section 2",CBS 2 NY (WCBS)
+#EXTINF:-1 tvg-id="WCBS.us" tvg-logo="https://i.ibb.co/B3NcrHm/wcbs.png" group-title="Section 2",2.1 WCBS CBS 2 New York
 https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNBC.us" tvg-name="NBC 4 NY (WNBC-DT1)" tvg-logo="https://pbs.twimg.com/profile_images/767715187491217408/rEi3ozQZ_400x400.jpg" group-title="Section 2",NBC 4 NY (WNBC-DT1)
+#EXTINF:-1 tvg-id="WNBC.us" tvg-logo="https://pbs.twimg.com/profile_images/767715187491217408/rEi3ozQZ_400x400.jpg" group-title="Section 2",4.1 WNBC NBC 4 New York
 https://v-ny.theus6tv.tk/hls/4.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNBCDT2.us" tvg-name="Cozi TV 4.2 (WNBC-DT2)" tvg-logo="https://i.ibb.co/M1VyKBm/cozi.png" group-title="Section 2",Cozi TV 4.2 (WNBC-DT2)
+#EXTINF:-1 tvg-id="WNBCDT2.us" tvg-logo="https://i.ibb.co/M1VyKBm/cozi.png" group-title="Section 2",4.2 WNBC-DT2 Cozi TV
 https://v-ny.theus6tv.tk/hls/4.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WNYW.us" tvg-name="FOX 5 NY (WNYW-DT1)" tvg-logo="https://i.ibb.co/xDk4qyg/fox5ny.png" group-title="Section 2",FOX 5 NY (WNYW-DT1)
+#EXTINF:-1 tvg-id="WNYW.us" tvg-logo="https://i.ibb.co/xDk4qyg/fox5ny.png" group-title="Section 2",5.1 WNYW FOX 5 NY
 https://v-ny.theus6tv.tk/hls/5.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC 7 NY (WABC-DT1)" tvg-logo="https://i.ibb.co/5xQ2r9t/abc7.png" group-title="Section 2",ABC 7 NY (WABC-DT1)
+#EXTINF:-1 tvg-id="WABC.us" tvg-logo="https://i.ibb.co/5xQ2r9t/abc7.png" group-title="Section 2",7.1 WABC ABC 7 NY
 https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WPIXDT4.us" tvg-name="Rewind TV 11.4 (WPIX-DT4)" tvg-logo="https://i.ibb.co/hyqgzwM/rewind.png" group-title="Section 2",Rewind TV 11.4 (WPIX-DT4)
+#EXTINF:-1 tvg-id="WABCDT4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="Section 2",7.4 WABC-DT4 HSN
+https://v-ny.theus6tv.tk/hls/7.4/playlist.m3u8
+#EXTINF:-1 tvg-id="WWOR.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/WWOR_NewJersey.svg/1200px-WWOR_NewJersey.svg.png" group-title="Section 2",9.1 WWOR myTV
+https://v-ny.theus6tv.tk/hls/9.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WPIX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/3167px-PIX11_2017.svg.png" group-title="Section 2",11.1 WPIX CW PIX11
+https://v-ny.theus6tv.tk/hls/11.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WPIXDT4.us" tvg-logo="https://i.ibb.co/hyqgzwM/rewind.png" group-title="Section 2",11.4 WPIX-DT4 Rewind TV
 https://v-ny.theus6tv.tk/hls/11.4/playlist.m3u8
-#EXTINF:-1 tvg-id="WNET.us" tvg-name="PBS Thirteen (WNET-DT1)" tvg-logo="https://i.ibb.co/4PfgqCm/wnet.png" group-title="Section 2",PBS Thirteen (WNET-DT1)
+#EXTINF:-1 tvg-id="WNET.us" tvg-logo="https://i.ibb.co/4PfgqCm/wnet.png" group-title="Section 2",13.1 WNET PBS Thirteen
 https://v-ny.theus6tv.tk/hls/13.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNETDT2.us" tvg-name="PBS Kids 13.1 (WNET-DT2)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1280px-PBS_Kids_Logo.svg.png" group-title="Section 2",PBS Kids 13.1 (WNET-DT2)
+#EXTINF:-1 tvg-id="WNETDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1280px-PBS_Kids_Logo.svg.png" group-title="Section 2",13.2 WNET-DT2 PBS Kids
 https://v-ny.theus6tv.tk/hls/13.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WLIW.us" tvg-name="PBS WLIW 21 (WLIW-DT1)" tvg-logo="https://i.ibb.co/MDGk6tP/wliw21.png" group-title="Section 2",PBS WLIW 21 (WLIW-DT1)
+#EXTINF:-1 tvg-id="WLIW.us" tvg-logo="https://i.ibb.co/MDGk6tP/wliw21.png" group-title="Section 2",21.1 WLIW PBS WLIW21
 https://v-ny.theus6tv.tk/hls/21.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WLIWDT2.us" tvg-name="Create TV 21.2 (WLIW-DT2)" tvg-logo="https://i.ibb.co/nk081xB/createtv.png" group-title="Section 2",Create TV 21.2 (WLIW-DT2)
+#EXTINF:-1 tvg-id="WLIWDT2.us" tvg-logo="https://i.ibb.co/nk081xB/createtv.png" group-title="Section 2",21.2 WLIW-DT2 PBS Create
 https://v-ny.theus6tv.tk/hls/21.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WLIWDT3.us" tvg-name="PBS World 21.3 (WLIW-DT3)" tvg-logo="https://i.ibb.co/b6BgPBf/pbsworld.png" group-title="Section 2",PBS World 21.3 (WLIW-DT3)
+#EXTINF:-1 tvg-id="WLIWDT3.us" tvg-logo="https://i.ibb.co/b6BgPBf/pbsworld.png" group-title="Section 2",21.3 WLIW-DT3 PBS World
 https://v-ny.theus6tv.tk/hls/21.3/playlist.m3u8
-#EXTINF:-1 tvg-id="WLIWDT4.us" tvg-name="All Arts 21.4 (WLIW-DT4)" tvg-logo="https://i.ibb.co/JQpnnDM/allarts.png" group-title="Section 2",All Arts 21.4 (WLIW-DT4)
+#EXTINF:-1 tvg-id="WLIWDT4.us" tvg-logo="https://i.ibb.co/JQpnnDM/allarts.png" group-title="Section 2",21.4 WLIW-DT4 PBS All Arts
 https://v-ny.theus6tv.tk/hls/21.4/playlist.m3u8
-#EXTINF:-1 tvg-id="WNYE.us" tvg-name="NYC Life 25.1 (WNYE-DT1)" tvg-logo="https://i.ibb.co/W23pntn/nyclife.png" group-title="Section 2",NYC Life 25.1 (WNYE-DT1)
+#EXTINF:-1 tvg-id="WNYE.us" tvg-logo="https://i.ibb.co/W23pntn/nyclife.png" group-title="Section 2",25.1 WNYE NYC Life
 https://v-ny.theus6tv.tk/hls/25.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNYEDT2.us" tvg-name="NYC Gov 25.2 (WNYE-DT2)" tvg-logo="https://i.ibb.co/HqpRdDm/nycgov.png" group-title="Section 2",NYC Gov 25.2 (WNYE-DT2)
+#EXTINF:-1 tvg-id="WNYEDT2.us" tvg-logo="https://i.ibb.co/HqpRdDm/nycgov.png" group-title="Section 2",25.2 WNYE-DT2 NYC Gov
 https://v-ny.theus6tv.tk/hls/25.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WNYEDT3.us" tvg-name="CUNY TV 25.3 (WNYE-DT3)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/CUNY_TV_Logo_2017.jpg" group-title="Section 2",CUNY TV 25.3 (WNYE-DT3)
+#EXTINF:-1 tvg-id="WNYEDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/CUNY_TV_Logo_2017.jpg" group-title="Section 2",25.3 WNYE-DT3 CUNY TV
 https://v-ny.theus6tv.tk/hls/25.3/playlist.m3u8
-#EXTINF:-1 tvg-id="WPXNDT4.us" tvg-name="Defy TV 31.4 (WPXN-DT4)" tvg-logo="https://i.ibb.co/Rg5bD4B/defy.png" group-title="Section 2",Defy TV 31.4 (WPXN-DT4)
+#EXTINF:-1 tvg-id="WPXNDT4.us" tvg-logo="https://i.ibb.co/Rg5bD4B/defy.png" group-title="Section 2",31.4 WPXN-DT4 Defy TV
 https://v-ny.theus6tv.tk/hls/31.4/playlist.m3u8
+#EXTINF:-1 tvg-id="WJLP.us" tvg-logo="https://i.ibb.co/b7Jt2Rx/wjlp.png" group-title="Section 2",33.1 WJLP Me-TV NJ/NY
+https://v-ny.theus6tv.tk/hls/33.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WXTV.us" tvg-logo="https://i.ibb.co/r7VN7Wd/univision.png" group-title="Section 2",41.1 WXTV Univision 41 Nueva York
+https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WMBQCD.us" tvg-logo="https://i.ibb.co/K2xYH7V/wmbq.png" group-title="Section 2",46.1 WMBQ First Nations Experience
+https://v-ny.theus6tv.tk/hls/46.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WNJU.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="Section 2",47.1 Telemundo 47
+https://v-ny.theus6tv.tk/hls/47.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WNJUDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Telexitos_logo.png/220px-Telexitos_logo.png" group-title="Section 2",47.2 TeleXitos
+https://v-ny.theus6tv.tk/hls/47.2/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN (US)" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png" group-title="Section 2",CNN (US)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="CBSNewsNY.us" tvg-name="CBSN NY" tvg-logo="https://i.ibb.co/GC5cw68/cbsnny.png" group-title="Section 2",CBSN NY
@@ -135,3 +151,7 @@ https://live.chdrstatic.com/cbn/index.m3u8
 https://thegateway.app/YouToo/YTamerica/playlist.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60526b849849524498245b78" group-title="Section 2",Court TV
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
+#EXTINF:-1 tvg-id="VevoLatino.us" tvg-name="Vevo TV Latino" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="Section 2",Vevo Latino
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF:-1 tvg-id="VevoHipHop.us" tvg-name="Vevo TV Hip Hop" tvg-logo="https://i.imgur.com/Lbc9cYw.png" group-title="Section 2",Vevo Hip Hop
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
