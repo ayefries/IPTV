@@ -3,13 +3,13 @@ Various IPTV channels I find
 If it's not enough for you, move on. This list prefers quality, and not quantity.
 
 ## Channel organisation / tvg groups
-**🇲🇪 / 🇪🇺 / 🌍 Section 1🇲🇪�**:
+**🇲🇪 / 🇪🇺 / 🌍 Section 1🇲�**:**
 - Montenegrin channels
 - Channels from ex-Yugoslavia
 - Channels from the rest of Europe
 - International channels
 
-**🇺🇸 Section 2:
+**🇺🇸 Section 2:**
 - US - NY broadcast channels
 - US cable and streaming channels
 
