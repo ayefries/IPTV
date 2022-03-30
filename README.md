@@ -22,3 +22,11 @@ SD is:
 - 576 height on SECAM (used in France, its colonies and most ex-colonies, ex-USSR, parts of Africa)
 
 **Channels have to have sound.** Pretty self-explanatory.
+
+**Channels have to load universally.**
+Xtream, tokened, geo-blocked, or links that just don't play in Safari won't be added.
+Unlike those annoying, ad-filled IPTV sites, I'm a normal person and am not bothered to fuck around with those links.
+
+There, there's your readme.
+
+Hope you enjoy the channels :)
