@@ -81,54 +81,134 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowApp_AlJazeera_new4-4logo_001_xlrg.png" group-title="Section 1",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="WCBS.us" tvg-logo="https://i.ibb.co/B3NcrHm/wcbs.png" group-title="Section 2",2.1 WCBS CBS 2 New York
-https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNBC.us" tvg-logo="https://pbs.twimg.com/profile_images/767715187491217408/rEi3ozQZ_400x400.jpg" group-title="Section 2",4.1 WNBC NBC 4 New York
-https://v-ny.theus6tv.tk/hls/4.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNBCDT2.us" tvg-logo="https://i.ibb.co/M1VyKBm/cozi.png" group-title="Section 2",4.2 WNBC-DT2 Cozi TV
-https://v-ny.theus6tv.tk/hls/4.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WNYW.us" tvg-logo="https://i.ibb.co/xDk4qyg/fox5ny.png" group-title="Section 2",5.1 WNYW FOX 5 NY
-https://v-ny.theus6tv.tk/hls/5.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WABC.us" tvg-logo="https://i.ibb.co/5xQ2r9t/abc7.png" group-title="Section 2",7.1 WABC ABC 7 NY
-https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WABCDT4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="Section 2",7.4 WABC-DT4 HSN
-https://v-ny.theus6tv.tk/hls/7.4/playlist.m3u8
-#EXTINF:-1 tvg-id="WWOR.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/WWOR_NewJersey.svg/1200px-WWOR_NewJersey.svg.png" group-title="Section 2",9.1 WWOR myTV
-https://v-ny.theus6tv.tk/hls/9.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WPIX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/3167px-PIX11_2017.svg.png" group-title="Section 2",11.1 WPIX CW PIX11
-https://v-ny.theus6tv.tk/hls/11.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WPIXDT4.us" tvg-logo="https://i.ibb.co/hyqgzwM/rewind.png" group-title="Section 2",11.4 WPIX-DT4 Rewind TV
-https://v-ny.theus6tv.tk/hls/11.4/playlist.m3u8
-#EXTINF:-1 tvg-id="WNET.us" tvg-logo="https://i.ibb.co/4PfgqCm/wnet.png" group-title="Section 2",13.1 WNET PBS Thirteen
-https://v-ny.theus6tv.tk/hls/13.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNETDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1280px-PBS_Kids_Logo.svg.png" group-title="Section 2",13.2 WNET-DT2 PBS Kids
-https://v-ny.theus6tv.tk/hls/13.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WLIW.us" tvg-logo="https://i.ibb.co/MDGk6tP/wliw21.png" group-title="Section 2",21.1 WLIW PBS WLIW21
-https://v-ny.theus6tv.tk/hls/21.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WLIWDT2.us" tvg-logo="https://i.ibb.co/nk081xB/createtv.png" group-title="Section 2",21.2 WLIW-DT2 PBS Create
-https://v-ny.theus6tv.tk/hls/21.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WLIWDT3.us" tvg-logo="https://i.ibb.co/b6BgPBf/pbsworld.png" group-title="Section 2",21.3 WLIW-DT3 PBS World
-https://v-ny.theus6tv.tk/hls/21.3/playlist.m3u8
-#EXTINF:-1 tvg-id="WLIWDT4.us" tvg-logo="https://i.ibb.co/JQpnnDM/allarts.png" group-title="Section 2",21.4 WLIW-DT4 PBS All Arts
-https://v-ny.theus6tv.tk/hls/21.4/playlist.m3u8
-#EXTINF:-1 tvg-id="WNYE.us" tvg-logo="https://i.ibb.co/W23pntn/nyclife.png" group-title="Section 2",25.1 WNYE NYC Life
-https://v-ny.theus6tv.tk/hls/25.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNYEDT2.us" tvg-logo="https://i.ibb.co/HqpRdDm/nycgov.png" group-title="Section 2",25.2 WNYE-DT2 NYC Gov
-https://v-ny.theus6tv.tk/hls/25.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WNYEDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/CUNY_TV_Logo_2017.jpg" group-title="Section 2",25.3 WNYE-DT3 CUNY TV
-https://v-ny.theus6tv.tk/hls/25.3/playlist.m3u8
-#EXTINF:-1 tvg-id="WPXNDT4.us" tvg-logo="https://i.ibb.co/Rg5bD4B/defy.png" group-title="Section 2",31.4 WPXN-DT4 Defy TV
-https://v-ny.theus6tv.tk/hls/31.4/playlist.m3u8
-#EXTINF:-1 tvg-id="WJLP.us" tvg-logo="https://i.ibb.co/b7Jt2Rx/wjlp.png" group-title="Section 2",33.1 WJLP Me-TV NJ/NY
-https://v-ny.theus6tv.tk/hls/33.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WXTV.us" tvg-logo="https://i.ibb.co/r7VN7Wd/univision.png" group-title="Section 2",41.1 WXTV Univision 41 Nueva York
-https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WMBQCD.us" tvg-logo="https://i.ibb.co/K2xYH7V/wmbq.png" group-title="Section 2",46.1 WMBQ First Nations Experience
-https://v-ny.theus6tv.tk/hls/46.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNJU.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="Section 2",47.1 WNJU Telemundo 47
-https://v-ny.theus6tv.tk/hls/47.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNJUDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Telexitos_logo.png/220px-Telexitos_logo.png" group-title="Section 2",47.2 WNJU-DT2 TeleXitos
-https://v-ny.theus6tv.tk/hls/47.2/playlist.m3u8
+#EXTINF:-1 tvg-id="WCBS.us" tvg-logo="https://i.ibb.co/B3NcrHm/wcbs.png" group-title="Section 2",2.1 WCBS / CBS 2 New York
+https://v-ny.mybtv.net/live/545.m3u8
+#EXTINF:-1 tvg-id="WCBSDT2.us" tvg-logo="!!!" group-title="Section 2",2.2 WCBS-DT2 / Start TV
+https://v-ny.mybtv.net/live/546.m3u8
+#EXTINF:-1 tvg-id="WCBSDT3.us" tvg-logo="!!!" group-title="Section 2",2.3 WCBS-DT2 / Dabl
+https://v-ny.mybtv.net/live/547.m3u8
+#EXTINF:-1 tvg-id="WCBSDT4.us" tvg-logo="!!!" group-title="Section 2",2.4 WCBS-DT4 / Fave TV
+https://v-ny.mybtv.net/live/648.m3u8
+#EXTINF:-1 tvg-id="WNBCDT.us" tvg-logo="!!!" group-title="Section 2",4.1 WNBC / NBC 4 New York
+https://v-ny.mybtv.net/live/548.m3u8
+#EXTINF:-1 tvg-id="WNBCDT2.us" tvg-logo="!!!" group-title="Section 2",4.2 WNBC-DT2 / Cozi TV
+https://v-ny.mybtv.net/live/549.m3u8
+#EXTINF:-1 tvg-id="WNYWDT.us" tvg-logo="!!!" group-title="Section 2",5.1 WNYW / FOX 5 New York
+https://v-ny.mybtv.net/live/550.m3u8
+#EXTINF:-1 tvg-id="WNYWDT2.us" tvg-logo="!!!" group-title="Section 2",5.2 WNYW-DT2 / FOX 5 New York
+https://v-ny.mybtv.net/live/551.m3u8
+#EXTINF:-1 tvg-id="WNYWDT3.us" tvg-logo="!!!" group-title="Section 2",5.3 WNYW-DT3 / Fox Weather
+https://v-ny.mybtv.net/live/676.m3u8
+#EXTINF:-1 tvg-id="WNYWDT4.us" tvg-logo="!!!" group-title="Section 2",5.4 WNYW-DT4 / theGrio
+https://v-ny.mybtv.net/live/552.m3u8
+#EXTINF:-1 tvg-id="WNYWDT5.us" tvg-logo="!!!" group-title="Section 2",5.5 WNYW-DT5 / Decades
+https://v-ny.mybtv.net/live/553.m3u8
+#EXTINF:-1 tvg-id="WABCDT.us" tvg-logo="!!!" group-title="Section 2",7.1 WABC / ABC 7 New York
+https://v-ny.mybtv.net/live/554.m3u8
+#EXTINF:-1 tvg-id="WABCDT2.us" tvg-logo="!!!" group-title="Section 2",7.2 WABC-DT2 / Localish
+https://v-ny.mybtv.net/live/555.m3u8
+#EXTINF:-1 tvg-id="WABCDT3.us" tvg-logo="!!!" group-title="Section 2",7.3 WABC-DT3 / thisTV
+https://v-ny.mybtv.net/live/556.m3u8
+#EXTINF:-1 tvg-id="WABCDT4.us" tvg-logo="!!!" group-title="Section 2",7.4 WABC-DT4 / HSN
+https://v-ny.mybtv.net/live/613.m3u8
+#EXTINF:-1 tvg-id="WWORDT.us" tvg-logo="!!!" group-title="Section 2",9.1 WWOR / myTV 9
+https://v-ny.mybtv.net/live/559.m3u8
+#EXTINF:-1 tvg-id="WWORDT3.us" tvg-logo="!!!" group-title="Section 2",9.3 WWOR-DT3 / Buzzr
+https://v-ny.mybtv.net/live/560.m3u8
+#EXTINF:-1 tvg-id="WWORDT4.us" tvg-logo="!!!" group-title="Section 2",9.4 WWOR-DT4 / Heroes & Icons
+https://v-ny.mybtv.net/live/561.m3u8
+#EXTINF:-1 tvg-id="WPIXDT.us" tvg-logo="!!!" group-title="Section 2",11.1 WPIX / PIX 11 New York (The CW)
+https://v-ny.mybtv.net/live/562.m3u8
+#EXTINF:-1 tvg-id="WPIXDT2.us" tvg-logo="!!!" group-title="Section 2",11.2 WPIX-DT2 / Antenna TV
+https://v-ny.mybtv.net/live/563.m3u8
+#EXTINF:-1 tvg-id="WPIXDT3.us" tvg-logo="!!!" group-title="Section 2",11.3 WPIX-DT3 / Court TV
+https://v-ny.mybtv.net/live/564.m3u8
+#EXTINF:-1 tvg-id="WPIXDT4.us" tvg-logo="!!!" group-title="Section 2",11.4 WPIX-DT4 / Rewind TV
+https://v-ny.mybtv.net/live/565.m3u8
+#EXTINF:-1 tvg-id="WPIXDT5.us" tvg-logo="!!!" group-title="Section 2",11.5 WPIX-DT5 / QVC
+https://v-ny.mybtv.net/live/566.m3u8
+#EXTINF:-1 tvg-id="WNETDT.us" tvg-logo="!!!" group-title="Section 2",13.1 WNET / PBS Thirteen
+https://v-ny.mybtv.net/live/567.m3u8
+#EXTINF:-1 tvg-id="WNETDT2.us" tvg-logo="!!!" group-title="Section 2",13.2 WNET-DT2 / PBS Kids
+https://v-ny.mybtv.net/live/568.m3u8
+#EXTINF:-1 tvg-id="WNDTCD.us" tvg-logo="!!!" group-title="Section 2",14.1 WNDT-CD / WNDT FNX
+https://v-ny.mybtv.net/live/569.m3u8
+#EXTINF:-1 tvg-id="WLIWDT.us" tvg-logo="!!!" group-title="Section 2",21.1 WLIW / PBS WLIW21
+https://v-ny.mybtv.net/live/575.m3u8
+#EXTINF:-1 tvg-id="WLIWDT2.us" tvg-logo="!!!" group-title="Section 2",21.2 / PBS Create
+https://v-ny.mybtv.net/live/576.m3u8
+#EXTINF:-1 tvg-id="WLIWDT3.us" tvg-logo="!!!" group-title="Section 2",21.3 WLIW-DT3 / PBS World
+https://v-ny.mybtv.net/live/577.m3u8
+#EXTINF:-1 tvg-id="WLIWDT4.us" tvg-logo="!!!" group-title="Section 2",21.4 WLIW-DT4 / PBS All Arts
+https://v-ny.mybtv.net/live/578.m3u8
+#EXTINF:-1 tvg-id="WNYEDT.us" tvg-logo="!!!" group-title="Section 2",25.1 WNYE / NYC Life
+https://v-ny.mybtv.net/live/591.m3u8
+#EXTINF:-1 tvg-id="WNYEDT2.us" tvg-logo="!!!" group-title="Section 2",25.2 WNYE-DT2 / NYC Gov
+https://v-ny.mybtv.net/live/592.m3u8
+#EXTINF:-1 tvg-id="WNYEDT3.us" tvg-logo="!!!" group-title="Section 2",25.3 WNYE-DT3 / CUNY TV
+https://v-ny.mybtv.net/live/593.m3u8
+#EXTINF:-1 tvg-id="WPXNDT.us" tvg-logo="!!!" group-title="Section 2",31.1 WPXN / Ion
+https://v-ny.mybtv.net/live/608.m3u8
+#EXTINF:-1 tvg-id="WPXNDT2.us" tvg-logo="!!!" group-title="Section 2",31.2 WPXN-DT2 / Bounce TV
+https://v-ny.mybtv.net/live/581.m3u8
+#EXTINF:-1 tvg-id="WPXNDT3.us" tvg-logo="!!!" group-title="Section 2",31.3 WPXN-DT3 / Ion Mystery
+https://v-ny.mybtv.net/live/610.m3u8
+#EXTINF:-1 tvg-id="WPXNDT4.us" tvg-logo="!!!" group-title="Section 2",31.4 WPXN-DT4 / Defy TV
+https://v-ny.mybtv.net/live/611.m3u8
+#EXTINF:-1 tvg-id="WPXNDT5.us" tvg-logo="!!!" group-title="Section 2",31.5 WPXN-DT5 / Laff
+https://v-ny.mybtv.net/live/602.m3u8
+#EXTINF:-1 tvg-id="WPXNDT6.us" tvg-logo="!!!" group-title="Section 2",31.6 WPXN-DT6 / TrueReal
+https://v-ny.mybtv.net/live/596.m3u8
+#EXTINF:-1 tvg-id="WPXNDT7.us" tvg-logo="!!!" group-title="Section 2",31.7 WPXN-DT7 / Newsy
+https://v-ny.mybtv.net/live/609.m3u8
+#EXTINF:-1 tvg-id="WJLPDT.us" tvg-logo="!!!" group-title="Section 2",33.1 WJLP / MeTV
+https://v-ny.mybtv.net/live/637.m3u8
+#EXTINF:-1 tvg-id="WJLPDT2.us" tvg-logo="!!!" group-title="Section 2",33.2 WJLP-DT2 / Laff
+https://v-ny.mybtv.net/live/625.m3u8
+#EXTINF:-1 tvg-id="WJLPDT3.us" tvg-logo="!!!" group-title="Section 2",33.3 WJLP-DT3 / Grit
+https://v-ny.mybtv.net/live/626.m3u8
+#EXTINF:-1 tvg-id="WJLPDT4.us" tvg-logo="!!!" group-title="Section 2",33.4 WJLP-DT4 / Ion Mystery
+https://v-ny.mybtv.net/live/627.m3u8
+#EXTINF:-1 tvg-id="WJLPDT5.us" tvg-logo="!!!" group-title="Section 2",33.5 WJLP-DT5 / Retro TV
+https://v-ny.mybtv.net/live/638.m3u8
+#EXTINF:-1 tvg-id="WJLPDT6.us" tvg-logo="!!!" group-title="Section 2",33.6 WJLP-DT6 / Heartland
+https://v-ny.mybtv.net/live/629.m3u8
+#EXTINF:-1 tvg-id="WJLPDT7.us" tvg-logo="!!!" group-title="Section 2",33.7 WJLP-DT7 / Story Television
+https://v-ny.mybtv.net/live/634.m3u8
+#EXTINF:-1 tvg-id="WXTVDT" tvg-logo="!!!" group-title="Section 2",41.1 WXTV / Univision 41 Nueva York
+https://v-ny.mybtv.net/live/643.m3u8
+#EXTINF:-1 tvg-id="WXTVDT2" tvg-logo="!!!" group-title="Section 2",41.2 WXTV-DT2 / Bounce TV (WXTV)
+https://v-ny.mybtv.net/live/644.m3u8
+#EXTINF:-1 tvg-id="WXTVDT3" tvg-logo="!!!" group-title="Section 2",41.3 WXTV-DT3 / Twist
+https://v-ny.mybtv.net/live/999.m3u8
+#EXTINF:-1 tvg-id="WKOBLD.us" tvg-logo="!!!" group-title="Section 2",42.1 WKOB-LD / Azteca Nueva York
+https://v-ny.mybtv.net/live/645.m3u8
+#EXTINF:-1 tvg-id="WKOBDT2.us" tvg-logo="!!!" group-title="Section 2",42.1 WKOB-DT2 / Daystar
+https://v-ny.mybtv.net/live/646.m3u8
+#EXTINF:-1 tvg-id="WKOBDT5.us" tvg-logo="!!!" group-title="Section 2",42.5 WKOB-DT3 / Sonlife
+https://v-ny.mybtv.net/live/649.m3u8
+#EXTINF:-1 tvg-id="WKOBDT6.us" tvg-logo="!!!" group-title="Section 2",42.6 WKOB-DT4 / Estrella TV
+https://v-ny.mybtv.net/live/650.m3u8
+#EXTINF:-1 tvg-id="WKOBDT7.us" tvg-logo="!!!" group-title="Section 2",42.7 WKOB-DT5 / Shop LC
+https://v-ny.mybtv.net/live/651.m3u8
+#EXTINF:-1 tvg-id="WKOBDT8.us" tvg-logo="!!!" group-title="Section 2",42.8 WKOB-DT6 / Novelisima
+https://v-ny.mybtv.net/live/652.m3u8
+#EXTINF:-1 tvg-id="WNJUDT.us" tvg-logo="!!!" group-title="Section 2",47.1 WNJU / Telemundo 47
+https://v-ny.mybtv.net/live/659.m3u8
+#EXTINF:-1 tvg-id="WNJUDT2.us" tvg-logo="!!!" group-title="Section 2",47.2 WNJU-DT2 / TeleXitos
+https://v-ny.mybtv.net/live/660.m3u8
+#EXTINF:-1 tvg-id="WRNNDT.us" tvg-logo="!!!" group-title="Section 2",48.1 WRNN / ShopHQ
+https://v-ny.mybtv.net/live/661.m3u8
+#EXTINF:-1 tvg-id="WRNNDT2.us" tvg-logo="!!!" group-title="Section 2",48.2 WRNN-DT2 / Circle
+https://v-ny.mybtv.net/live/662.m3u8
+#EXTINF:-1 tvg-id="WRNNDT3.us" tvg-logo="!!!" group-title="Section 2",48.3 WRNN-DT3 / Canal de la Fe
+https://v-ny.mybtv.net/live/663.m3u8
+#EXTINF:-1 tvg-id="WRNNDT4.us" tvg-logo="!!!" group-title="Section 2",48.4 WRNN-DT4 / QVC
+https://v-ny.mybtv.net/live/612.m3u8
+#EXTINF:-1 tvg-id="WFUTDT.us" tvg-logo="!!!" group-title="Section 2",68.1 WFUT / UniMás Nueva York
+https://v-ny.mybtv.net/live/713.m3u8
+#EXTINF:-1 tvg-id="WFUTDT2.us" tvg-logo="!!!" group-title="Section 2",68.2 WFUT-DT2 / True Crime Network
+https://v-ny.mybtv.net/live/714.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN (US)" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png" group-title="Section 2",CNN (US)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="CBSNewsNY.us" tvg-name="CBSN NY" tvg-logo="https://i.ibb.co/GC5cw68/cbsnny.png" group-title="Section 2",CBSN NY
