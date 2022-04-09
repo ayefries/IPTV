@@ -135,7 +135,7 @@ https://v-ny.mybtv.net/live/568.m3u8
 https://v-ny.mybtv.net/live/569.m3u8
 #EXTINF:-1 tvg-id="WLIWDT.us" tvg-name="21.1 WLIW / PBS WLIW21" tvg-logo="https://i.ibb.co/MDGk6tP/wliw21.png" group-title="Section 2",21.1 WLIW / PBS WLIW21
 https://v-ny.mybtv.net/live/575.m3u8
-#EXTINF:-1 tvg-id="WLIWDT2.us" tvg-name="21.2 / PBS Create" tvg-logo="https://i.ibb.co/nk081xB/createtv.png" group-title="Section 2",21.2 / PBS Create
+#EXTINF:-1 tvg-id="WLIWDT2.us" tvg-name="21.2 / PBS Create" tvg-logo="https://i.ibb.co/nk081xB/createtv.png" group-title="Section 2",21.2 WLIW-DT2 / PBS Create
 https://v-ny.mybtv.net/live/576.m3u8
 #EXTINF:-1 tvg-id="WLIWDT3.us" tvg-name="21.3 WLIW-DT3 / PBS World" tvg-logo="https://i.ibb.co/b6BgPBf/pbsworld.png" group-title="Section 2",21.3 WLIW-DT3 / PBS World
 https://v-ny.mybtv.net/live/577.m3u8
@@ -193,6 +193,7 @@ https://v-ny.mybtv.net/live/650.m3u8
 https://v-ny.mybtv.net/live/651.m3u8
 #EXTINF:-1 tvg-id="WKOBDT8.us" tvg-name="42.8 WKOB-DT6 / Novelisima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="Section 2",42.8 WKOB-DT6 / Novelisima
 https://v-ny.mybtv.net/live/652.m3u8
+#EXTINF:-1 tvg-id="WMBQCD.us" tvg-name="46.1 WMBQ-CD / WMBQ FNX" tvg-logo="https://i.pinimg.com/originals/9b/dc/1f/9bdc1f3a9f5241e4c583d63ae584ab5a.jpg" group-title="Section 2",46.1 WMBQ-CD / WMBQ FNX
 #EXTINF:-1 tvg-id="WNJUDT.us" tvg-name="47.1 WNJU / Telemundo 47" tvg-logo="https://media.telemundo47.com/2020/10/TLMD_47_New-York.png?fit=1200%2C628&quality=85&strip=all" group-title="Section 2",47.1 WNJU / Telemundo 47
 https://v-ny.mybtv.net/live/659.m3u8
 #EXTINF:-1 tvg-id="WNJUDT2.us" tvg-name="47.2 WNJU-DT2 / TeleXitos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Telexitos_logo.png/220px-Telexitos_logo.png" group-title="Section 2",47.2 WNJU-DT2 / TeleXitos
@@ -242,4 +243,4 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index
 #EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-logo="https://i.ibb.co/thQSHPw/NASA.png" group-title="Section 2",NASA TV
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 #EXTINF:-1 tvg-id="NASATVMedia.us" tvg-name="NASA TV Media" tvg-logo="https://i.ibb.co/QdYH2Hf/NASA-Media.png" group-title="Section 2",NASA TV Media
-http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
