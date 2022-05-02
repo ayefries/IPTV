@@ -19,15 +19,15 @@ http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
 #EXTINF:-1 tvg-id="N1(src01).sr" tvg-name="N1 RS" tvg-logo="https://i.ibb.co/Nry0kK3/n1-srb.png" group-title="Section 1",N1 RS
 https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
-#EXTINF:-1 tvg-id="KurirTV(src01).ba" tvg-name="Kurir TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIuTonvrgqT3KXdDxOW40jpxsJmrvmn6yeO-RyZESEWB9pcm2J0wt2KPXPdLXrz8q7MxY&usqp=CAU" group-title="Section 1",Kurir TV HD 🤮
+#EXTINF:-1 tvg-id="KurirTV(src01).ba" tvg-name="Kurir TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIuTonvrgqT3KXdDxOW40jpxsJmrvmn6yeO-RyZESEWB9pcm2J0wt2KPXPdLXrz8q7MxY&usqp=CAU" group-title="Section 1",Kurir TV HD
 https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
-#EXTINF:-1 tvg-id="REDTV(Pink2)(src01).rs" tvg-name="Red TV RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/RedTV-Srbija-Logo.png/2560px-RedTV-Srbija-Logo.png" group-title="Section 1",Red TV RS 🤮
+#EXTINF:-1 tvg-id="REDTV(Pink2)(src01).rs" tvg-name="Red TV RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/RedTV-Srbija-Logo.png/2560px-RedTV-Srbija-Logo.png" group-title="Section 1",Red TV RS
 https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
 #EXTINF:-1 tvg-id="euronews(Serbia).rs" tvg-name="Euronews Srbija" tvg-logo="https://i.ibb.co/VLN8Brj/euronews-srb-white.png" group-title="Section 1",Euronews Srbija
 https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w1797442721_b6256000.m3u8
 #EXTINF:-1 tvg-id="RTRS(src01).ba" tvg-name="RTRS" tvg-logo="https://i.ibb.co/Kj2jndT/rtrs.png" group-title="Section 1",RTRS
-http://parh.rtrs.tv:1935/tv/live/index.m3u8 🤮
-#EXTINF:-1 tvg-id="BN(src01).ba" tvg-name="BN Televizija" tvg-logo="https://iconape.com/wp-content/png_logo_vector/bn-tv-logo.png" group-title="Section 1",BN Televizija 🤮
+http://parh.rtrs.tv/tv/live/index.m3u8
+#EXTINF:-1 tvg-id="BN(src01).ba" tvg-name="BN Televizija" tvg-logo="https://iconape.com/wp-content/png_logo_vector/bn-tv-logo.png" group-title="Section 1",BN Televizija
 https://dns2.rtvbn.com:8080/live/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraBalkans(src01).hr" tvg-name="Al Jazeera Balkans" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowApp_AlJazeera_new4-4logo_001_xlrg.png" group-title="Section 1",Al Jazeera Balkans
 http://live-hls-web-ajb.getaj.net/AJB/01.m3u8
@@ -53,10 +53,10 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 http://ott-cdn.ucom.am/s26/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 Français" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/46b12ecedc273ad2e5909220cd064070-1.png" group-title="Section 1",France 24 Français
 http://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="SkyNews.fr" tvg-name="Sky News" tvg-logo="https://i.ibb.co/q11379S/skynewsuk.png" group-title="Section 1",Sky News
-https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/500px-Mezzo_Logo.svg.png" group-title="Section 1",Mezzo
 http://ott-cdn.ucom.am/s35/index.m3u8
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="https://i.ibb.co/q11379S/skynewsuk.png" group-title="Section 1",Sky News
+https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index.m3u8
 #EXTINF:-1 tvg-id="FashionTV(src01).uk" tvg-name="Fashion TV" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/44/ac/08/44ac0848-d834-ba0d-a354-52e2633c182e/source/512x512bb.jpg" group-title="Section 1",Fashion TV
 http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNInternational.us" tvg-name="3ABN International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/3ABN_logo.svg/2560px-3ABN_logo.svg.png" group-title="Section 1",3ABN International
@@ -71,6 +71,12 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="NHKWorld.uk" tvg-name="NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png" group-title="Section 1",NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-logo="https://play-lh.googleusercontent.com/j5DHETDoeict0XVB5mWrojREZFU2o2uvjepOymEY41KOtmOGmPU-Ho9LfBuaSt1Ngh4Z" group-title="Section 1",KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-name="EBS English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR8Odl0RPGBzVqZVHtH8Ftvuh71FPd8Y_Hti5itZg=s900-c-k-c0x00ffffff-no-rj" group-title="Section 1",EBS English
+http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/2560px-TRT_World_logo.svg.png" group-title="Section 1",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="VoATV.us" tvg-name="Voice of America" tvg-logo="https://i.ibb.co/n3VS7GR/voa.png" group-title="Section 1",Voice of America
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 #EXTINF:-1 tvg-id="Bloomberg(UK).uk" tvg-name="Bloomberg TV Europe" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Section 1",Bloomberg TV Europe
@@ -220,20 +226,39 @@ https://v-ny.mybtv.net/live/713.m3u8
 https://v-ny.mybtv.net/live/714.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png" group-title="Section 2",CNN
 http://38.127.211.18/live/c2eds/CNN/HLS/index.m3u8
-#EXTINF:-1 tvg-id="Newsmax.us" tvg-name="Newsmax" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E1BAQHGPMP9fe0VRg/company-background_10000/0/1623677611337?e=2147483647&v=beta&t=X-E5mYlBPfkMGDFY43f1HcprcpzGSqbZNLu2WcohlOQ" group-title="Section 2",Newsmax 🤮
-https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" tvg-logo="https://i.ibb.co/HGkSmRH/cspan.png" group-title="Section 2",C-SPAN
-http://trn03.tulix.tv/teleup-cspan/playlist.m3u8
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" tvg-logo="https://cdn-profiles.tunein.com/s44178/images/logog.png" group-title="Section 2",C-SPAN
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+#EXTINF:-1 tvg-id="CSPAN2.us" tvg-name="C-SPAN 2" tvg-logo="https://cdn-profiles.tunein.com/s20333/images/logog.png" group-title="Section 2",C-SPAN 2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+#EXTINF:-1 tvg-id="CSPAN3.us" tvg-name="C-SPAN 3" tvg-logo="https://cdn-profiles.tunein.com/s20334/images/logog.png" group-title="Section 2",C-SPAN 3
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
 #EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-logo="https://i.ibb.co/thQSHPw/NASA.png" group-title="Section 2",NASA TV
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 #EXTINF:-1 tvg-id="NASATVMedia.us" tvg-name="NASA TV Media" tvg-logo="https://i.ibb.co/QdYH2Hf/NASA-Media.png" group-title="Section 2",NASA TV Media
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://i.ibb.co/1JGBkj4/amc.png" group-title="Section 2",AMC
 https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="IFC.us" tvg-name="IFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/IFC_2014_logo.svg/512px-IFC_2014_logo.svg.png" group-title="Section 2",IFC
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="Sundance TV" tvg-logo="https://liberador.net/media/images/SundanceTV.max-640x640.jpg" group-title="Section 2",Sundance TV
+https://bcovlive-a.akamaihd.net/d2fcbeaead4b425fa13d4fec961fc47a/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="ViceTV.us" tvg-name="Vice TV" tvg-logo="https://tbivision.com/files/2015/02/Vice_logo.jpg" group-title="Section 2",Vice TV
+https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://i.ibb.co/dtm6h3L/bbcamerica.png" group-title="Section 2",BBC America
 https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/white-mtv-png-logo-19.png" group-title="Section 2",MTV
 http://38.127.211.18/live/c2eds/MTV/HLS/index.m3u8
+#EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="BabyFirst TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Bftvlogo2019.png/revision/latest/scale-to-width-down/601?cb=20210515091511" group-title="Section 2",BabyFirst TV
+https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/playlist.m3u8
+#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="Section 2",HSN
+https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
+#EXTINF:-1 tvg-id="HSN2.us" tvg-name="HSN2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/HSN2_logo_new.png/revision/latest/scale-to-width-down/250?cb=20220104031744" group-title="Section 2",HSN2
+https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC" tvg-logo="http://1.bp.blogspot.com/_FXdngRbJ4pU/SczzN0AXOzI/AAAAAAAAAJU/5VfSO7nSO3E/s320/QVC+Logo.png" group-title="Section 2",QVC
+https://lsqvc1usott-lh.akamaihd.net/i/lsqvc1usott_01@838836/master.m3u8
+#EXTINF:-1 tvg-id="QVC2.us" tvg-name="QVC2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/QVC2-DE-logo.png" group-title="Section 2",QVC2
+https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8
+#EXTINF:-1 tvg-id="QVC3.us" tvg-name="QVC3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/QVC3_logo%2C_1_April_2019.png" group-title="Section 2",QVC3
+https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8
 #EXTINF:-1 tvg-id="YTA.us" tvg-name="Youtoo America" tvg-logo="https://i.imgur.com/3se2VEB.png" group-title="Section 2",Youtoo America
 https://thegateway.app/YouToo/YTamerica/playlist.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60526b849849524498245b78" group-title="Section 2",Court TV
@@ -242,6 +267,8 @@ https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/inde
 https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
 #EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/3ABN_logo.svg/2560px-3ABN_logo.svg.png" group-title="Section 2",3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 tvg-id="Newsmax.us" tvg-name="Newsmax" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E1BAQHGPMP9fe0VRg/company-background_10000/0/1623677611337?e=2147483647&v=beta&t=X-E5mYlBPfkMGDFY43f1HcprcpzGSqbZNLu2WcohlOQ" group-title="Section 2",Newsmax
+https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="CheddarNews.us" tvg-name="Cheddar News" tvg-logo="https://cheddar-production.s3.amazonaws.com/assets/cheddar_news_share.png" group-title="Section 2",Cheddar News
 https://live.chdrstatic.com/cbn/index.m3u8
 #EXTINF:-1 tvg-id="CBSNewsNY.us" tvg-name="CBSN NY" tvg-logo="https://i.ibb.co/GC5cw68/cbsnny.png" group-title="Section 2",CBSN NY
