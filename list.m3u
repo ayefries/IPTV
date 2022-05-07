@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/w16vy5w43wswq7kvy39p"
-#EXTINF:-1 tvg-id="RTCG1(src01).hr" tvg-name="RTCG 1" tvg-logo="https://i.ibb.co/Qm0H9R1/Frame-3.png" group-title="Section 1",RTCG 1
+#EXTINF:-1 tvg-id="RTCG1(src01).hr" tvg-name="RTCG 1" tvg-logo="https://" group-title="Section 1",RTCG 1
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTCG2(src01).hr" tvg-name="RTCG 2" tvg-logo="https://i.ibb.co/Z2PLXKz/Frame-2.png" group-title="Section 1",RTCG 2
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
@@ -80,7 +80,7 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="VoATV.us" tvg-name="Voice of America" tvg-logo="https://i.ibb.co/n3VS7GR/voa.png" group-title="Section 1",Voice of America
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 #EXTINF:-1 tvg-id="Bloomberg(UK).uk" tvg-name="Bloomberg TV Europe" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Section 1",Bloomberg TV Europe
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-id="euronews.uk" tvg-name="Euronews English" tvg-logo="https://i.ibb.co/2q23mQg/euronews-white.png" group-title="Section 1",Euronews English
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 #EXTINF:-1 tvg-id="France24English.uk" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Section 1",France 24 English
@@ -225,7 +225,9 @@ https://v-ny.mybtv.net/live/713.m3u8
 #EXTINF:-1 tvg-id="WFUTDT2.us" tvg-name="68.2 WFUT-DT2 / True Crime Network" tvg-logo="https://play-lh.googleusercontent.com/xIfyZo49wE9HLjmmlEeyVJG0DoWs3Eysq_An9RNOXGsl8GrE4qIX7XHKScuy92eNp8Xy" group-title="Section 2",68.2 WFUT-DT2 / True Crime Network
 https://v-ny.mybtv.net/live/714.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png" group-title="Section 2",CNN
-http://38.127.211.18/live/c2eds/CNN/HLS/index.m3u8
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png" group-title="Section 2",HLN
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" tvg-logo="https://cdn-profiles.tunein.com/s44178/images/logog.png" group-title="Section 2",C-SPAN
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
 #EXTINF:-1 tvg-id="CSPAN2.us" tvg-name="C-SPAN 2" tvg-logo="https://cdn-profiles.tunein.com/s20333/images/logog.png" group-title="Section 2",C-SPAN 2
@@ -241,14 +243,10 @@ https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/62407
 #EXTINF:-1 tvg-id="IFC.us" tvg-name="IFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/IFC_2014_logo.svg/512px-IFC_2014_logo.svg.png" group-title="Section 2",IFC
 #EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="Sundance TV" tvg-logo="https://liberador.net/media/images/SundanceTV.max-640x640.jpg" group-title="Section 2",Sundance TV
 https://bcovlive-a.akamaihd.net/d2fcbeaead4b425fa13d4fec961fc47a/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="ViceTV.us" tvg-name="Vice TV" tvg-logo="https://tbivision.com/files/2015/02/Vice_logo.jpg" group-title="Section 2",Vice TV
-https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://i.ibb.co/dtm6h3L/bbcamerica.png" group-title="Section 2",BBC America
 https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/white-mtv-png-logo-19.png" group-title="Section 2",MTV
 http://38.127.211.18/live/c2eds/MTV/HLS/index.m3u8
-#EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="BabyFirst TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Bftvlogo2019.png/revision/latest/scale-to-width-down/601?cb=20210515091511" group-title="Section 2",BabyFirst TV
-https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/playlist.m3u8
 #EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="Section 2",HSN
 https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
 #EXTINF:-1 tvg-id="HSN2.us" tvg-name="HSN2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/HSN2_logo_new.png/revision/latest/scale-to-width-down/250?cb=20220104031744" group-title="Section 2",HSN2
@@ -259,16 +257,21 @@ https://lsqvc1usott-lh.akamaihd.net/i/lsqvc1usott_01@838836/master.m3u8
 https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8
 #EXTINF:-1 tvg-id="QVC3.us" tvg-name="QVC3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/QVC3_logo%2C_1_April_2019.png" group-title="Section 2",QVC3
 https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8
-#EXTINF:-1 tvg-id="YTA.us" tvg-name="Youtoo America" tvg-logo="https://i.imgur.com/3se2VEB.png" group-title="Section 2",Youtoo America
-https://thegateway.app/YouToo/YTamerica/playlist.m3u8
-#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60526b849849524498245b78" group-title="Section 2",Court TV
-https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg TV" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logod.png" group-title="Section 2",Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-name="Bloomberg TV+" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logod.png" group-title="Section 2",Bloomberg TV+
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-name="Bloomberg Quicktake" tvg-logo="https://www.adweek.com/wp-content/uploads/2019/12/quicktake-bloomberg-tictoc-CONTENT-2019-640x360.jpg" group-title="Section 2",Bloomberg Quicktake
+https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
 #EXTINF:-1 tvg-id="3ABN.us" tvg-name="3ABN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/3ABN_logo.svg/2560px-3ABN_logo.svg.png" group-title="Section 2",3ABN
 https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
 #EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/3ABN_logo.svg/2560px-3ABN_logo.svg.png" group-title="Section 2",3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 tvg-id="HISTORY.us" tvg-name="HISTORY" tvg-logo="!!!" group-title="Section 2",HISTORY
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Newsmax.us" tvg-name="Newsmax" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E1BAQHGPMP9fe0VRg/company-background_10000/0/1623677611337?e=2147483647&v=beta&t=X-E5mYlBPfkMGDFY43f1HcprcpzGSqbZNLu2WcohlOQ" group-title="Section 2",Newsmax
 https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="InfoWars.us" tvg-name="InfoWars" tvg-logo="!!!" group-title="Section 2",InfoWars
 #EXTINF:-1 tvg-id="CheddarNews.us" tvg-name="Cheddar News" tvg-logo="https://cheddar-production.s3.amazonaws.com/assets/cheddar_news_share.png" group-title="Section 2",Cheddar News
 https://live.chdrstatic.com/cbn/index.m3u8
 #EXTINF:-1 tvg-id="CBSNewsNY.us" tvg-name="CBSN NY" tvg-logo="https://i.ibb.co/GC5cw68/cbsnny.png" group-title="Section 2",CBSN NY
@@ -279,15 +282,11 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="ABC7247.us" tvg-name="ABC 24/7 News New York" tvg-logo="https://i.ibb.co/nQLBmtL/abcnews.png" group-title="Section 2",ABC 24/7 News New York
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
-#EXTINF:-1 tvg-id="VevoPop.us" tvg-name="Vevo TV Pop" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Section 2",Vevo TV Pop
+#EXTINF:-1 tvg-id="VevoPop.us" tvg-name="Vevo Pop" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Section 2",Vevo Pop
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
-#EXTINF:-1 tvg-id="VevoLatino.us" tvg-name="Vevo TV Latino" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="Section 2",Vevo TV Latino
+#EXTINF:-1 tvg-id="VevoLatino.us" tvg-name="Vevo Latino" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="Section 2",Vevo Latino
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF:-1 tvg-id="VevoHipHop.us" tvg-name="Vevo TV Hip Hop" tvg-logo="https://i.imgur.com/Lbc9cYw.png" group-title="Section 2",Vevo TV Hip Hop
+#EXTINF:-1 tvg-id="VevoHipHop.us" tvg-name="Vevo Hip Hop" tvg-logo="https://i.imgur.com/Lbc9cYw.png" group-title="Section 2",Vevo Hip Hop
 https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
 #EXTINF:-1 tvg-id="Food52.us" tvg-name="Food52 TV" tvg-logo="https://i.ibb.co/qWz07Kd/food52.png" group-title="Section 2",Food52 TV
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg TV" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logod.png" group-title="Section 2",Bloomberg TV
-https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-name="Bloomberg Quicktake" tvg-logo="https://www.adweek.com/wp-content/uploads/2019/12/quicktake-bloomberg-tictoc-CONTENT-2019-640x360.jpg" group-title="Section 2",Bloomberg Quicktake
-https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
