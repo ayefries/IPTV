@@ -199,6 +199,8 @@ https://v-ny.mybtv.net/live/650.m3u8
 https://v-ny.mybtv.net/live/651.m3u8
 #EXTINF:-1 tvg-id="WKOBDT6.us" tvg-name="42.8 WKOB-DT6 / Novelisima" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WKOB-DT6.png" group-title="Section 2",42.8 WKOB-DT6 / Novelisima
 https://v-ny.mybtv.net/live/652.m3u8
+#EXTINF:-1 tvg-id="WMBQCD.us" tvg-name="46.1 WMBQ-CD / WMBQ FNX" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WMBQ-CD.png" group-title="Section 2",46.1 WMBQ-CD / WMBQ FNX
+https://v-ny.mybtv.net/live/658.m3u8
 #EXTINF:-1 tvg-id="WNJUDT(Spanish).us" tvg-name="47.1 WNJU / Telemundo 47" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNJU-DT.png" group-title="Section 2",47.1 WNJU / Telemundo 47
 https://v-ny.mybtv.net/live/659.m3u8
 #EXTINF:-1 tvg-id="WNJUDT2(Spanish).us" tvg-name="47.2 WNJU-DT2 / TeleXitos" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNJU-DT2.png" group-title="Section 2",47.2 WNJU-DT2 / TeleXitos
