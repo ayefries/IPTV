@@ -5,279 +5,281 @@ http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTCGSAT(src01).hr" tvg-name="RTCG SAT" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/RTCGSAT.png" group-title="Section 1",RTCG SAT
 http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="televizijatv7.me" tvg-name="TV7" tvg-logo="https://i.ibb.co/JtVXXB8/tv7.png" group-title="Section 1",TV7
+#EXTINF:-1 tvg-id="televizijatv7.me" tvg-name="TV7" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/TV7.png" group-title="Section 1",TV7
 https://5a1178b42cc03.streamlock.net/tehnikatv777/tehnikatv777/chunklist_w950220315.m3u8
-#EXTINF:-1 tvg-id="HTV1(src01).hr" tvg-name="HRT 1" tvg-logo="https://i.ibb.co/HD0nGCX/HRT1.png" group-title="Section 1",HRT 1
+#EXTINF:-1 tvg-id="HTV1(src01).hr" tvg-name="HRT 1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HRT1.png" group-title="Section 1",HRT 1
 http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
-#EXTINF:-1 tvg-id="HTV2(src01).hr" tvg-name="HRT 2" tvg-logo="https://i.ibb.co/BC1C2Vc/HRT2.png" group-title="Section 1",HRT 2
+#EXTINF:-1 tvg-id="HTV2(src01).hr" tvg-name="HRT 2" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HRT2.png" group-title="Section 1",HRT 2
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
-#EXTINF:-1 tvg-id="HRT3(src01).hr" tvg-name="HRT 3" tvg-logo="https://i.ibb.co/7S8krKm/HRT3.png" group-title="Section 1",HRT 3
+#EXTINF:-1 tvg-id="HRT3(src01).hr" tvg-name="HRT 3" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HRT3.png" group-title="Section 1",HRT 3
 http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
-#EXTINF:-1 tvg-id="HRT4(src01).hr" tvg-name="HRT 4" tvg-logo="https://i.ibb.co/kXyft0T/HRT3-1.png" group-title="Section 1",HRT 4
+#EXTINF:-1 tvg-id="HRT4(src01).hr" tvg-name="HRT 4" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HRT4.png" group-title="Section 1",HRT 4
 http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
-#EXTINF:-1 tvg-id="RTLTELEVIZIJA(src01).hr" tvg-name="RTL Hrvatska" tvg-logo="https://i.ibb.co/MBrH0Qp/rtl.png" group-title="Section 1",RTL Hrvatska
+#EXTINF:-1 tvg-id="RTLTELEVIZIJA(src01).hr" tvg-name="RTL Hrvatska" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/RTLHR.png" group-title="Section 1",RTL Hrvatska
 http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
-#EXTINF:-1 tvg-id="N1(src01).sr" tvg-name="N1 RS" tvg-logo="https://i.ibb.co/Nry0kK3/n1-srb.png" group-title="Section 1",N1 RS
+#EXTINF:-1 tvg-id="N1(src01).sr" tvg-name="N1 RS" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/N1RS.png" group-title="Section 1",N1 RS
 https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
-#EXTINF:-1 tvg-id="KurirTV(src01).ba" tvg-name="Kurir TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIuTonvrgqT3KXdDxOW40jpxsJmrvmn6yeO-RyZESEWB9pcm2J0wt2KPXPdLXrz8q7MxY&usqp=CAU" group-title="Section 1",Kurir TV HD
+#EXTINF:-1 tvg-id="KurirTV(src01).ba" tvg-name="Kurir TV HD" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Kurir.png" group-title="Section 1",Kurir TV HD
 https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
-#EXTINF:-1 tvg-id="REDTV(Pink2)(src01).rs" tvg-name="Red TV RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/RedTV-Srbija-Logo.png/2560px-RedTV-Srbija-Logo.png" group-title="Section 1",Red TV RS
+#EXTINF:-1 tvg-id="REDTV(Pink2)(src01).rs" tvg-name="Red TV RS" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Red.png" group-title="Section 1",Red TV RS
 https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
-#EXTINF:-1 tvg-id="euronews(Serbia).rs" tvg-name="Euronews Srbija" tvg-logo="https://i.ibb.co/VLN8Brj/euronews-srb-white.png" group-title="Section 1",Euronews Srbija
+#EXTINF:-1 tvg-id="euronews(Serbia).rs" tvg-name="Euronews Srbija" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/EuronewsSrbija.png" group-title="Section 1",Euronews Srbija
 https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w1797442721_b6256000.m3u8
-#EXTINF:-1 tvg-id="RTRS(src01).ba" tvg-name="RTRS" tvg-logo="https://i.ibb.co/Kj2jndT/rtrs.png" group-title="Section 1",RTRS
+#EXTINF:-1 tvg-id="RTRS(src01).ba" tvg-name="RTRS" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/RTRS.png" group-title="Section 1",RTRS
 http://parh.rtrs.tv/tv/live/index.m3u8
-#EXTINF:-1 tvg-id="BN(src01).ba" tvg-name="BN Televizija" tvg-logo="https://iconape.com/wp-content/png_logo_vector/bn-tv-logo.png" group-title="Section 1",BN Televizija
+#EXTINF:-1 tvg-id="BN(src01).ba" tvg-name="BN Televizija" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/BN.png" group-title="Section 1",BN Televizija
 https://dns2.rtvbn.com:8080/live/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraBalkans(src01).hr" tvg-name="Al Jazeera Balkans" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowApp_AlJazeera_new4-4logo_001_xlrg.png" group-title="Section 1",Al Jazeera Balkans
+#EXTINF:-1 tvg-id="AlJazeeraBalkans(src01).hr" tvg-name="Al Jazeera Balkans" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/AJB.png" group-title="Section 1",Al Jazeera Balkans
 http://live-hls-web-ajb.getaj.net/AJB/01.m3u8
-#EXTINF:-1 tvg-id="TVSLO1(src01).si" tvg-name="TV SLO 1" tvg-logo="https://i.ibb.co/qpHB5Rx/TV-SLO-1-HD.png" group-title="Section 1",TV SLO 1
+#EXTINF:-1 tvg-id="TVSLO1(src01).si" tvg-name="TV SLO 1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/SLO1.png" group-title="Section 1",TV SLO 1
 https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSLO2(src01).si" tvg-name="TV SLO 2" tvg-logo="https://i.ibb.co/mCLfqP3/TV-SLO-2-HD.png" group-title="Section 1",TV SLO 2
+#EXTINF:-1 tvg-id="TVSLO2(src01).si" tvg-name="TV SLO 2" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/SLO2.png" group-title="Section 1",TV SLO 2
 https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSLO3(src01).si" tvg-name="TV SLO 3" tvg-logo="https://i.ibb.co/PG6hxw9/TV-SLO-3-HD.png" group-title="Section 1",TV SLO 3
+#EXTINF:-1 tvg-id="TVSLO3(src01).si" tvg-name="TV SLO 3" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/SLO3.png" group-title="Section 1",TV SLO 3
 https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://i.imgur.com/2UDFbGd.png" group-title="Section 1",Rai 1
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Rai1.png" group-title="Section 1",Rai 1
 http://ott-cdn.ucom.am/s29/index.m3u8
-#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://i.imgur.com/Vy7mpmW.png" group-title="Section 1",Rai 3
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Rai3.png" group-title="Section 1",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rai_News_24.svg/1920px-Rai_News_24.svg.png" group-title="Section 1",Rai News 24
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/RaiNews24.png" group-title="Section 1",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8?hdnea=st=1647004011~exp=1647004161~acl=/*~hmac=e5f979fa5dd0655e55655e7c0a30a4fb7497e8a60ef1eec9dafcd2ac907270eb
-#EXTINF:-1 tvg-id="La7.it" tvg-name="La7" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/237_image_7_w116.webp" group-title="Section 1",La7
+#EXTINF:-1 tvg-id="La7.it" tvg-name="La7" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/La7.png" group-title="Section 1",La7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
-#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG 24" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/393_image_7_w116.webp" group-title="Section 1",Sky TG 24
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG 24" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/SkyTG24.png" group-title="Section 1",Sky TG 24
 https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
-#EXTINF:-1 tvg-id="VH1.it" tvg-name="VH1 Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VH1_2020.svg/2880px-VH1_2020.svg.png" group-title="Section 1",VH1 Italia
+#EXTINF:-1 tvg-id="VH1.it" tvg-name="VH1 Italia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/VH1Italia.png" group-title="Section 1",VH1 Italia
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 tvg-id="DW(src02).de" tvg-name="DW Deutsch" tvg-logo="https://i.ibb.co/df03T62/dw.png" group-title="Section 1",DW Deutsch
+#EXTINF:-1 tvg-id="DW(src02).de" tvg-name="DW Deutsch" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/DWDE.png" group-title="Section 1",DW Deutsch
 http://ott-cdn.ucom.am/s26/index.m3u8
-#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 Français" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/46b12ecedc273ad2e5909220cd064070-1.png" group-title="Section 1",France 24 Français
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 Français" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/France24FR.png" group-title="Section 1",France 24 Français
 http://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/500px-Mezzo_Logo.svg.png" group-title="Section 1",Mezzo
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Mezzo.png" group-title="Section 1",Mezzo
 http://ott-cdn.ucom.am/s35/index.m3u8
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="https://i.ibb.co/q11379S/skynewsuk.png" group-title="Section 1",Sky News
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/SkyNews.png" group-title="Section 1",Sky News
 https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index.m3u8
-#EXTINF:-1 tvg-id="FashionTV(src01).uk" tvg-name="Fashion TV" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/44/ac/08/44ac0848-d834-ba0d-a354-52e2633c182e/source/512x512bb.jpg" group-title="Section 1",Fashion TV
+#EXTINF:-1 tvg-id="FashionTV(src01).uk" tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/FTV.png" group-title="Section 1",Fashion TV
 http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/playlist.m3u8
-#EXTINF:-1 tvg-id="3ABNInternational.us" tvg-name="3ABN International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/3ABN_logo.svg/2560px-3ABN_logo.svg.png" group-title="Section 1",3ABN International
+#EXTINF:-1 tvg-id="3ABNInternational.us" tvg-name="3ABN International" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/3ABNI.png" group-title="Section 1",3ABN International
 https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
-#EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" tvg-logo="https://audiovisual.ec.europa.eu/presentation/img/content/03-EBS/01-EBS/ebs-LOGO.png" group-title="Section 1",EbS
+#EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/EBS.png" group-title="Section 1",EbS
 https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=96000-video=2600000.m3u8
-#EXTINF:-1 tvg-id="EbS+.be" tvg-name="EbS+" tvg-logo="https://i.ibb.co/WFksrr4/ebsp.png" group-title="Section 1",EbS+
+#EXTINF:-1 tvg-id="EbS+.be" tvg-name="EbS+" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/EBSP.png" group-title="Section 1",EbS+
 https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
-#EXTINF:-1 tvg-id="CGTN(English).no" tvg-name="CGTN English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1024px-CGTN.svg.png" group-title="Section 1",CGTN English
+#EXTINF:-1 tvg-id="CGTN(English).no" tvg-name="CGTN English" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/CGTN.png" group-title="Section 1",CGTN English
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-id="CGTNDocumentary(English).no" tvg-name="CGTN Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Section 1",CGTN Documentary
+#EXTINF:-1 tvg-id="CGTNDocumentary(English).no" tvg-name="CGTN Documentary" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/CGTND.png" group-title="Section 1",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 tvg-id="NHKWorld.uk" tvg-name="NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png" group-title="Section 1",NHK World
+#EXTINF:-1 tvg-id="NHKWorld.uk" tvg-name="NHK World" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/NHKW.png" group-title="Section 1",NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-logo="https://play-lh.googleusercontent.com/j5DHETDoeict0XVB5mWrojREZFU2o2uvjepOymEY41KOtmOGmPU-Ho9LfBuaSt1Ngh4Z" group-title="Section 1",KBS World
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/KBSW.png" group-title="Section 1",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-name="EBS English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR8Odl0RPGBzVqZVHtH8Ftvuh71FPd8Y_Hti5itZg=s900-c-k-c0x00ffffff-no-rj" group-title="Section 1",EBS English
+#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-name="EBS English" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/EBSE.png" group-title="Section 1",EBS English
 http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/2560px-TRT_World_logo.svg.png" group-title="Section 1",TRT World
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/TRTW.png" group-title="Section 1",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="Bloomberg(UK).uk" tvg-name="Bloomberg TV Europe" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Section 1",Bloomberg TV Europe
+#EXTINF:-1 tvg-id="VoATV.us" tvg-name="Voice of America" tvg-logo="" group-title="Section 1",Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:-1 tvg-id="Bloomberg(UK).uk" tvg-name="Bloomberg TV Europe" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/BloombergEU.png" group-title="Section 1",Bloomberg TV Europe
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-id="euronews.uk" tvg-name="Euronews English" tvg-logo="https://i.ibb.co/2q23mQg/euronews-white.png" group-title="Section 1",Euronews English
+#EXTINF:-1 tvg-id="euronews.uk" tvg-name="Euronews English" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Euronews.png" group-title="Section 1",Euronews English
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-#EXTINF:-1 tvg-id="France24English.uk" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Section 1",France 24 English
+#EXTINF:-1 tvg-id="France24English.uk" tvg-name="France 24 English" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/France24.png" group-title="Section 1",France 24 English
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="DW(English).uk" tvg-name="DW English" tvg-logo="https://i.ibb.co/df03T62/dw.png" group-title="Section 1",DW English
+#EXTINF:-1 tvg-id="DW(English).uk" tvg-name="DW English" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/DWEnglish.png" group-title="Section 1",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.uk" tvg-name="Al Jazeera English" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowApp_AlJazeera_new4-4logo_001_xlrg.png" group-title="Section 1",Al Jazeera English
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.uk" tvg-name="Al Jazeera English" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/AJE.png" group-title="Section 1",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://i.ibb.co/d0Zr79b/bbcwn.png" group-title="Section 1",BBC World News
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/BBCWorld.png" group-title="Section 1",BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:-1 tvg-id="CNNInternational.uk" tvg-name="CNN International Europe" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="Section 1",CNN International Europe
+#EXTINF:-1 tvg-id="CNNInternational.uk" tvg-name="CNN International Europe" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/CNNI.png" group-title="Section 1",CNN International Europe
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCEurope(src02).nl" tvg-name="CNBC Europe" tvg-logo="https://i.ibb.co/Pmbm36d/cnbceu.png" group-title="Section 1",CNBC Europe
+#EXTINF:-1 tvg-id="CNBCEurope(src02).nl" tvg-name="CNBC Europe" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/CNBCEU.png" group-title="Section 1",CNBC Europe
 http://ott-cdn.ucom.am/s65/index.m3u8
-#EXTINF:-1 tvg-id="WCBS.us" tvg-name="2.1 WCBS / CBS 2 New York" tvg-logo="https://i.ibb.co/B3NcrHm/wcbs.png" group-title="Section 2",2.1 WCBS / CBS 2 New York
+#EXTINF:-1 tvg-id="WCBS.us" tvg-name="2.1 WCBS / CBS 2 New York" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WCBS-DT.png" group-title="Section 2",2.1 WCBS / CBS 2 New York
 https://v-ny.mybtv.net/live/545.m3u8
-#EXTINF:-1 tvg-id="WCBSDT2.us" tvg-name="2.2 WCBS-DT2 / Start TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s109454_dark_360w_270h.png" group-title="Section 2",2.2 WCBS-DT2 / Start TV
+#EXTINF:-1 tvg-id="WCBSDT2.us" tvg-name="2.2 WCBS-DT2 / Start TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WCBS-DT2.png" group-title="Section 2",2.2 WCBS-DT2 / Start TV
 https://v-ny.mybtv.net/live/546.m3u8
-#EXTINF:-1 tvg-id="WCBSDT3.us" tvg-name="2.3 WCBS-DT2 / Dabl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s112157_dark_360w_270h.png" group-title="Section 2",2.3 WCBS-DT2 / Dabl
+#EXTINF:-1 tvg-id="WCBSDT3.us" tvg-name="2.3 WCBS-DT2 / Dabl" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WCBS-DT3.png" group-title="Section 2",2.3 WCBS-DT2 / Dabl
 https://v-ny.mybtv.net/live/547.m3u8
-#EXTINF:-1 tvg-id="WCBSDT4.us" tvg-name="2.4 WCBS-DT4 / Fave TV" tvg-logo="https://i.ibb.co/whcjT6G/favetv.png" group-title="Section 2",2.4 WCBS-DT4 / Fave TV
+#EXTINF:-1 tvg-id="WCBSDT4.us" tvg-name="2.4 WCBS-DT4 / Fave TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WCBS-DT4.png" group-title="Section 2",2.4 WCBS-DT4 / Fave TV
 https://v-ny.mybtv.net/live/648.m3u8
-#EXTINF:-1 tvg-id="WNBCDT.us" tvg-name="4.1 WNBC / NBC 4 New York" tvg-logo="https://pbs.twimg.com/profile_images/767715187491217408/rEi3ozQZ_400x400.jpg" group-title="Section 2",4.1 WNBC / NBC 4 New York
+#EXTINF:-1 tvg-id="WNBCDT.us" tvg-name="4.1 WNBC / NBC 4 New York" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNBC-DT.png" group-title="Section 2",4.1 WNBC / NBC 4 New York
 https://v-ny.mybtv.net/live/548.m3u8
-#EXTINF:-1 tvg-id="WNBCDT2.us" tvg-name="4.2 WNBC-DT2 / Cozi TV" tvg-logo="https://i.ibb.co/M1VyKBm/cozi.png" group-title="Section 2",4.2 WNBC-DT2 / Cozi TV
+#EXTINF:-1 tvg-id="WNBCDT2.us" tvg-name="4.2 WNBC-DT2 / Cozi TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNBC-DT2.png" group-title="Section 2",4.2 WNBC-DT2 / Cozi TV
 https://v-ny.mybtv.net/live/549.m3u8
-#EXTINF:-1 tvg-id="WNYWDT.us" tvg-name="5.1 WNYW / FOX 5 New York" tvg-logo="https://play-lh.googleusercontent.com/UReciWxugq0CzsL84_p6v3vYol5K89l6iNUUbJ87wCcAZTJze41sxwyJXf3JYOufSnw" group-title="Section 2",5.1 WNYW / FOX 5 New York
+#EXTINF:-1 tvg-id="WNYWDT.us" tvg-name="5.1 WNYW / FOX 5 New York" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNYW-DT.png" group-title="Section 2",5.1 WNYW / FOX 5 New York
 https://v-ny.mybtv.net/live/550.m3u8
-#EXTINF:-1 tvg-id="WNYWDT2.us" tvg-name="5.2 WNYW-DT2 / Movies!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s81275_dark_360w_270h.png" group-title="Section 2",5.2 WNYW-DT2 / Movies!
+#EXTINF:-1 tvg-id="WNYWDT2.us" tvg-name="5.2 WNYW-DT2 / Movies!" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNYW-DT2.png" group-title="Section 2",5.2 WNYW-DT2 / Movies!
 https://v-ny.mybtv.net/live/551.m3u8
-#EXTINF:-1 tvg-id="WNYWDT3.us" tvg-name="5.3 WNYW-DT3 / Fox Weather" tvg-logo="https://static.foxnews.com/static/orion/styles/img/fox-weather/og/og-fox-weather.png" group-title="Section 2",5.3 WNYW-DT3 / Fox Weather
+#EXTINF:-1 tvg-id="FOXWeather.us" tvg-name="5.3 WNYW-DT3 / Fox Weather" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNYW-DT3.png" group-title="Section 2",5.3 WNYW-DT3 / Fox Weather
 https://v-ny.mybtv.net/live/676.m3u8
-#EXTINF:-1 tvg-id="WNYWDT4.us" tvg-name="5.4 WNYW-DT4 / theGrio" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101752_dark_360w_270h.png" group-title="Section 2",5.4 WNYW-DT4 / theGrio
+#EXTINF:-1 tvg-id="WNYWDT4.us" tvg-name="5.4 WNYW-DT4 / theGrio" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNYW-DT4.png" group-title="Section 2",5.4 WNYW-DT4 / theGrio
 https://v-ny.mybtv.net/live/552.m3u8
-#EXTINF:-1 tvg-id="WNYWDT5.us" tvg-name="5.5 WNYW-DT5 / Decades" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91415_dark_360w_270h.png" group-title="Section 2",5.5 WNYW-DT5 / Decades
+#EXTINF:-1 tvg-id="WNYWDT5.us" tvg-name="5.5 WNYW-DT5 / Decades" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNYW-DT5.png" group-title="Section 2",5.5 WNYW-DT5 / Decades
 https://v-ny.mybtv.net/live/553.m3u8
-#EXTINF:-1 tvg-id="WABCDT.us" tvg-name="7.1 WABC / ABC 7 New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/1280px-WABC_TV_New_2021.svg.png" group-title="Section 2",7.1 WABC / ABC 7 New York
+#EXTINF:-1 tvg-id="WABCDT.us" tvg-name="7.1 WABC / ABC 7 New York" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WABC-DT.png" group-title="Section 2",7.1 WABC / ABC 7 New York
 https://v-ny.mybtv.net/live/554.m3u8
-#EXTINF:-1 tvg-id="WABCDT2.us" tvg-name="7.2 WABC-DT2 / Localish" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70938_dark_360w_270h.png" group-title="Section 2",7.2 WABC-DT2 / Localish
+#EXTINF:-1 tvg-id="WABCDT2.us" tvg-name="7.2 WABC-DT2 / Localish" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WABC-DT2.png" group-title="Section 2",7.2 WABC-DT2 / Localish
 https://v-ny.mybtv.net/live/555.m3u8
-#EXTINF:-1 tvg-id="WABCDT3.us" tvg-name="7.3 WABC-DT3 / thisTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s61775_dark_360w_270h.png" group-title="Section 2",7.3 WABC-DT3 / thisTV
+#EXTINF:-1 tvg-id="WABCDT3.us" tvg-name="7.3 WABC-DT3 / thisTV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WABC-DT3.png" group-title="Section 2",7.3 WABC-DT3 / thisTV
 https://v-ny.mybtv.net/live/556.m3u8
-#EXTINF:-1 tvg-id="WABCDT4.us" tvg-name="7.4 WABC-DT4 / HSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1038px-HSN_logo.svg.png" group-title="Section 2",7.4 WABC-DT4 / HSN
+#EXTINF:-1 tvg-id="HSN.us" tvg-name="7.4 WABC-DT4 / HSN" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WABC-DT4.png" group-title="Section 2",7.4 WABC-DT4 / HSN
 https://v-ny.mybtv.net/live/613.m3u8
-#EXTINF:-1 tvg-id="WWORDT.us" tvg-name="9.1 WWOR / myTV 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/WWOR_NewJersey.svg/2048px-WWOR_NewJersey.svg.png" group-title="Section 2",9.1 WWOR / myTV 9
+#EXTINF:-1 tvg-id="WWORDT.us" tvg-name="9.1 WWOR / myTV 9" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WWOR-DT.png" group-title="Section 2",9.1 WWOR / myTV 9
 https://v-ny.mybtv.net/live/559.m3u8
-#EXTINF:-1 tvg-id="WWORDT4.us" tvg-name="9.4 WWOR-DT4 / Heroes & Icons" tvg-logo="https://www.handitv.com/images/logo_v2.png" group-title="Section 2",9.4 WWOR-DT4 / Heroes & Icons
+#EXTINF:-1 tvg-id="HeroesandIconsNetwork.us" tvg-name="9.4 WWOR-DT4 / Heroes & Icons" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WWOR-DT4.png" group-title="Section 2",9.4 WWOR-DT4 / Heroes & Icons
 https://v-ny.mybtv.net/live/561.m3u8
-#EXTINF:-1 tvg-id="WPIXDT.us" tvg-name="11.1 WPIX / PIX 11 New York (The CW)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/WPIX_11_%282017_Blue_Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20210627114853" group-title="Section 2",11.1 WPIX / PIX 11 New York (The CW)
+#EXTINF:-1 tvg-id="WPIXDT.us" tvg-name="11.1 WPIX / PIX 11 New York (The CW)" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPIX-DT.png" group-title="Section 2",11.1 WPIX / PIX 11 New York (The CW)
 https://v-ny.mybtv.net/live/562.m3u8
-#EXTINF:-1 tvg-id="WPIXDT4.us" tvg-name="11.4 WPIX-DT4 / Rewind TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s119814_dark_360w_270h.png" group-title="Section 2",11.4 WPIX-DT4 / Rewind TV
+#EXTINF:-1 tvg-id="WPIXDT4.us" tvg-name="11.4 WPIX-DT4 / Rewind TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPIX-DT4.png" group-title="Section 2",11.4 WPIX-DT4 / Rewind TV
 https://v-ny.mybtv.net/live/565.m3u8
-#EXTINF:-1 tvg-id="WNETDT.us" tvg-name="13.1 WNET / PBS Thirteen" tvg-logo="https://i.ibb.co/4PfgqCm/wnet.png" group-title="Section 2",13.1 WNET / PBS Thirteen
+#EXTINF:-1 tvg-id="WNETDT.us" tvg-name="13.1 WNET / PBS Thirteen" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNET-DT.png" group-title="Section 2",13.1 WNET / PBS Thirteen
 https://v-ny.mybtv.net/live/567.m3u8
-#EXTINF:-1 tvg-id="WNETDT2.us" tvg-name="13.2 WNET-DT2 / PBS Kids" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101364_dark_360w_270h.png" group-title="Section 2",13.2 WNET-DT2 / PBS Kids
+#EXTINF:-1 tvg-id="WNETDT2.us" tvg-name="13.2 WNET-DT2 / PBS Kids" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNET-DT2.png" group-title="Section 2",13.2 WNET-DT2 / PBS Kids
 https://v-ny.mybtv.net/live/568.m3u8
-#EXTINF:-1 tvg-id="WNDTCD.us" tvg-name="14.1 WNDT-CD / WNDT FNX" tvg-logo="https://i.pinimg.com/originals/9b/dc/1f/9bdc1f3a9f5241e4c583d63ae584ab5a.jpg" group-title="Section 2",14.1 WNDT-CD / WNDT FNX
+#EXTINF:-1 tvg-id="WNDTCD.us" tvg-name="14.1 WNDT-CD / WNDT FNX" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNDT-CD.png" group-title="Section 2",14.1 WNDT-CD / WNDT FNX
 https://v-ny.mybtv.net/live/569.m3u8
-#EXTINF:-1 tvg-id="WLIWDT.us" tvg-name="21.1 WLIW / PBS WLIW21" tvg-logo="https://i.ibb.co/MDGk6tP/wliw21.png" group-title="Section 2",21.1 WLIW / PBS WLIW21
+#EXTINF:-1 tvg-id="WLIWDT.us" tvg-name="21.1 WLIW / PBS WLIW21" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WLIW-DT.png" group-title="Section 2",21.1 WLIW / PBS WLIW21
 https://v-ny.mybtv.net/live/575.m3u8
-#EXTINF:-1 tvg-id="WLIWDT2.us" tvg-name="21.2 / PBS Create" tvg-logo="https://i.ibb.co/nk081xB/createtv.png" group-title="Section 2",21.2 WLIW-DT2 / PBS Create
+#EXTINF:-1 tvg-id="WLIWDT2.us" tvg-name="21.2 / PBS Create" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WLIW-DT2.png" group-title="Section 2",21.2 / PBS Create
 https://v-ny.mybtv.net/live/576.m3u8
-#EXTINF:-1 tvg-id="WLIWDT3.us" tvg-name="21.3 WLIW-DT3 / PBS World" tvg-logo="https://i.ibb.co/b6BgPBf/pbsworld.png" group-title="Section 2",21.3 WLIW-DT3 / PBS World
+#EXTINF:-1 tvg-id="WLIWDT3.us" tvg-name="21.3 WLIW-DT3 / PBS World" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WLIW-DT3.png" group-title="Section 2",21.3 WLIW-DT3 / PBS World
 https://v-ny.mybtv.net/live/577.m3u8
-#EXTINF:-1 tvg-id="WLIWDT4.us" tvg-name="21.4 WLIW-DT4 / PBS All Arts" tvg-logo="https://i.ibb.co/JQpnnDM/allarts.png" group-title="Section 2",21.4 WLIW-DT4 / PBS All Arts
+#EXTINF:-1 tvg-id="WLIWDT4.us" tvg-name="21.4 WLIW-DT4 / PBS All Arts" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WLIW-DT4.png" group-title="Section 2",21.4 WLIW-DT4 / PBS All Arts
 https://v-ny.mybtv.net/live/578.m3u8
-#EXTINF:-1 tvg-id="WNYEDT.us" tvg-name="25.1 WNYE / NYC Life" tvg-logo="https://i.ibb.co/W23pntn/nyclife.png" group-title="Section 2",25.1 WNYE / NYC Life
+#EXTINF:-1 tvg-id="WNYEDT.us" tvg-name="25.1 WNYE-TV / NYC Life" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNYE-DT.png" group-title="Section 2",25.1 WNYE-TV / NYC Life
 https://v-ny.mybtv.net/live/591.m3u8
-#EXTINF:-1 tvg-id="WNYEDT2.us" tvg-name="25.2 WNYE-DT2 / NYC Gov" tvg-logo="https://i.ibb.co/HqpRdDm/nycgov.png" group-title="Section 2",25.2 WNYE-DT2 / NYC Gov
+#EXTINF:-1 tvg-id="WNYEDT2.us" tvg-name="25.2 WNYE-DT2 / NYC Gov" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNYE-DT2.png" group-title="Section 2",25.2 WNYE-DT2 / NYC Gov
 https://v-ny.mybtv.net/live/592.m3u8
-#EXTINF:-1 tvg-id="WNYEDT3.us" tvg-name="25.3 WNYE-DT3 / CUNY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/CUNY_TV_Logo_2017.jpg" group-title="Section 2",25.3 WNYE-DT3 / CUNY TV
+#EXTINF:-1 tvg-id="WNYEDT3.us" tvg-name="25.3 WNYE-DT3 / CUNY TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNYE-DT3.png" group-title="Section 2",25.3 WNYE-DT3 / CUNY TV
 https://v-ny.mybtv.net/live/593.m3u8
-#EXTINF:-1 tvg-id="WPXNDT.us" tvg-name="31.1 WPXN / Ion" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="Section 2",31.1 WPXN / Ion
+#EXTINF:-1 tvg-id="WPXNDT.us" tvg-name="31.1 WPXN / Ion" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPXN-DT.png" group-title="Section 2",31.1 WPXN / Ion
 https://v-ny.mybtv.net/live/608.m3u8
-#EXTINF:-1 tvg-id="WPXNDT2.us" tvg-name="31.2 WPXN-DT2 / Bounce TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" group-title="Section 2",31.2 WPXN-DT2 / Bounce TV
+#EXTINF:-1 tvg-id="WPXNDT2.us" tvg-name="31.2 WPXN-DT2 / Bounce TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPXN-DT2.png" group-title="Section 2",31.2 WPXN-DT2 / Bounce TV
 https://v-ny.mybtv.net/live/581.m3u8
-#EXTINF:-1 tvg-id="WPXNDT3.us" tvg-name="31.3 WPXN-DT3 / Ion Mystery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s89923_dark_360w_270h.png" group-title="Section 2",31.3 WPXN-DT3 / Ion Mystery
+#EXTINF:-1 tvg-id="WPXNDT3.us" tvg-name="31.3 WPXN-DT3 / Ion Mystery" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPXN-DT3.png" group-title="Section 2",31.3 WPXN-DT3 / Ion Mystery
 https://v-ny.mybtv.net/live/610.m3u8
-#EXTINF:-1 tvg-id="WPXNDT4.us" tvg-name="31.4 WPXN-DT4 / Defy TV" tvg-logo="https://i.ibb.co/Rg5bD4B/defy.png" group-title="Section 2",31.4 WPXN-DT4 / Defy TV
+#EXTINF:-1 tvg-id="WPXNDT4.us" tvg-name="31.4 WPXN-DT4 / Defy TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPXN-DT4.png" group-title="Section 2",31.4 WPXN-DT4 / Defy TV
 https://v-ny.mybtv.net/live/611.m3u8
-#EXTINF:-1 tvg-id="WPXNDT5.us" tvg-name="31.5 WPXN-DT5 / Laff" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="Section 2",31.5 WPXN-DT5 / Laff
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="31.5 WPXN-DT5 / Laff" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPXN-DT5.png" group-title="Section 2",31.5 WPXN-DT5 / Laff
 https://v-ny.mybtv.net/live/602.m3u8
-#EXTINF:-1 tvg-id="WPXNDT6.us" tvg-name="31.6 WPXN-DT6 / TrueReal" tvg-logo="https://www.truerealtv.com/wp-content/uploads/2021/06/logo-TrueReal.png" group-title="Section 2",31.6 WPXN-DT6 / TrueReal
+#EXTINF:-1 tvg-id="WPXNDT6.us" tvg-name="31.6 WPXN-DT6 / TrueReal" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPXN-DT6.png" group-title="Section 2",31.6 WPXN-DT6 / TrueReal
 https://v-ny.mybtv.net/live/596.m3u8
-#EXTINF:-1 tvg-id="WPXNDT7.us" tvg-name="31.7 WPXN-DT7 / Newsy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/2560px-Newsy_2021.svg.png" group-title="Section 2",31.7 WPXN-DT7 / Newsy
+#EXTINF:-1 tvg-id="Newsy.us" tvg-name="31.7 WPXN-DT7 / Newsy" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPXN-DT7.png" group-title="Section 2",31.7 WPXN-DT7 / Newsy
 https://v-ny.mybtv.net/live/609.m3u8
-#EXTINF:-1 tvg-id="WJLPDT.us" tvg-name="33.1 WJLP / MeTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70436_dark_360w_270h.png" group-title="Section 2",33.1 WJLP / MeTV
+#EXTINF:-1 tvg-id="WJLPDT.us" tvg-name="33.1 WJLP / MeTV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WJLP-DT.png" group-title="Section 2",33.1 WJLP / MeTV
 https://v-ny.mybtv.net/live/637.m3u8
-#EXTINF:-1 tvg-id="WJLPDT2.us" tvg-name="33.2 WJLP-DT2 / Laff" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="Section 2",33.2 WJLP-DT2 / Laff
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="33.2 WJLP-DT2 / Laff" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WJLP-DT2.png" group-title="Section 2",33.2 WJLP-DT2 / Laff
 https://v-ny.mybtv.net/live/625.m3u8
-#EXTINF:-1 tvg-id="WJLPDT3.us" tvg-name="33.3 WJLP-DT3 / Grit" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s89922_dark_360w_270h.png" group-title="Section 2",33.3 WJLP-DT3 / Grit
+#EXTINF:-1 tvg-id="WJLPDT3.us" tvg-name="33.3 WJLP-DT3 / Grit" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WJLP-DT3.png" group-title="Section 2",33.3 WJLP-DT3 / Grit
 https://v-ny.mybtv.net/live/626.m3u8
-#EXTINF:-1 tvg-id="WJLPDT4.us" tvg-name="33.4 WJLP-DT4 / Ion Mystery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s89923_dark_360w_270h.png" group-title="Section 2",33.4 WJLP-DT4 / Ion Mystery
+#EXTINF:-1 tvg-id="WJLPDT4.us" tvg-name="33.4 WJLP-DT4 / Ion Mystery" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WJLP-DT4.png" group-title="Section 2",33.4 WJLP-DT4 / Ion Mystery
 https://v-ny.mybtv.net/live/627.m3u8
-#EXTINF:-1 tvg-id="WJLPDT5.us" tvg-name="33.5 WJLP-DT5 / Retro TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png" group-title="Section 2",33.5 WJLP-DT5 / Retro TV
+#EXTINF:-1 tvg-id="WJLPDT5.us" tvg-name="33.5 WJLP-DT5 / Retro TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WJLP-DT5.png" group-title="Section 2",33.5 WJLP-DT5 / Retro TV
 https://v-ny.mybtv.net/live/638.m3u8
-#EXTINF:-1 tvg-id="WJLPDT6.us" tvg-name="33.6 WJLP-DT6 / Heartland" tvg-logo="https://images.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/1611949316060-2SWEU4LF2MZ7GN493S2Z/Banner-Heartland1.png?format=1000w" group-title="Section 2",33.6 WJLP-DT6 / Heartland
+#EXTINF:-1 tvg-id="WJLPDT6.us" tvg-name="33.6 WJLP-DT6 / Heartland" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WJLP-DT6.png" group-title="Section 2",33.6 WJLP-DT6 / Heartland
 https://v-ny.mybtv.net/live/629.m3u8
-#EXTINF:-1 tvg-id="WJLPDT7.us" tvg-name="33.7 WJLP-DT7 / Story Television" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png" group-title="Section 2",33.7 WJLP-DT7 / Story Television
+#EXTINF:-1 tvg-id="WJLPDT7.us" tvg-name="33.7 WJLP-DT7 / Story Television" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WJLP-DT7.png" group-title="Section 2",33.7 WJLP-DT7 / Story Television
 https://v-ny.mybtv.net/live/634.m3u8
-#EXTINF:-1 tvg-id="WXTVDT" tvg-name="41.1 WXTV / Univision 41 Nueva York" tvg-logo="https://i.ibb.co/r7VN7Wd/univision.png" group-title="Section 2",41.1 WXTV / Univision 41 Nueva York
+#EXTINF:-1 tvg-id="WXTVDT(Spanish).us" tvg-name="41.1 WXTV / Univision 41 Nueva York" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WXTV-DT.png" group-title="Section 2",41.1 WXTV / Univision 41 Nueva York
 https://v-ny.mybtv.net/live/643.m3u8
-#EXTINF:-1 tvg-id="WXTVDT2" tvg-name="41.2 WXTV-DT2 / Bounce TV (WXTV)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" group-title="Section 2",41.2 WXTV-DT2 / Bounce TV (WXTV)
+#EXTINF:-1 tvg-id="WXTVDT(Spanish).us" tvg-name="41.2 WXTV-DT2 / Bounce TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WXTV-DT2.png" group-title="Section 2",41.2 WXTV-DT2 / Bounce TV (WXTV)
 https://v-ny.mybtv.net/live/644.m3u8
-#EXTINF:-1 tvg-id="WXTVDT3" tvg-name="41.3 WXTV-DT3 / Twist" tvg-logo="https://i.ibb.co/qDB40n7/8-EED5326-D8-D6-4-F3-C-A774-E6-F3-A289-B512.jpg" group-title="Section 2",41.3 WXTV-DT3 / Twist
+#EXTINF:-1 tvg-id="WXTVDT3.us" tvg-name="41.3 WXTV-DT3 / Twist" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WXTV-DT3.png" group-title="Section 2",41.3 WXTV-DT3 / Twist
 https://v-ny.mybtv.net/live/999.m3u8
-#EXTINF:-1 tvg-id="WKOBLD.us" tvg-name="42.1 WKOB-LD / Azteca Nueva York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Azteca_logo.png/800px-Azteca_logo.png" group-title="Section 2",42.1 WKOB-LD / Azteca Nueva York
+#EXTINF:-1 tvg-id="WKOBLD(Spanish).us" tvg-name="42.1 WKOB-LD / Azteca Nueva York" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WKOB-LD.png" group-title="Section 2",42.1 WKOB-LD / Azteca Nueva York
 https://v-ny.mybtv.net/live/645.m3u8
-#EXTINF:-1 tvg-id="WKOBDT2.us" tvg-name="42.1 WKOB-DT2 / Daystar" tvg-logo="https://www.astra.org.au/images/pages/Daystar.png" group-title="Section 2",42.1 WKOB-DT2 / Daystar
+#EXTINF:-1 tvg-id="DaystarTelevisionNetwork.us" tvg-name="42.1 WKOB-DT2 / Daystar" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WKOB-DT2.png" group-title="Section 2",42.1 WKOB-DT2 / Daystar
 https://v-ny.mybtv.net/live/646.m3u8
-#EXTINF:-1 tvg-id="WKOBDT5.us" tvg-name="42.5 WKOB-DT3 / Sonlife" tvg-logo="https://pbs.twimg.com/profile_images/1117834410089418752/ExS5SRrh_400x400.jpg" group-title="Section 2",42.5 WKOB-DT3 / Sonlife
+#EXTINF:-1 tvg-id="SonLifeBroadcastingNetwork.us" tvg-name="42.5 WKOB-DT3 / Sonlife" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WKOB-DT3.png" group-title="Section 2",42.5 WKOB-DT3 / Sonlife
 https://v-ny.mybtv.net/live/649.m3u8
-#EXTINF:-1 tvg-id="WKOBDT6.us" tvg-name="42.6 WKOB-DT4 / Estrella TV" tvg-logo="https://play-lh.googleusercontent.com/GH6uk17KaI_yKY18JDjLl6Q7VdRfZSiN62QaDveOK-RgZbpXgTmV9s3ZNFtvHuXdcQ" group-title="Section 2",42.6 WKOB-DT4 / Estrella TV
+#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="42.6 WKOB-DT4 / Estrella TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WKOB-DT4.png" group-title="Section 2",42.6 WKOB-DT4 / Estrella TV
 https://v-ny.mybtv.net/live/650.m3u8
-#EXTINF:-1 tvg-id="WKOBDT7.us" tvg-name="42.7 WKOB-DT5 / Shop LC" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQPR3aIbJcJ_snqinGZEKdjP0mMPCmt4jYOYewT5RU=s900-c-k-c0x00ffffff-no-rj" group-title="Section 2",42.7 WKOB-DT5 / Shop LC
+#EXTINF:-1 tvg-id="ShopLC.us" tvg-name="42.7 WKOB-DT5 / Shop LC" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WKOB-DT5.png" group-title="Section 2",42.7 WKOB-DT5 / Shop LC
 https://v-ny.mybtv.net/live/651.m3u8
-#EXTINF:-1 tvg-id="WKOBDT8.us" tvg-name="42.8 WKOB-DT6 / Novelisima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="Section 2",42.8 WKOB-DT6 / Novelisima
+#EXTINF:-1 tvg-id="WKOBDT6.us" tvg-name="42.8 WKOB-DT6 / Novelisima" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WKOB-DT6.png" group-title="Section 2",42.8 WKOB-DT6 / Novelisima
 https://v-ny.mybtv.net/live/652.m3u8
-#EXTINF:-1 tvg-id="WMBQCD.us" tvg-name="46.1 WMBQ-CD / WMBQ FNX" tvg-logo="https://i.pinimg.com/originals/9b/dc/1f/9bdc1f3a9f5241e4c583d63ae584ab5a.jpg" group-title="Section 2",46.1 WMBQ-CD / WMBQ FNX
-#EXTINF:-1 tvg-id="WNJUDT.us" tvg-name="47.1 WNJU / Telemundo 47" tvg-logo="https://media.telemundo47.com/2020/10/TLMD_47_New-York.png?fit=1200%2C628&quality=85&strip=all" group-title="Section 2",47.1 WNJU / Telemundo 47
+#EXTINF:-1 tvg-id="WNJUDT(Spanish).us" tvg-name="47.1 WNJU / Telemundo 47" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNJU-DT.png" group-title="Section 2",47.1 WNJU / Telemundo 47
 https://v-ny.mybtv.net/live/659.m3u8
-#EXTINF:-1 tvg-id="WNJUDT2.us" tvg-name="47.2 WNJU-DT2 / TeleXitos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Telexitos_logo.png/220px-Telexitos_logo.png" group-title="Section 2",47.2 WNJU-DT2 / TeleXitos
+#EXTINF:-1 tvg-id="WNJUDT2(Spanish).us" tvg-name="47.2 WNJU-DT2 / TeleXitos" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNJU-DT2.png" group-title="Section 2",47.2 WNJU-DT2 / TeleXitos
 https://v-ny.mybtv.net/live/660.m3u8
-#EXTINF:-1 tvg-id="WRNNDT.us" tvg-name="48.1 WRNN / ShopHQ" tvg-logo="https://www.shophq.com/images/store1/logos/shophq-winter-2022.png" group-title="Section 2",48.1 WRNN / ShopHQ
+#EXTINF:-1 tvg-id="WRNNDT.us" tvg-name="48.1 WRNN / ShopHQ" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WRNN-DT.png" group-title="Section 2",48.1 WRNN / ShopHQ
 https://v-ny.mybtv.net/live/661.m3u8
-#EXTINF:-1 tvg-id="WRNNDT2.us" tvg-name="48.2 WRNN-DT2 / Circle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/1344px-Circle_Network_logo.svg.png" group-title="Section 2",48.2 WRNN-DT2 / Circle
+#EXTINF:-1 tvg-id="WRNNDT2.us" tvg-name="48.2 WRNN-DT2 / Circle" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WRNN-DT2.png" group-title="Section 2",48.2 WRNN-DT2 / Circle
 https://v-ny.mybtv.net/live/662.m3u8
-#EXTINF:-1 tvg-id="WRNNDT3.us" tvg-name="48.3 WRNN-DT3 / Canal de la Fe" tvg-logo="https://i.ibb.co/Snhnc8f/Canal-de-la-FE-NY-updated-their-Canal-de-la-FE-NY.png" group-title="Section 2",48.3 WRNN-DT3 / Canal de la Fe
+#EXTINF:-1 tvg-id="WRNNDT3.us" tvg-name="48.3 WRNN-DT3 / Canal de la Fe" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WRNN-DT3.png" group-title="Section 2",48.3 WRNN-DT3 / Canal de la Fe
 https://v-ny.mybtv.net/live/663.m3u8
-#EXTINF:-1 tvg-id="WRNNDT4.us" tvg-name="48.4 WRNN-DT4 / QVC" tvg-logo="http://1.bp.blogspot.com/_FXdngRbJ4pU/SczzN0AXOzI/AAAAAAAAAJU/5VfSO7nSO3E/s320/QVC+Logo.png" group-title="Section 2",48.4 WRNN-DT4 / QVC
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="48.4 WRNN-DT4 / QVC" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WRNN-DT4.png" group-title="Section 2",48.4 WRNN-DT4 / QVC
 https://v-ny.mybtv.net/live/612.m3u8
-#EXTINF:-1 tvg-id="WFUTDT.us" tvg-name="68.1 WFUT / UniMás Nueva York" tvg-logo="https://st1.uvnimg.com/dims4/default/c7fd409/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2F9a%2F2ef55e7f4057beb6024842c8fdef%2Funiversal.jpg" group-title="Section 2",68.1 WFUT / UniMás Nueva York
+#EXTINF:-1 tvg-id="WFUTDT(Spanish).us" tvg-name="68.1 WFUT / UniMás Nueva York" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WFUT-DT.png" group-title="Section 2",68.1 WFUT / UniMás Nueva York
 https://v-ny.mybtv.net/live/713.m3u8
-#EXTINF:-1 tvg-id="WFUTDT2.us" tvg-name="68.2 WFUT-DT2 / True Crime Network" tvg-logo="https://play-lh.googleusercontent.com/xIfyZo49wE9HLjmmlEeyVJG0DoWs3Eysq_An9RNOXGsl8GrE4qIX7XHKScuy92eNp8Xy" group-title="Section 2",68.2 WFUT-DT2 / True Crime Network
+#EXTINF:-1 tvg-id="WFUTDT2(Spanish).us" tvg-name="68.2 WFUT-DT2 / True Crime Network" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WFUT-DT2.png" group-title="Section 2",68.2 WFUT-DT2 / True Crime Network
 https://v-ny.mybtv.net/live/714.m3u8
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png" group-title="Section 2",CNN
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/CNN.png" group-title="Section 2",CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png" group-title="Section 2",HLN
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/HLN.png" group-title="Section 2",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" tvg-logo="https://cdn-profiles.tunein.com/s44178/images/logog.png" group-title="Section 2",C-SPAN
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/CSPAN.png" group-title="Section 2",C-SPAN
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
-#EXTINF:-1 tvg-id="CSPAN2.us" tvg-name="C-SPAN 2" tvg-logo="https://cdn-profiles.tunein.com/s20333/images/logog.png" group-title="Section 2",C-SPAN 2
+#EXTINF:-1 tvg-id="CSPAN2.us" tvg-name="C-SPAN 2" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/CSPAN2.png" group-title="Section 2",C-SPAN 2
 https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
-#EXTINF:-1 tvg-id="CSPAN3.us" tvg-name="C-SPAN 3" tvg-logo="https://cdn-profiles.tunein.com/s20334/images/logog.png" group-title="Section 2",C-SPAN 3
+#EXTINF:-1 tvg-id="CSPAN3.us" tvg-name="C-SPAN 3" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/CSPAN3.png" group-title="Section 2",C-SPAN 3
 https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
-#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-logo="https://i.ibb.co/thQSHPw/NASA.png" group-title="Section 2",NASA TV
+#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/NASATV.png" group-title="Section 2",NASA TV
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
-#EXTINF:-1 tvg-id="NASATVMedia.us" tvg-name="NASA TV Media" tvg-logo="https://i.ibb.co/QdYH2Hf/NASA-Media.png" group-title="Section 2",NASA TV Media
+#EXTINF:-1 tvg-id="NASATVMedia.us" tvg-name="NASA TV Media" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/NASAMedia.png" group-title="Section 2",NASA TV Media
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://i.ibb.co/1JGBkj4/amc.png" group-title="Section 2",AMC
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/AMC.png" group-title="Section 2",AMC
 https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="IFC.us" tvg-name="IFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/IFC_2014_logo.svg/512px-IFC_2014_logo.svg.png" group-title="Section 2",IFC
+#EXTINF:-1 tvg-id="IFC.us" tvg-name="IFC" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/IFC.png" group-title="Section 2",IFC
 https://bcovlive-a.akamaihd.net/070ffdaa203f439cacbf0d45a1ddb356/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="Sundance TV" tvg-logo="https://liberador.net/media/images/SundanceTV.max-640x640.jpg" group-title="Section 2",Sundance TV
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="Sundance TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/SundanceTV.png" group-title="Section 2",Sundance TV
 https://bcovlive-a.akamaihd.net/d2fcbeaead4b425fa13d4fec961fc47a/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://i.ibb.co/dtm6h3L/bbcamerica.png" group-title="Section 2",BBC America
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/BBCAmerica.png" group-title="Section 2",BBC America
 https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/white-mtv-png-logo-19.png" group-title="Section 2",MTV
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/MTV.png" group-title="Section 2",MTV
 http://38.127.211.18/live/c2eds/MTV/HLS/index.m3u8
-#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="Section 2",HSN
+#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/HSN.png" group-title="Section 2",HSN
 https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
-#EXTINF:-1 tvg-id="HSN2.us" tvg-name="HSN2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/HSN2_logo_new.png/revision/latest/scale-to-width-down/250?cb=20220104031744" group-title="Section 2",HSN2
+#EXTINF:-1 tvg-id="HSN2.us" tvg-name="HSN2" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/HSN2.png" group-title="Section 2",HSN2
 https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
-#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC" tvg-logo="http://1.bp.blogspot.com/_FXdngRbJ4pU/SczzN0AXOzI/AAAAAAAAAJU/5VfSO7nSO3E/s320/QVC+Logo.png" group-title="Section 2",QVC
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/QVC.png" group-title="Section 2",QVC
 https://lsqvc1usott-lh.akamaihd.net/i/lsqvc1usott_01@838836/master.m3u8
-#EXTINF:-1 tvg-id="QVC2.us" tvg-name="QVC2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/QVC2-DE-logo.png" group-title="Section 2",QVC2
+#EXTINF:-1 tvg-id="QVC2.us" tvg-name="QVC2" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/QVC2.png" group-title="Section 2",QVC2
 https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8
-#EXTINF:-1 tvg-id="QVC3.us" tvg-name="QVC3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/QVC3_logo%2C_1_April_2019.png" group-title="Section 2",QVC3
+#EXTINF:-1 tvg-id="QVC3.us" tvg-name="QVC3" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/QVC3.png" group-title="Section 2",QVC3
 https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg TV" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logod.png" group-title="Section 2",Bloomberg TV
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/BloombergTV.png" group-title="Section 2",Bloomberg TV
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-name="Bloomberg TV+" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logod.png" group-title="Section 2",Bloomberg TV+
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-name="Bloomberg TV+" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/BloombergTVP.png" group-title="Section 2",Bloomberg TV+
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-name="Bloomberg Quicktake" tvg-logo="https://www.adweek.com/wp-content/uploads/2019/12/quicktake-bloomberg-tictoc-CONTENT-2019-640x360.jpg" group-title="Section 2",Bloomberg Quicktake
+#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-name="Bloomberg Quicktake" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/BloombergTVQT.png" group-title="Section 2",Bloomberg Quicktake
 https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
-#EXTINF:-1 tvg-id="3ABN.us" tvg-name="3ABN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/3ABN_logo.svg/2560px-3ABN_logo.svg.png" group-title="Section 2",3ABN
+#EXTINF:-1 tvg-id="3ABN.us" tvg-name="3ABN" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/3ABN.png" group-title="Section 2",3ABN
 https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
-#EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/3ABN_logo.svg/2560px-3ABN_logo.svg.png" group-title="Section 2",3ABN Kids
+#EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/3ABNKids.png" group-title="Section 2",3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1 tvg-id="HISTORY.us" tvg-name="HISTORY" tvg-logo="!!!" group-title="Section 2",HISTORY
+#EXTINF:-1 tvg-id="HISTORY.us" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/HISTORY.png" group-title="Section 2",HISTORY
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Newsmax.us" tvg-name="Newsmax" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E1BAQHGPMP9fe0VRg/company-background_10000/0/1623677611337?e=2147483647&v=beta&t=X-E5mYlBPfkMGDFY43f1HcprcpzGSqbZNLu2WcohlOQ" group-title="Section 2",Newsmax
+#EXTINF:-1 tvg-id="Newsmax.us" tvg-name="Newsmax" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/N_wsmax.png" group-title="Section 2",Newsmax
 https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="InfoWars.us" tvg-name="InfoWars" tvg-logo="!!!" group-title="Section 2",InfoWars
-#EXTINF:-1 tvg-id="CheddarNews.us" tvg-name="Cheddar News" tvg-logo="https://cheddar-production.s3.amazonaws.com/assets/cheddar_news_share.png" group-title="Section 2",Cheddar News
+#EXTINF:-1 tvg-id="Infowars.us" tvg-name="Infowars" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/Inf_wars.png" group-title="Section 2",Infowars
+http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
+#EXTINF:-1 tvg-id="CheddarNews.us" tvg-name="Cheddar News" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/Cheddar.png" group-title="Section 2",Cheddar News
 https://live.chdrstatic.com/cbn/index.m3u8
-#EXTINF:-1 tvg-id="CBSNewsNY.us" tvg-name="CBSN NY" tvg-logo="https://i.ibb.co/GC5cw68/cbsnny.png" group-title="Section 2",CBSN NY
+#EXTINF:-1 tvg-id="CBSNewsNY.us" tvg-name="CBSN NY" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/CBSNNY.png" group-title="Section 2",CBSN NY
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
-#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-logo="https://i.ibb.co/sjDNb6H/cbsn.png" group-title="Section 2",CBS News
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/CBSN.png" group-title="Section 2",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" tvg-logo="https://i.ibb.co/X3ZvqW0/abcnl.png" group-title="Section 2",ABC News Live
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/ABCNewsLive.png" group-title="Section 2",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="ABC7247.us" tvg-name="ABC 24/7 News New York" tvg-logo="https://i.ibb.co/nQLBmtL/abcnews.png" group-title="Section 2",ABC 24/7 News New York
+#EXTINF:-1 tvg-id="ABC7247.us" tvg-name="ABC 24/7 News New York" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/ABC7NYNews247.png" group-title="Section 2",ABC 24/7 News New York
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
-#EXTINF:-1 tvg-id="VevoPop.us" tvg-name="Vevo Pop" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Section 2",Vevo Pop
+#EXTINF:-1 tvg-id="VevoPop.us" tvg-name="Vevo Pop" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/VevoPop.png" group-title="Section 2",Vevo Pop
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
-#EXTINF:-1 tvg-id="VevoLatino.us" tvg-name="Vevo Latino" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="Section 2",Vevo Latino
+#EXTINF:-1 tvg-id="VevoLatino.us" tvg-name="Vevo Latino" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/VevoLatino.png" group-title="Section 2",Vevo Latino
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF:-1 tvg-id="VevoHipHop.us" tvg-name="Vevo Hip Hop" tvg-logo="https://i.imgur.com/Lbc9cYw.png" group-title="Section 2",Vevo Hip Hop
+#EXTINF:-1 tvg-id="VevoHipHop.us" tvg-name="Vevo Hip Hop" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/VevoHipHop.png" group-title="Section 2",Vevo Hip Hop
 https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
-#EXTINF:-1 tvg-id="Food52.us" tvg-name="Food52 TV" tvg-logo="https://i.ibb.co/qWz07Kd/food52.png" group-title="Section 2",Food52 TV
+#EXTINF:-1 tvg-id="Food52.us" tvg-name="Food52 TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/Food52.png" group-title="Section 2",Food52 TV
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
