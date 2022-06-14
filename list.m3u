@@ -139,7 +139,7 @@ https://v-ny.mybtv.net/live/568.m3u8
 https://v-ny.mybtv.net/live/569.m3u8
 #EXTINF:-1 tvg-id="WLIWDT.us" tvg-name="21.1 WLIW / PBS WLIW21" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WLIW-DT.png" group-title="Section 2",21.1 WLIW / PBS WLIW21
 https://v-ny.mybtv.net/live/575.m3u8
-#EXTINF:-1 tvg-id="WLIWDT2.us" tvg-name="21.2 / PBS Create" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WLIW-DT2.png" group-title="Section 2",21.2 / PBS Create
+#EXTINF:-1 tvg-id="WLIWDT2.us" tvg-name="21.2 / PBS Create" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WLIW-DT2.png" group-title="Section 2",21.2 WLIW-DT2 / PBS Create
 https://v-ny.mybtv.net/live/576.m3u8
 #EXTINF:-1 tvg-id="WLIWDT3.us" tvg-name="21.3 WLIW-DT3 / PBS World" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WLIW-DT3.png" group-title="Section 2",21.3 WLIW-DT3 / PBS World
 https://v-ny.mybtv.net/live/577.m3u8
@@ -151,11 +151,11 @@ https://v-ny.mybtv.net/live/591.m3u8
 https://v-ny.mybtv.net/live/592.m3u8
 #EXTINF:-1 tvg-id="WNYEDT3.us" tvg-name="25.3 WNYE-DT3 / CUNY TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNYE-DT3.png" group-title="Section 2",25.3 WNYE-DT3 / CUNY TV
 https://v-ny.mybtv.net/live/593.m3u8
-#EXTINF:-1 tvg-id="WPXNDT.us" tvg-name="31.1 WPXN / Ion" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPXN-DT.png" group-title="Section 2",31.1 WPXN / Ion
+#EXTINF:-1 tvg-id="WPXNDT.us" tvg-name="31.1 WPXN / Ion" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPXN-DT.png" group-title="Section 2",31.1 WPXN-TV / Ion
 https://v-ny.mybtv.net/live/608.m3u8
 #EXTINF:-1 tvg-id="WPXNDT2.us" tvg-name="31.2 WPXN-DT2 / Bounce TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPXN-DT2.png" group-title="Section 2",31.2 WPXN-DT2 / Bounce TV
 https://v-ny.mybtv.net/live/581.m3u8
-#EXTINF:-1 tvg-id="WPXNDT3.us" tvg-name="31.3 WPXN-DT3 / Ion Mystery" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPXN-DT3.png" group-title="Section 2",31.3 WPXN-DT3 / Ion Mystery
+#EXTINF:-1 tvg-id="WJLPDT4.us" tvg-name="31.3 WPXN-DT3 / Ion Mystery" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPXN-DT3.png" group-title="Section 2",31.3 WPXN-DT3 / Ion Mystery
 https://v-ny.mybtv.net/live/610.m3u8
 #EXTINF:-1 tvg-id="WPXNDT4.us" tvg-name="31.4 WPXN-DT4 / Defy TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPXN-DT4.png" group-title="Section 2",31.4 WPXN-DT4 / Defy TV
 https://v-ny.mybtv.net/live/611.m3u8
@@ -181,7 +181,7 @@ https://v-ny.mybtv.net/live/629.m3u8
 https://v-ny.mybtv.net/live/634.m3u8
 #EXTINF:-1 tvg-id="WXTVDT(Spanish).us" tvg-name="41.1 WXTV / Univision 41 Nueva York" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WXTV-DT.png" group-title="Section 2",41.1 WXTV / Univision 41 Nueva York
 https://v-ny.mybtv.net/live/643.m3u8
-#EXTINF:-1 tvg-id="WXTVDT(Spanish).us" tvg-name="41.2 WXTV-DT2 / Bounce TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WXTV-DT2.png" group-title="Section 2",41.2 WXTV-DT2 / Bounce TV (WXTV)
+#EXTINF:-1 tvg-id="WXTVDT2.us" tvg-name="41.2 WXTV-DT2 / Bounce TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WXTV-DT2.png" group-title="Section 2",41.2 WXTV-DT2 / Bounce TV (WXTV)
 https://v-ny.mybtv.net/live/644.m3u8
 #EXTINF:-1 tvg-id="WXTVDT3.us" tvg-name="41.3 WXTV-DT3 / Twist" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WXTV-DT3.png" group-title="Section 2",41.3 WXTV-DT3 / Twist
 https://v-ny.mybtv.net/live/999.m3u8
