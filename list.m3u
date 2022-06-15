@@ -235,6 +235,12 @@ http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=3
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/TBS.png" group-title="Section 2",TBS
 http://38.127.211.18/live/c2eds/TBS/HLS/index.m3u8
+#EXTINF:-1 tvg-id="Discovery.us" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/Discovery.png" group-title="Section 2",Discovery Channel
+http://38.127.211.18/live/c2eds/Discovery/HLS/index.m3u8
+#EXTINF:-1 tvg-id="Science.us" tvg-name="Science Channel" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/Science.png" group-title="Section 2",Science Channel
+http://38.127.211.18/live/c2eds/Science/HLS/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/NationalGeographic.us" group-title="Section 2",National Geographic
+http://38.127.211.18/live/c2eds/NatGeo/HLS/index.m3u8
 #EXTINF:-1 tvg-id="TCM.us" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/TCM.png" group-title="Section 2",TCM
 http://38.127.211.18/live/c2eds/TCM/HLS/index.m3u8
 #EXTINF:-1 tvg-id="Syfy.us" tvg-name="Syfy" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/Syfy.png" group-title="Section 2",Syfy
@@ -247,16 +253,32 @@ https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/62407
 https://bcovlive-a.akamaihd.net/070ffdaa203f439cacbf0d45a1ddb356/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="Sundance TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/SundanceTV.png" group-title="Section 2",Sundance TV
 https://bcovlive-a.akamaihd.net/d2fcbeaead4b425fa13d4fec961fc47a/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/Showtime.png" group-title="Section 2",Showtime
+http://38.127.211.18/live/c2eds/Showtime/HLS/index.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/BBCAmerica.png" group-title="Section 2",BBC America
+https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="Hallmark.us" tvg-name="Hallmark" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/Hallmark.png" group-title="Section 2",Hallmark Channel
 https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/MTV.png" group-title="Section 2",MTV
 http://38.127.211.18/live/c2eds/MTV/HLS/index.m3u8
-#EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/Showtime.png" group-title="Section 2",Showtime
-http://38.127.211.18/live/c2eds/Showtime/HLS/index.m3u8
 #EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/VH1.png" group-title="Section 2",VH1
 http://38.127.211.18/live/c2eds/VH1/HLS/index.m3u8
+#EXTINF:-1 tvg-id="LMN.us" tvg-name="LMN" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/LMN.png" group-title="Section 2",LMN
+http://38.127.211.18/live/c2eds/LMN/HLS/index.m3u8
+#EXTINF:-1 tvg-id="FYI.us" tvg-name="FYI" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/FYI.png" group-title="Section 2",FYI
+http://38.127.211.18/live/c2eds/FYI/HLS/index.m3u8
+#EXTINF:-1 tvg-id="OWN.us" tvg-name="OWN" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/OWN.png" group-title="Section 2",OWN
+http://38.127.211.18/live/c2eds/OWN/HLS/index.m3u8
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/NBATV.png" group-title="Section 2",NBA TV
+http://38.127.211.18/live/c2eds/NBA/HLS/index.m3u8
+#EXTINF:-1 tvg-id="TVG.us" tvg-name="TVG" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/TVG.png" group-title="Section 2",TVG
+http://38.127.211.18/live/c2eds/TVG/HLS/index.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/GolfChannel.png" group-title="Section 2",Golf Channel
 http://38.127.211.18/live/c2eds/Golf/HLS/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/NickJr.png" group-title="Section 2",Nick Jr
+http://38.127.211.18/live/c2eds/NickJr/HLS/index.m3u8
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/HGTV.png" group-title="Section 2",HGTV
+http://38.127.211.18/live/c2eds/HGTV/HLS/index.m3u8
 #EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/HSN.png" group-title="Section 2",HSN
 https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
 #EXTINF:-1 tvg-id="HSN2.us" tvg-name="HSN2" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/HSN2.png" group-title="Section 2",HSN2
@@ -277,8 +299,6 @@ https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-
 https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
 #EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/3ABNKids.png" group-title="Section 2",3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1 tvg-id="HISTORY.us" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/HISTORY.png" group-title="Section 2",HISTORY
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Newsmax.us" tvg-name="Newsmax" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/N_wsmax.png" group-title="Section 2",Newsmax
 https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="Infowars.us" tvg-name="Infowars" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/Inf_wars.png" group-title="Section 2",Infowars
