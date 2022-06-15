@@ -239,7 +239,7 @@ http://38.127.211.18/live/c2eds/TBS/HLS/index.m3u8
 http://38.127.211.18/live/c2eds/Discovery/HLS/index.m3u8
 #EXTINF:-1 tvg-id="Science.us" tvg-name="Science Channel" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/Science.png" group-title="Section 2",Science Channel
 http://38.127.211.18/live/c2eds/Science/HLS/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/NationalGeographic.us" group-title="Section 2",National Geographic
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/NationalGeographic.png" group-title="Section 2",National Geographic
 http://38.127.211.18/live/c2eds/NatGeo/HLS/index.m3u8
 #EXTINF:-1 tvg-id="TCM.us" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/TCM.png" group-title="Section 2",TCM
 http://38.127.211.18/live/c2eds/TCM/HLS/index.m3u8
