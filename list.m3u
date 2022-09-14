@@ -3,9 +3,9 @@
 https://cdn1.rtcg.me:1936/cg1/smil:cg1.smil/index.m3u8
 #EXTINF:-1 tvg-id="RTCG2(src01).hr" tvg-name="RTCG 2" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/RTCG2.png" group-title="Section 1",RTCG 2
 https://cdn2.rtcg.me:1936/cg2/smil:cg2.smil/index.m3u8
-#EXTINF:-1 tvg-id="Parlamentarnikanal.me" tvg-name="Parlamentarni kanal" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/RTCGParl.png" group-title="Section 1",Parlamentarni kanal (RTCG)
+#EXTINF:-1 tvg-id="RTCG3.me" tvg-name="RTCG 3" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/RTCG3.png" group-title="Section 1",RTCG 3
 https://parlament.rtcg.me:1936/pr/smil:parlament.smil/index.m3u8
-#EXTINF:-1 tvg-id="RTCGSAT(src01).hr" tvg-name="RTCG SAT" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/RTCGSAT.png" group-title="Section 1",RTCG SAT
+#EXTINF:-1 tvg-id="RTCGMNE.me" tvg-name="RTCG MNE" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/RTCGMNE.png" group-title="Section 1",RTCG MNE
 https://cdn3.rtcg.me:1936/cgsat/smil:cgsat.smil/index.m3u8
 #EXTINF:-1 tvg-id="televizijatv7.me" tvg-name="TV7" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/TV7.png" group-title="Section 1",TV7
 https://5a1178b42cc03.streamlock.net/tehnikatv777/tehnikatv777/chunklist_w950220315.m3u8
