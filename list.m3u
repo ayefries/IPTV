@@ -45,6 +45,10 @@ http://194.163.179.246/slovenci/filmski/cinestarpr1.m3u8
 http://194.163.179.246/slovenci/filmski/cinestarpr2.m3u8
 #EXTINF:-1 tvg-id="CineStarTV1.si" tvg-name="CineStar TV 1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/CineStarTV1.png" group-title="Section 1",CineStar TV 1
 http://194.163.179.246/slovenci/filmski/cinestartv.m3u8
+#EXTINF:-1 tvg-id="HBO.si" tvg-name="HBO Adria" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HBO.png" group-title="Section 1",HBO Adria
+http://194.163.179.246/slovenci/filmski/hbohd.m3u8
+#EXTINF:-1 tvg-id="HBO2.si" tvg-name="HBO2 Adria" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HBO2.png" group-title="Section 1",HBO2 Adria
+http://194.163.179.246/slovenci/filmski/hbo2hd.m3u8
 #EXTINF:-1 tvg-id="HBO3.si" tvg-name="HBO3 Adria" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HBO3.png" group-title="Section 1",HBO3 Adria
 http://194.163.179.246/slovenci/filmski/hbo3hd.m3u8
 #EXTINF:-1 tvg-id="ViasatExplore.si" tvg-name="Viasat Explore Slovenia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/ViasatExplore.png" group-title="Section 1",Viasat Explore Slovenia
