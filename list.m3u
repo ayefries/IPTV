@@ -26,11 +26,39 @@ https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist
 #EXTINF:-1 tvg-id="AlJazeeraBalkans(src01).hr" tvg-name="Al Jazeera Balkans" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/AJB.png" group-title="Section 1",Al Jazeera Balkans
 http://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 #EXTINF:-1 tvg-id="TVSLO1(src01).si" tvg-name="TV SLO 1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/SLO1.png" group-title="Section 1",TV SLO 1
-https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
+http://194.163.179.246/slovenci/slonacionalni/slo1.m3u8
 #EXTINF:-1 tvg-id="TVSLO2(src01).si" tvg-name="TV SLO 2" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/SLO2.png" group-title="Section 1",TV SLO 2
-https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
+http://194.163.179.246/slovenci/slonacionalni/slo2.m3u8
 #EXTINF:-1 tvg-id="TVSLO3(src01).si" tvg-name="TV SLO 3" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/SLO3.png" group-title="Section 1",TV SLO 3
-https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
+http://194.163.179.246/slovenci/slonacionalni/slo3.m3u8
+#EXTINF:-1 tvg-id="24Kitchen.si" tvg-name="24Kitchen Slovenia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/24Kitchen.png" group-title="Section 1",24Kitchen Slovenia
+http://194.163.179.246/slovenci/doku/24kitchenhd.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.si" tvg-name="BBC Earth Slovenia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/BBCEarth.png" group-title="Section 1",BBC Earth Slovenia
+http://194.163.179.246/slovenci/doku/bbcearththd
+#EXTINF:-1 tvg-id="AnimalPlanet.si" tvg-name="Animal Planet Slovenia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/AnimalPlanet.png" group-title="Section 1",Animal Planet Slovenia
+http://194.163.179.246/slovenci/doku/animalhd.m3u8
+#EXTINF:-1 tvg-id="HistoryChannel.si" tvg-name="History Channel Slovenia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HistoryEurope.png" group-title="Section 1",History Channel Slovenia
+http://194.163.179.246/slovenci/doku/historyhd.m3u8
+#EXTINF:-1 tvg-id="CineStarPremiere1.si" tvg-name="CineStar Premiere 1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/CineStarPremiere1.png" group-title="Section 1",CineStar Premiere 1
+http://194.163.179.246/slovenci/filmski/cinestarpr1.m3u8
+#EXTINF:-1 tvg-id="CineStarPremiere2.si" tvg-name="CineStar Premiere 2" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/CineStarPremiere2.png" group-title="Section 1",CineStar Premiere 2
+http://194.163.179.246/slovenci/filmski/cinestarpr2.m3u8
+#EXTINF:-1 tvg-id="CineStarTV1.si" tvg-name="CineStar TV 1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/CineStarTV1.png" group-title="Section 1",CineStar TV 1
+http://194.163.179.246/slovenci/filmski/cinestartv.m3u8
+#EXTINF:-1 tvg-id="HBO3.si" tvg-name="HBO3 Adria" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HBO3.png" group-title="Section 1",HBO3 Adria
+http://194.163.179.246/slovenci/filmski/hbo3hd.m3u8
+#EXTINF:-1 tvg-id="ViasatExplore.si" tvg-name="Viasat Explore Slovenia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/ViasatExplore.png" group-title="Section 1",Viasat Explore Slovenia
+http://194.163.179.246/slovenci/doku/explorer.m3u8
+#EXTINF:-1 tvg-id="BabyTV.si" tvg-name="BabyTV Slovenia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/BabyTV.png" group-title="Section 1",BabyTV Slovenia
+http://194.163.179.246/slovenci/djeciji/babytv.m3u8
+#EXTINF:-1 tvg-id="DuckTV.si" tvg-name="Duck TV Slovenia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/DuckTV.png" group-title="Section 1",Duck TV Slovenia
+http://194.163.179.246/slovenci/djeciji/ducktv.m3u8
+#EXTINF:-1 tvg-id="JimJam.si" tvg-name="JimJam Slovenia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/JimJam.png" group-title="Section 1",JimJam Slovenia
+http://194.163.179.246/slovenci/djeciji/jimjam.m3u8
+#EXTINF:-1 tvg-id="Boomerang.si" tvg-name="Boomerang Slovenia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Boomerang.png" group-title="Section 1",Boomerang Slovenia
+http://194.163.179.246/slovenci/djeciji/boomerang.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.si" tvg-name="Cartoon Network Slovenia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/CartoonNetwork.png" group-title="Section 1",Cartoon Network Slovenia
+http://194.163.179.246/slovenci/djeciji/cartoon.m3u8
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Rai1.png" group-title="Section 1",Rai 1
 http://ott-cdn.ucom.am/s29/index.m3u8
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Rai3.png" group-title="Section 1",Rai 3
@@ -39,20 +67,20 @@ http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8?hdnea=st=1647004011~exp=1647004161~acl=/*~hmac=e5f979fa5dd0655e55655e7c0a30a4fb7497e8a60ef1eec9dafcd2ac907270eb
 #EXTINF:-1 tvg-id="La7.it" tvg-name="La7" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/La7.png" group-title="Section 1",La7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
-#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG 24" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/SkyTG24.png" group-title="Section 1",Sky TG 24
-https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
 #EXTINF:-1 tvg-id="VH1.it" tvg-name="VH1 Italia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/VH1Italia.png" group-title="Section 1",VH1 Italia
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-id="DW(src02).de" tvg-name="DW Deutsch" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/DWDE.png" group-title="Section 1",DW Deutsch
 http://ott-cdn.ucom.am/s26/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 Français" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/France24FR.png" group-title="Section 1",France 24 Français
-http://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24/live
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5Monde Info" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/TV5MondeInfo.png" group-title="Section 1",TV5Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Mezzo.png" group-title="Section 1",Mezzo
 http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/SkyNews.png" group-title="Section 1",Sky News
 https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.no" tvg-name="Viasat History" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/ViasatHistory.png" group-title="Section 1",Viasat History
+http://ott-cdn.ucom.am/s23/index.m3u8
 #EXTINF:-1 tvg-id="FashionTV(src01).uk" tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/FTV.png" group-title="Section 1",Fashion TV
 http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/playlist.m3u8
 #EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/EBS.png" group-title="Section 1",EbS
@@ -67,20 +95,18 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/KBSW.png" group-title="Section 1",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-name="EBS English" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/EBSE.png" group-title="Section 1",EBS English
-http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/TRTW.png" group-title="Section 1",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Bloomberg(UK).uk" tvg-name="Bloomberg TV Europe" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/BloombergEU.png" group-title="Section 1",Bloomberg TV Europe
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-id="euronews.uk" tvg-name="Euronews English" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Euronews.png" group-title="Section 1",Euronews English
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-#EXTINF:-1 tvg-id="France24English.uk" tvg-name="France 24 English" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/France24.png" group-title="Section 1",France 24 English
-https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="DW(English).uk" tvg-name="DW English" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/DWEnglish.png" group-title="Section 1",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.uk" tvg-name="Al Jazeera English" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/AJE.png" group-title="Section 1",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="France24English.uk" tvg-name="France 24 English" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/France24.png" group-title="Section 1",France 24 English
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
 #EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/BBCWorld.png" group-title="Section 1",BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.uk" tvg-name="CNN International Europe" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/CNNI.png" group-title="Section 1",CNN International Europe
@@ -168,7 +194,7 @@ https://v-ny.mybtv.net/live/626.m3u8
 #EXTINF:-1 tvg-id="WJLPDT4.us" tvg-name="33.4 WJLP-DT4 / Ion Mystery" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WJLP-DT4.png" group-title="Section 2",33.4 WJLP-DT4 / Ion Mystery
 https://v-ny.mybtv.net/live/627.m3u8
 #EXTINF:-1 tvg-id="WJLPDT5.us" tvg-name="33.5 WJLP-DT5 / Retro TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WJLP-DT5.png" group-title="Section 2",33.5 WJLP-DT5 / Retro TV
-https://v-ny.mybtv.net/live/638.m3u8
+https://v-ny.mybtv.net/live/628.m3u8
 #EXTINF:-1 tvg-id="WJLPDT6.us" tvg-name="33.6 WJLP-DT6 / Heartland" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WJLP-DT6.png" group-title="Section 2",33.6 WJLP-DT6 / Heartland
 https://v-ny.mybtv.net/live/629.m3u8
 #EXTINF:-1 tvg-id="WJLPDT7.us" tvg-name="33.7 WJLP-DT7 / Story Television" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WJLP-DT7.png" group-title="Section 2",33.7 WJLP-DT7 / Story Television
@@ -179,12 +205,6 @@ https://v-ny.mybtv.net/live/643.m3u8
 https://v-ny.mybtv.net/live/644.m3u8
 #EXTINF:-1 tvg-id="WXTVDT3.us" tvg-name="41.3 WXTV-DT3 / Twist" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WXTV-DT3.png" group-title="Section 2",41.3 WXTV-DT3 / Twist
 https://v-ny.mybtv.net/live/999.m3u8
-#EXTINF:-1 tvg-id="WKOBLD(Spanish).us" tvg-name="42.1 WKOB-LD / Azteca Nueva York" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WKOB-LD.png" group-title="Section 2",42.1 WKOB-LD / Azteca Nueva York
-https://v-ny.mybtv.net/live/645.m3u8
-#EXTINF:-1 tvg-id="DaystarTelevisionNetwork.us" tvg-name="42.1 WKOB-DT2 / Daystar" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WKOB-DT2.png" group-title="Section 2",42.1 WKOB-DT2 / Daystar
-https://v-ny.mybtv.net/live/646.m3u8
-#EXTINF:-1 tvg-id="SonLifeBroadcastingNetwork.us" tvg-name="42.5 WKOB-DT3 / Sonlife" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WKOB-DT3.png" group-title="Section 2",42.5 WKOB-DT3 / Sonlife
-https://v-ny.mybtv.net/live/649.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="42.6 WKOB-DT4 / Estrella TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WKOB-DT4.png" group-title="Section 2",42.6 WKOB-DT4 / Estrella TV
 https://v-ny.mybtv.net/live/650.m3u8
 #EXTINF:-1 tvg-id="ShopLC.us" tvg-name="42.7 WKOB-DT5 / Shop LC" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WKOB-DT5.png" group-title="Section 2",42.7 WKOB-DT5 / Shop LC
@@ -217,36 +237,16 @@ https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 #EXTINF:-1 tvg-id="NASATVMedia.us" tvg-name="NASA TV Media" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/NASAMedia.png" group-title="Section 2",NASA TV Media
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/AMC.png" group-title="Section 2",AMC
-https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="IFC.us" tvg-name="IFC" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/IFC.png" group-title="Section 2",IFC
-https://bcovlive-a.akamaihd.net/070ffdaa203f439cacbf0d45a1ddb356/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="Sundance TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/SundanceTV.png" group-title="Section 2",Sundance TV
-https://bcovlive-a.akamaihd.net/d2fcbeaead4b425fa13d4fec961fc47a/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/BBCAmerica.png" group-title="Section 2",BBC America
-https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/HSN.png" group-title="Section 2",HSN
-https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
-#EXTINF:-1 tvg-id="HSN2.us" tvg-name="HSN2" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/HSN2.png" group-title="Section 2",HSN2
-https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
-#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/QVC.png" group-title="Section 2",QVC
-https://lsqvc1usott-lh.akamaihd.net/i/lsqvc1usott_01@838836/master.m3u8
-#EXTINF:-1 tvg-id="QVC2.us" tvg-name="QVC2" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/QVC2.png" group-title="Section 2",QVC2
-https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8
-#EXTINF:-1 tvg-id="QVC3.us" tvg-name="QVC3" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/QVC3.png" group-title="Section 2",QVC3
-https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/BloombergTV.png" group-title="Section 2",Bloomberg TV
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-name="Bloomberg TV+" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/BloombergTVP.png" group-title="Section 2",Bloomberg TV+
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-name="Bloomberg Quicktake" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/BloombergTVQT.png" group-title="Section 2",Bloomberg Quicktake
-https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
 #EXTINF:-1 tvg-id="CheddarNews.us" tvg-name="Cheddar News" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/Cheddar.png" group-title="Section 2",Cheddar News
-https://live.chdrstatic.com/cbn/index.m3u8
+https://live.chdrstatic.com/index.m3u8
 #EXTINF:-1 tvg-id="CBSNewsNY.us" tvg-name="CBSN NY" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/CBSNNY.png" group-title="Section 2",CBSN NY
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
-#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/CBSN.png" group-title="Section 2",CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/ABCNewsLive.png" group-title="Section 2",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="ABC7247.us" tvg-name="ABC 24/7 News New York" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/ABC7NYNews247.png" group-title="Section 2",ABC 24/7 News New York
@@ -257,5 +257,5 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 #EXTINF:-1 tvg-id="VevoHipHop.us" tvg-name="Vevo Hip Hop" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/VevoHipHop.png" group-title="Section 2",Vevo Hip Hop
 https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
-#EXTINF:-1 tvg-id="Food52.us" tvg-name="Food52 TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/Food52.png" group-title="Section 2",Food52 TV
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-id="VoxChannel.us" tvg-name="The Vox Channel" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/Vox.png" group-title="Section 2",The Vox Channel
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Vox/live
