@@ -45,6 +45,10 @@ http://194.163.179.246/slovenci/filmski/cinestarpr1.m3u8
 http://194.163.179.246/slovenci/filmski/cinestarpr2.m3u8
 #EXTINF:-1 tvg-id="CineStarTV1.si" tvg-name="CineStar TV 1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/CineStarTV1.png" group-title="Section 1",CineStar TV 1
 http://194.163.179.246/slovenci/filmski/cinestartv.m3u8
+#EXTINF:-1 tvg-id="HBO.si" tvg-name="HBO Adria" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HBO.png" group-title="Section 1",HBO Adria
+http://194.163.179.246/slovenci/filmski/hbohd.m3u8
+#EXTINF:-1 tvg-id="HBO2.si" tvg-name="HBO2 Adria" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HBO2.png" group-title="Section 1",HBO2 Adria
+http://194.163.179.246/slovenci/filmski/hbo2hd.m3u8
 #EXTINF:-1 tvg-id="HBO3.si" tvg-name="HBO3 Adria" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HBO3.png" group-title="Section 1",HBO3 Adria
 http://194.163.179.246/slovenci/filmski/hbo3hd.m3u8
 #EXTINF:-1 tvg-id="ViasatExplore.si" tvg-name="Viasat Explore Slovenia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/ViasatExplore.png" group-title="Section 1",Viasat Explore Slovenia
@@ -79,8 +83,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/SkyNews.png" group-title="Section 1",Sky News
 https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index.m3u8
-#EXTINF:-1 tvg-id="ViasatHistory.no" tvg-name="Viasat History" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/ViasatHistory.png" group-title="Section 1",Viasat History
-http://ott-cdn.ucom.am/s23/index.m3u8
 #EXTINF:-1 tvg-id="FashionTV(src01).uk" tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/FTV.png" group-title="Section 1",Fashion TV
 http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/playlist.m3u8
 #EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/EBS.png" group-title="Section 1",EbS
@@ -230,7 +232,7 @@ https://v-ny.mybtv.net/live/713.m3u8
 #EXTINF:-1 tvg-id="WFUTDT2(Spanish).us" tvg-name="68.2 WFUT-DT2 / True Crime Network" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WFUT-DT2.png" group-title="Section 2",68.2 WFUT-DT2 / True Crime Network
 https://v-ny.mybtv.net/live/714.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/CNN.png" group-title="Section 2",CNN
-https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 #EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/HLN.png" group-title="Section 2",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/NASATV.png" group-title="Section 2",NASA TV
