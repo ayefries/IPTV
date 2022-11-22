@@ -110,7 +110,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANC
 #EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/BBCWorld.png" group-title="Section 1",BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.uk" tvg-name="CNN International Europe" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/CNNI.png" group-title="Section 1",CNN International Europe
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCEurope(src02).nl" tvg-name="CNBC Europe" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/CNBCEU.png" group-title="Section 1",CNBC Europe
 http://ott-cdn.ucom.am/s65/index.m3u8
 #EXTINF:-1 tvg-id="WCBS.us" tvg-name="2.1 WCBS / CBS 2 New York" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WCBS-DT.png" group-title="Section 2",2.1 WCBS / CBS 2 New York
