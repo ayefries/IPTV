@@ -9,66 +9,16 @@ https://parlament.rtcg.me:1936/pr/smil:parlament.smil/index.m3u8
 https://cdn3.rtcg.me:1936/cgsat/smil:cgsat.smil/index.m3u8
 #EXTINF:-1 tvg-id="televizijatv7.me" tvg-name="TV7" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/TV7.png" group-title="Section 1",TV7
 https://5a1178b42cc03.streamlock.net/tehnikatv777/tehnikatv777/chunklist_w950220315.m3u8
-#EXTINF:-1 tvg-id="HTV1(src01).hr" tvg-name="HRT 1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HRT1.png" group-title="Section 1",HRT 1
-http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
-#EXTINF:-1 tvg-id="HTV2(src01).hr" tvg-name="HRT 2" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HRT2.png" group-title="Section 1",HRT 2
-http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
-#EXTINF:-1 tvg-id="HRT3(src01).hr" tvg-name="HRT 3" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HRT3.png" group-title="Section 1",HRT 3
-http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
-#EXTINF:-1 tvg-id="HRT4(src01).hr" tvg-name="HRT 4" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HRT4.png" group-title="Section 1",HRT 4
-http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
-#EXTINF:-1 tvg-id="RTLTELEVIZIJA(src01).hr" tvg-name="RTL Hrvatska" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/RTLHR.png" group-title="Section 1",RTL Hrvatska
-http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
 #EXTINF:-1 tvg-id="N1(src01).sr" tvg-name="N1 RS" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/N1RS.png" group-title="Section 1",N1 RS
 https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
 #EXTINF:-1 tvg-id="euronews(Serbia).rs" tvg-name="Euronews Srbija" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/EuronewsSrbija.png" group-title="Section 1",Euronews Srbija
 https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w1797442721_b6256000.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraBalkans(src01).hr" tvg-name="Al Jazeera Balkans" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/AJB.png" group-title="Section 1",Al Jazeera Balkans
 http://live-hls-web-ajb.getaj.net/AJB/01.m3u8
-#EXTINF:-1 tvg-id="TVSLO1(src01).si" tvg-name="TV SLO 1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/SLO1.png" group-title="Section 1",TV SLO 1
-http://194.163.179.246/slovenci/slonacionalni/slo1.m3u8
-#EXTINF:-1 tvg-id="TVSLO2(src01).si" tvg-name="TV SLO 2" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/SLO2.png" group-title="Section 1",TV SLO 2
-http://194.163.179.246/slovenci/slonacionalni/slo2.m3u8
-#EXTINF:-1 tvg-id="TVSLO3(src01).si" tvg-name="TV SLO 3" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/SLO3.png" group-title="Section 1",TV SLO 3
-http://194.163.179.246/slovenci/slonacionalni/slo3.m3u8
-#EXTINF:-1 tvg-id="24Kitchen.si" tvg-name="24Kitchen Slovenia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/24Kitchen.png" group-title="Section 1",24Kitchen Slovenia
-http://194.163.179.246/slovenci/doku/24kitchenhd.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.si" tvg-name="BBC Earth Slovenia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/BBCEarth.png" group-title="Section 1",BBC Earth Slovenia
-http://194.163.179.246/slovenci/doku/bbcearththd
-#EXTINF:-1 tvg-id="AnimalPlanet.si" tvg-name="Animal Planet Slovenia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/AnimalPlanet.png" group-title="Section 1",Animal Planet Slovenia
-http://194.163.179.246/slovenci/doku/animalhd.m3u8
-#EXTINF:-1 tvg-id="HistoryChannel.si" tvg-name="History Channel Slovenia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HistoryEurope.png" group-title="Section 1",History Channel Slovenia
-http://194.163.179.246/slovenci/doku/historyhd.m3u8
-#EXTINF:-1 tvg-id="CineStarPremiere1.si" tvg-name="CineStar Premiere 1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/CineStarPremiere1.png" group-title="Section 1",CineStar Premiere 1
-http://194.163.179.246/slovenci/filmski/cinestarpr1.m3u8
-#EXTINF:-1 tvg-id="CineStarPremiere2.si" tvg-name="CineStar Premiere 2" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/CineStarPremiere2.png" group-title="Section 1",CineStar Premiere 2
-http://194.163.179.246/slovenci/filmski/cinestarpr2.m3u8
-#EXTINF:-1 tvg-id="CineStarTV1.si" tvg-name="CineStar TV 1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/CineStarTV1.png" group-title="Section 1",CineStar TV 1
-http://194.163.179.246/slovenci/filmski/cinestartv.m3u8
-#EXTINF:-1 tvg-id="HBO.si" tvg-name="HBO Adria" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HBO.png" group-title="Section 1",HBO Adria
-http://194.163.179.246/slovenci/filmski/hbohd.m3u8
-#EXTINF:-1 tvg-id="HBO2.si" tvg-name="HBO2 Adria" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HBO2.png" group-title="Section 1",HBO2 Adria
-http://194.163.179.246/slovenci/filmski/hbo2hd.m3u8
-#EXTINF:-1 tvg-id="HBO3.si" tvg-name="HBO3 Adria" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HBO3.png" group-title="Section 1",HBO3 Adria
-http://194.163.179.246/slovenci/filmski/hbo3hd.m3u8
-#EXTINF:-1 tvg-id="ViasatExplore.si" tvg-name="Viasat Explore Slovenia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/ViasatExplore.png" group-title="Section 1",Viasat Explore Slovenia
-http://194.163.179.246/slovenci/doku/explorer.m3u8
-#EXTINF:-1 tvg-id="BabyTV.si" tvg-name="BabyTV Slovenia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/BabyTV.png" group-title="Section 1",BabyTV Slovenia
-http://194.163.179.246/slovenci/djeciji/babytv.m3u8
-#EXTINF:-1 tvg-id="DuckTV.si" tvg-name="Duck TV Slovenia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/DuckTV.png" group-title="Section 1",Duck TV Slovenia
-http://194.163.179.246/slovenci/djeciji/ducktv.m3u8
-#EXTINF:-1 tvg-id="JimJam.si" tvg-name="JimJam Slovenia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/JimJam.png" group-title="Section 1",JimJam Slovenia
-http://194.163.179.246/slovenci/djeciji/jimjam.m3u8
-#EXTINF:-1 tvg-id="Boomerang.si" tvg-name="Boomerang Slovenia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Boomerang.png" group-title="Section 1",Boomerang Slovenia
-http://194.163.179.246/slovenci/djeciji/boomerang.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.si" tvg-name="Cartoon Network Slovenia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/CartoonNetwork.png" group-title="Section 1",Cartoon Network Slovenia
-http://194.163.179.246/slovenci/djeciji/cartoon.m3u8
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Rai1.png" group-title="Section 1",Rai 1
 http://ott-cdn.ucom.am/s29/index.m3u8
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Rai3.png" group-title="Section 1",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/RaiNews24.png" group-title="Section 1",Rai News 24
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8?hdnea=st=1647004011~exp=1647004161~acl=/*~hmac=e5f979fa5dd0655e55655e7c0a30a4fb7497e8a60ef1eec9dafcd2ac907270eb
 #EXTINF:-1 tvg-id="La7.it" tvg-name="La7" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/La7.png" group-title="Section 1",La7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 tvg-id="VH1.it" tvg-name="VH1 Italia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/VH1Italia.png" group-title="Section 1",VH1 Italia
@@ -76,7 +26,7 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-id="DW(src02).de" tvg-name="DW Deutsch" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/DWDE.png" group-title="Section 1",DW Deutsch
 http://ott-cdn.ucom.am/s26/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 Français" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/France24FR.png" group-title="Section 1",France 24 Français
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24/live
+https://hls.youtb.workers.dev/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5Monde Info" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/TV5MondeInfo.png" group-title="Section 1",TV5Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Mezzo.png" group-title="Section 1",Mezzo
@@ -95,8 +45,6 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="NHKWorld.uk" tvg-name="NHK World" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/NHKW.png" group-title="Section 1",NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/KBSW.png" group-title="Section 1",KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/TRTW.png" group-title="Section 1",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Bloomberg(UK).uk" tvg-name="Bloomberg TV Europe" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/BloombergEU.png" group-title="Section 1",Bloomberg TV Europe
@@ -108,7 +56,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.uk" tvg-name="Al Jazeera English" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/AJE.png" group-title="Section 1",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="France24English.uk" tvg-name="France 24 English" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/France24.png" group-title="Section 1",France 24 English
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
+https://hls.youtb.workers.dev/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/BBCWorld.png" group-title="Section 1",BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.uk" tvg-name="CNN International Europe" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/CNNI.png" group-title="Section 1",CNN International Europe
@@ -231,14 +179,8 @@ https://v-ny.mybtv.net/live/612.m3u8
 https://v-ny.mybtv.net/live/713.m3u8
 #EXTINF:-1 tvg-id="WFUTDT2(Spanish).us" tvg-name="68.2 WFUT-DT2 / True Crime Network" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WFUT-DT2.png" group-title="Section 2",68.2 WFUT-DT2 / True Crime Network
 https://v-ny.mybtv.net/live/714.m3u8
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/CNN.png" group-title="Section 2",CNN
-https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 #EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/HLN.png" group-title="Section 2",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/NASATV.png" group-title="Section 2",NASA TV
-http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
-#EXTINF:-1 tvg-id="NASATVMedia.us" tvg-name="NASA TV Media" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/NASAMedia.png" group-title="Section 2",NASA TV Media
-http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/BBCAmerica.png" group-title="Section 2",BBC America
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/BloombergTV.png" group-title="Section 2",Bloomberg TV
@@ -259,5 +201,3 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 #EXTINF:-1 tvg-id="VevoHipHop.us" tvg-name="Vevo Hip Hop" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/VevoHipHop.png" group-title="Section 2",Vevo Hip Hop
 https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
-#EXTINF:-1 tvg-id="VoxChannel.us" tvg-name="The Vox Channel" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/Vox.png" group-title="Section 2",The Vox Channel
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Vox/live
