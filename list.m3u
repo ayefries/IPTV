@@ -181,6 +181,12 @@ https://v-ny.mybtv.net/live/713.m3u8
 https://v-ny.mybtv.net/live/714.m3u8
 #EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/HLN.png" group-title="Section 2",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/AMC.png" group-title="Section 2",AMC
+https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="IFC.us" tvg-name="IFC" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/IFC.png" group-title="Section 2",IFC
+https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="Sundance TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/SundanceTV.png" group-title="Section 2",Sundance TV
+https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/BBCAmerica.png" group-title="Section 2",BBC America
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/BloombergTV.png" group-title="Section 2",Bloomberg TV
