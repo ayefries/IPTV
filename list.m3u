@@ -7,6 +7,10 @@ https://cdn2.rtcg.me:1936/cg2/smil:cg2.smil/index.m3u8
 https://parlament.rtcg.me:1936/pr/smil:parlament.smil/index.m3u8
 #EXTINF:-1 tvg-id="RTCGMNE.me" tvg-name="RTCG MNE" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/RTCGMNE.png" group-title="Section 1",RTCG MNE
 https://cdn3.rtcg.me:1936/cgsat/smil:cgsat.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVHercegNovi.me" tvg-name="TV Herceg Novi" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/TVHN.png" group-title="Section 1",TV Herceg Novi
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvhercegnovi
+#EXTINF:-1 tvg-id="TVRožaje.me" tvg-name="TV Rožaje" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/TVRO.png" group-title="Section 1",TV Rožaje
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/radiotelevizijarozaje
 #EXTINF:-1 tvg-id="televizijatv7.me" tvg-name="TV7" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/TV7.png" group-title="Section 1",TV7
 https://5a1178b42cc03.streamlock.net/tehnikatv777/tehnikatv777/chunklist_w950220315.m3u8
 #EXTINF:-1 tvg-id="N1(src01).sr" tvg-name="N1 RS" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/N1RS.png" group-title="Section 1",N1 RS
@@ -15,6 +19,12 @@ https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&
 https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w1797442721_b6256000.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraBalkans(src01).hr" tvg-name="Al Jazeera Balkans" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/AJB.png" group-title="Section 1",Al Jazeera Balkans
 http://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+#EXTINF:-1 tvg-id="RTL.hr" tvg-name="RTL HR" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/RTLHR.png" group-title="Section 1",RTL HR
+http://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL2.hr" tvg-name="RTL 2 HR" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/RTL2HR.png" group-title="Section 1",RTL 2 HR
+http://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLKockica.hr" tvg-name="RTL Kockica HR" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/RTLKockica.png" group-title="Section 1",RTL Kockica HR
+http://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Rai1.png" group-title="Section 1",Rai 1
 http://ott-cdn.ucom.am/s29/index.m3u8
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Rai3.png" group-title="Section 1",Rai 3
@@ -25,6 +35,20 @@ https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-id="DW(src02).de" tvg-name="DW Deutsch" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/DWDE.png" group-title="Section 1",DW Deutsch
 http://ott-cdn.ucom.am/s26/index.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/TF1.png" group-title="Section 1",TF1
+https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
+EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/CanalPlus.png" group-title="Section 1",Canal+
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/CANALPLUS
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/M6.png" group-title="Section 1",M6
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="C8" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/C8.png" group-title="Section 1",C8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/C8TV
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/TFX.png" group-title="Section 1",TFX
+https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/CNews.png" group-title="Section 1",CNews
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/CNEWS
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Séries Films" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HD1.png" group-title="Section 1",TF1 Séries Films
+https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 Français" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/France24FR.png" group-title="Section 1",France 24 Français
 https://hls.youtb.workers.dev/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5Monde Info" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/TV5MondeInfo.png" group-title="Section 1",TV5Monde Info
