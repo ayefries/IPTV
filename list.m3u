@@ -37,7 +37,7 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 http://ott-cdn.ucom.am/s26/index.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/TF1.png" group-title="Section 1",TF1
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
-EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/CanalPlus.png" group-title="Section 1",Canal+
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/CanalPlus.png" group-title="Section 1",Canal+
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/CANALPLUS
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/M6.png" group-title="Section 1",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
@@ -99,6 +99,8 @@ https://v-ny.mybtv.net/live/648.m3u8
 https://v-ny.mybtv.net/live/548.m3u8
 #EXTINF:-1 tvg-id="WNBCDT2.us" tvg-name="4.2 WNBC-DT2 / Cozi TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNBC-DT2.png" group-title="Section 2",4.2 WNBC-DT2 / Cozi TV
 https://v-ny.mybtv.net/live/549.m3u8
+#EXTINF:-1 tvg-id="WNBCDT3.us" tvg-name="4.3 WNBC-DT3 / NBC LX" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNBC-DT3.png" group-title="Section 2",4.3 WNBC-DT3 / NBC LX
+https://v-ny.mybtv.net/live/1001.m3u8
 #EXTINF:-1 tvg-id="WNYWDT.us" tvg-name="5.1 WNYW / FOX 5 New York" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNYW-DT.png" group-title="Section 2",5.1 WNYW / FOX 5 New York
 https://v-ny.mybtv.net/live/550.m3u8
 #EXTINF:-1 tvg-id="WNYWDT2.us" tvg-name="5.2 WNYW-DT2 / Movies!" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNYW-DT2.png" group-title="Section 2",5.2 WNYW-DT2 / Movies!
@@ -123,6 +125,11 @@ https://v-ny.mybtv.net/live/559.m3u8
 https://v-ny.mybtv.net/live/561.m3u8
 #EXTINF:-1 tvg-id="WPIXDT.us" tvg-name="11.1 WPIX / PIX 11 New York (The CW)" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPIX-DT.png" group-title="Section 2",11.1 WPIX / PIX 11 New York (The CW)
 https://v-ny.mybtv.net/live/562.m3u8
+
+
+#EXTINF:-1 tvg-id="WPIXDT3.us" tvg-name="11.3 WPIX-DT3 / Court TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPIX-DT3.png" group-title="Section 2",11.3 WPIX-DT3 / Court TV
+https://v-ny.mybtv.net/live/562.m3u8
+
 #EXTINF:-1 tvg-id="WPIXDT4.us" tvg-name="11.4 WPIX-DT4 / Rewind TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPIX-DT4.png" group-title="Section 2",11.4 WPIX-DT4 / Rewind TV
 https://v-ny.mybtv.net/live/565.m3u8
 #EXTINF:-1 tvg-id="WNETDT.us" tvg-name="13.1 WNET / PBS Thirteen" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNET-DT.png" group-title="Section 2",13.1 WNET / PBS Thirteen
@@ -203,6 +210,8 @@ https://v-ny.mybtv.net/live/612.m3u8
 https://v-ny.mybtv.net/live/713.m3u8
 #EXTINF:-1 tvg-id="WFUTDT2(Spanish).us" tvg-name="68.2 WFUT-DT2 / True Crime Network" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WFUT-DT2.png" group-title="Section 2",68.2 WFUT-DT2 / True Crime Network
 https://v-ny.mybtv.net/live/714.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/CNN.png" group-title="Section 2",CNN
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 #EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/HLN.png" group-title="Section 2",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/AMC.png" group-title="Section 2",AMC
@@ -213,6 +222,8 @@ https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/62407
 https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/BBCAmerica.png" group-title="Section 2",BBC America
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="ViceTV.us" tvg-name="VICE TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/VICE.png" group-title="Section 2",VICE TV
+https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/BloombergTV.png" group-title="Section 2",Bloomberg TV
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-name="Bloomberg TV+" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/BloombergTVP.png" group-title="Section 2",Bloomberg TV+
@@ -225,6 +236,10 @@ https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="ABC7247.us" tvg-name="ABC 24/7 News New York" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/ABC7NYNews247.png" group-title="Section 2",ABC 24/7 News New York
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+
+#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-name="NBC News NOW" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/NBCNewsNOW.png" group-title="Section 2",NBC News NOW
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+
 #EXTINF:-1 tvg-id="VevoPop.us" tvg-name="Vevo Pop" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/VevoPop.png" group-title="Section 2",Vevo Pop
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 #EXTINF:-1 tvg-id="VevoLatino.us" tvg-name="Vevo Latino" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/VevoLatino.png" group-title="Section 2",Vevo Latino
