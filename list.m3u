@@ -7,24 +7,95 @@ https://proxy1.rtcg.me:1936/cg2/smil:cg2.smil/cg2.m3u8
 https://parlament.rtcg.me:1936/pr/smil:parlament.smil/index.m3u8
 #EXTINF:-1 tvg-id="RTCGMNE.me" tvg-name="RTCG MNE" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/RTCGMNE.png" group-title="Section 1",RTCG MNE
 https://cdn3.rtcg.me:1936/cgsat/smil:cgsat.smil/index.m3u8
+#EXTINF:-1 tvg-id="Vijesti.me" tvg-name="Vijesti" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Vijesti.png" group-title="Section 1",Vijesti
+http://89.187.191.99/vijesti/index.m3u8
 #EXTINF:-1 tvg-id="TVHercegNovi.me" tvg-name="TV Herceg Novi" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/TVHN.png" group-title="Section 1",TV Herceg Novi
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvhercegnovi
-#EXTINF:-1 tvg-id="TVRožaje.me" tvg-name="TV Rožaje" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/TVRO.png" group-title="Section 1",TV Rožaje
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/radiotelevizijarozaje
+https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CrYEOLtKeY_lc-nKTtqf-_JmZCcMn4i6PIPmgHeMFt2rDbViFoyyz7ELaI8YU12MKXyMK6ruEj08XdTTpjNeFUHXqOVIQaT-BN1cDfwFALUtwJI0NXI5eVSqrisQ_JpTWeBEdSjHxVukxE7KoxLuKpHOLn-8DrtXCX0nn6kaS87G4a9MCSrhKewjZwxfjJQrz2aITIAah19uCr9ZIqJSu-9-qRSNrQ9F8fPwD2I6dyDOGPjI55XnBN4AV16FVxYcKnFDM48ZSRfHLkxkIGlGJUf1V9sAueH_26DtTJOChIzHiCcYVkcKnpyLF0uiQTQk4J1MZbqWAvm2QkAFQU9SKELk5_kLX7W177nPEryfSPcfQTfiTlCM4Qa30Lr7CieX4vA27d0zYRJ0KDemNFucFm2h3xOCEo3bdzGtqC0XOAVUh6ydWEISiCb2WRJYM_Qp_ECUDUWvi-kViXDudQdSokyuPSeSCzCGpeeFvt4njBNT8ANsNiUuqBQpyBMc2cqKTSAD7tLfDXFRLMhWBhUDVjd_KcffR6f_6ZQQsOWuIArgsMaB6pDnzG19N-I0d3QtpPe4IugZfi3EiFk1ghFokNdPYTbNcRqG09vA4fO3tT5prWkBtfWsan6_hTUpjS8OkaHU7DecCnStpzWOp4oD8qRO8LbiDAIQRDGbsbMQMeLFdbHbI58i4wvY_ldrfpr91uDDkll3ReYzWF8b3EbtM4EhfXt8mb6sJ83_B-3YpJv5WtYN6p2dungaDB7jxbvTI-bM_RlLayABKglldS13ZXN0LTEwvQI.m3u8
+
 #EXTINF:-1 tvg-id="televizijatv7.me" tvg-name="TV7" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/TV7.png" group-title="Section 1",TV7
 https://5a1178b42cc03.streamlock.net/tehnikatv777/tehnikatv777/chunklist_w950220315.m3u8
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/RTS1.png" group-title="Section 1",RTS 1
+http://89.187.191.99/rts1/index.m3u8
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/RTS2.png" group-title="Section 1",RTS 2
+http://89.187.191.99/rts2/index.m3u8
+#EXTINF:-1 tvg-id="RTS3.rs" tvg-name="RTS 3" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/RTS3.png" group-title="Section 1",RTS 3
+http://89.187.191.99/rts3/index.m3u8
 #EXTINF:-1 tvg-id="N1(src01).sr" tvg-name="N1 RS" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/N1RS.png" group-title="Section 1",N1 RS
-https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
+http://89.187.191.99/n1/index.m3u8
 #EXTINF:-1 tvg-id="euronews(Serbia).rs" tvg-name="Euronews Srbija" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/EuronewsSrbija.png" group-title="Section 1",Euronews Srbija
 https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w1797442721_b6256000.m3u8
+#EXTINF:-1 tvg-id="b92.rs" tvg-name="b92" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/b92.png" group-title="Section 1",b92
+http://89.187.191.99/O2/index.m3u8
+#EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Prva.png" group-title="Section 1",Prva TV
+http://89.187.191.99/prvatv/index.m3u8
+#EXTINF:-1 tvg-id="Pink.rs" tvg-name="Pink" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Pink.png" group-title="Section 1",Pink
+http://89.187.191.99/pinktv/index.m3u8
+#EXTINF:-1 tvg-id="Happy.rs" tvg-name="Happy" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Happy.png" group-title="Section 1",Happy
+http://89.187.191.99/happy/index.m3u8
+#EXTINF:-1 tvg-id="ArenaSport1.rs" tvg-name="Arena Sport 1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Arena1.png" group-title="Section 1",Arena Sport 1
+http://89.187.191.99/arena1/index.m3u8
+#EXTINF:-1 tvg-id="ArenaSport2.rs" tvg-name="Arena Sport 2" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Arena2.png" group-title="Section 1",Arena Sport 2
+http://89.187.191.99/arena2/index.m3u8
+#EXTINF:-1 tvg-id="ArenaSport3.rs" tvg-name="Arena Sport 3" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Arena3.png" group-title="Section 1",Arena Sport 3
+http://89.187.191.99/arena3/index.m3u8
+#EXTINF:-1 tvg-id="ArenaSport4.rs" tvg-name="Arena Sport 4" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Arena4.png" group-title="Section 1",Arena Sport 4
+http://89.187.191.99/arena4/index.m3u8
+#EXTINF:-1 tvg-id="ArenaSport5.rs" tvg-name="Arena Sport 5" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Arena5.png" group-title="Section 1",Arena Sport 5
+http://89.187.191.99/arena5/index.m3u8
+#EXTINF:-1 tvg-id="SK1.rs" tvg-name="SK1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/SK1.png" group-title="Section 1",SK1
+http://89.187.191.99/sk1/index.m3u8
+#EXTINF:-1 tvg-id="SK2.rs" tvg-name="SK2" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/SK2.png" group-title="Section 1",SK2
+http://89.187.191.99/sk2/index.m3u8
+#EXTINF:-1 tvg-id="SK3.rs" tvg-name="SK3" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/SK3.png" group-title="Section 1",SK3
+http://89.187.191.99/sk3/index.m3u8
+#EXTINF:-1 tvg-id="SK4.rs" tvg-name="SK4" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/SK4.png" group-title="Section 1",SK4
+http://89.187.191.99/sk4/index.m3u8
+#EXTINF:-1 tvg-id="SK5.rs" tvg-name="SK5" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/SK5.png" group-title="Section 1",SK5
+http://89.187.191.99/sk5/index.m3u8
+#EXTINF:-1 tvg-id="SK6.rs" tvg-name="SK6" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/SK6.png" group-title="Section 1",SK6
+http://89.187.191.99/sk6/index.m3u8
+#EXTINF:-1 tvg-id="HBO.si" tvg-name="HBO Adria" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HBO.png" group-title="Section 1",HBO Adria
+http://89.187.191.99/hbo/index.m3u8
+#EXTINF:-1 tvg-id="HBO2.si" tvg-name="HBO2 Adria" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HBO2.png" group-title="Section 1",HBO2 Adria
+http://89.187.191.99/hbo2/index.m3u8
+#EXTINF:-1 tvg-id="HBO3.si" tvg-name="HBO3 Adria" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HBO3.png" group-title="Section 1",HBO3 Adria
+http://89.187.191.99/hbo3/index.m3u8
+#EXTINF:-1 tvg-id="FOX.rs" tvg-name="FOX Serbia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/FOX.png" group-title="Section 1",FOX Serbia
+http://89.187.191.99/fox/index.m3u8
+#EXTINF:-1 tvg-id="FOXCrime.rs" tvg-name="FOX Crime Serbia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/FOXCrime.png" group-title="Section 1",FOX Crime Serbia
+http://89.187.191.99/foxcrime/index.m3u8
+#EXTINF:-1 tvg-id="AMC.rs" tvg-name="AMC Serbia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/AMC.png" group-title="Section 1",AMC Serbia
+http://89.187.191.99/amc/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.rs" tvg-name="Nickelodeon Serbia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Nickelodeon.png" group-title="Section 1",Nickelodeon Serbia
+http://89.187.191.99/nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="BabyTV.rs" tvg-name="BabyTV Serbia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/BabyTV.png" group-title="Section 1",BabyTV Serbia
+http://89.187.191.99/baby/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraBalkans(src01).hr" tvg-name="Al Jazeera Balkans" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/AJB.png" group-title="Section 1",Al Jazeera Balkans
 http://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+#EXTINF:-1 tvg-id="HTV1(src01).hr" tvg-name="HRT 1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HRT1.png" group-title="Section 1",HRT 1
+http://89.187.191.99/hrt1/index.m3u8
+#EXTINF:-1 tvg-id="HTV2(src01).hr" tvg-name="HRT 2" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HRT2.png" group-title="Section 1",HRT 2
+http://89.187.191.99/hrt2/index.m3u8
+#EXTINF:-1 tvg-id="HTV3(src01).hr" tvg-name="HRT 3" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HRT3.png" group-title="Section 1",HRT 3
+http://89.187.191.99/hrt3/index.m3u8
+#EXTINF:-1 tvg-id="HTV4(src01).hr" tvg-name="HRT 4" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HRT4.png" group-title="Section 1",HRT 4
+http://89.187.191.99/hrt4/index.m3u8
+#EXTINF:-1 tvg-id="HTVInt(src01).hr" tvg-name="HRT Int." tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/HRTInt.png" group-title="Section 1",HRT Int.
+http://89.187.191.99/hrt5/index.m3u8
+#EXTINF:-1 tvg-id="Nova.hr" tvg-name="Nova HR" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/NovaHR.png" group-title="Section 1",Nova HR
+http://89.187.191.99/nova/index.m3u8
 #EXTINF:-1 tvg-id="RTL.hr" tvg-name="RTL HR" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/RTLHR.png" group-title="Section 1",RTL HR
 http://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 #EXTINF:-1 tvg-id="RTL2.hr" tvg-name="RTL 2 HR" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/RTL2HR.png" group-title="Section 1",RTL 2 HR
 http://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLKockica.hr" tvg-name="RTL Kockica HR" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/RTLKockica.png" group-title="Section 1",RTL Kockica HR
 http://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSLO1(src01).si" tvg-name="TV SLO 1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/SLO1.png" group-title="Section 1",TV SLO 1
+http://89.187.191.99/slo1/index.m3u8
+#EXTINF:-1 tvg-id="TVSLO2(src01).si" tvg-name="TV SLO 2" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/SLO2.png" group-title="Section 1",TV SLO 2
+http://89.187.191.99/slo2/index.m3u8
+#EXTINF:-1 tvg-id="TVSLO3(src01).si" tvg-name="TV SLO 3" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/SLO3.png" group-title="Section 1",TV SLO 3
+http://89.187.191.99/slo3/index.m3u8
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Rai1.png" group-title="Section 1",Rai 1
 http://ott-cdn.ucom.am/s29/index.m3u8
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/Rai3.png" group-title="Section 1",Rai 3
@@ -57,8 +128,16 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/SkyNews.png" group-title="Section 1",Sky News
 https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/BBCNews.png" group-title="Section 1",BBC News
+https://vs-hls-push-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="FashionTV(src01).uk" tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/FTV.png" group-title="Section 1",Fashion TV
 http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/playlist.m3u8
+#EXTINF:-1 tvg-id="TLC.bg" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/TLC.png" group-title="Section 1",TLC Bulgaria
+http://195.24.89.82/TLC_SD/index.m3u8
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/MTV.png" group-title="Section 1",MTV
+http://195.24.89.82/MTV_SD/index.m3u8
+#EXTINF:-1 tvg-id="MTV00s.uk" tvg-name="MTV 00s" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/MTV00s.png" group-title="Section 1",MTV 00s
+http://195.24.89.82/VH1_SD/index.m3u8
 #EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/EBS.png" group-title="Section 1",EbS
 https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=96000-video=2600000.m3u8
 #EXTINF:-1 tvg-id="EbS+.be" tvg-name="EbS+" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/EBSP.png" group-title="Section 1",EbS+
@@ -84,132 +163,9 @@ https://hls.youtb.workers.dev/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/BBCWorld.png" group-title="Section 1",BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.uk" tvg-name="CNN International Europe" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/CNNI.png" group-title="Section 1",CNN International Europe
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+http://195.24.89.82/CNN_SD/index.m3u8
 #EXTINF:-1 tvg-id="CNBCEurope(src02).nl" tvg-name="CNBC Europe" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/CNBCEU.png" group-title="Section 1",CNBC Europe
 http://ott-cdn.ucom.am/s65/index.m3u8
-#EXTINF:-1 tvg-id="WCBS.us" tvg-name="2.1 WCBS / CBS 2 New York" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WCBS-DT.png" group-title="Section 2",2.1 WCBS / CBS 2 New York
-https://v-ny.mybtv.net/live/545.m3u8
-#EXTINF:-1 tvg-id="WCBSDT2.us" tvg-name="2.2 WCBS-DT2 / Start TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WCBS-DT2.png" group-title="Section 2",2.2 WCBS-DT2 / Start TV
-https://v-ny.mybtv.net/live/546.m3u8
-#EXTINF:-1 tvg-id="WCBSDT3.us" tvg-name="2.3 WCBS-DT2 / Dabl" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WCBS-DT3.png" group-title="Section 2",2.3 WCBS-DT2 / Dabl
-https://v-ny.mybtv.net/live/547.m3u8
-#EXTINF:-1 tvg-id="WCBSDT4.us" tvg-name="2.4 WCBS-DT4 / Fave TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WCBS-DT4.png" group-title="Section 2",2.4 WCBS-DT4 / Fave TV
-https://v-ny.mybtv.net/live/648.m3u8
-#EXTINF:-1 tvg-id="WNBCDT.us" tvg-name="4.1 WNBC / NBC 4 New York" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNBC-DT.png" group-title="Section 2",4.1 WNBC / NBC 4 New York
-https://v-ny.mybtv.net/live/548.m3u8
-#EXTINF:-1 tvg-id="WNBCDT2.us" tvg-name="4.2 WNBC-DT2 / Cozi TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNBC-DT2.png" group-title="Section 2",4.2 WNBC-DT2 / Cozi TV
-https://v-ny.mybtv.net/live/549.m3u8
-#EXTINF:-1 tvg-id="WNBCDT3.us" tvg-name="4.3 WNBC-DT3 / NBC LX" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNBC-DT3.png" group-title="Section 2",4.3 WNBC-DT3 / NBC LX
-https://v-ny.mybtv.net/live/1001.m3u8
-#EXTINF:-1 tvg-id="WNYWDT.us" tvg-name="5.1 WNYW / FOX 5 New York" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNYW-DT.png" group-title="Section 2",5.1 WNYW / FOX 5 New York
-https://v-ny.mybtv.net/live/550.m3u8
-#EXTINF:-1 tvg-id="WNYWDT2.us" tvg-name="5.2 WNYW-DT2 / Movies!" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNYW-DT2.png" group-title="Section 2",5.2 WNYW-DT2 / Movies!
-https://v-ny.mybtv.net/live/551.m3u8
-#EXTINF:-1 tvg-id="FOXWeather.us" tvg-name="5.3 WNYW-DT3 / Fox Weather" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNYW-DT3.png" group-title="Section 2",5.3 WNYW-DT3 / Fox Weather
-https://v-ny.mybtv.net/live/676.m3u8
-#EXTINF:-1 tvg-id="WNYWDT4.us" tvg-name="5.4 WNYW-DT4 / theGrio" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNYW-DT4.png" group-title="Section 2",5.4 WNYW-DT4 / theGrio
-https://v-ny.mybtv.net/live/552.m3u8
-#EXTINF:-1 tvg-id="WNYWDT5.us" tvg-name="5.5 WNYW-DT5 / Decades" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNYW-DT5.png" group-title="Section 2",5.5 WNYW-DT5 / Decades
-https://v-ny.mybtv.net/live/553.m3u8
-#EXTINF:-1 tvg-id="WABCDT.us" tvg-name="7.1 WABC / ABC 7 New York" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WABC-DT.png" group-title="Section 2",7.1 WABC / ABC 7 New York
-https://v-ny.mybtv.net/live/554.m3u8
-#EXTINF:-1 tvg-id="WABCDT2.us" tvg-name="7.2 WABC-DT2 / Localish" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WABC-DT2.png" group-title="Section 2",7.2 WABC-DT2 / Localish
-https://v-ny.mybtv.net/live/555.m3u8
-#EXTINF:-1 tvg-id="WABCDT3.us" tvg-name="7.3 WABC-DT3 / thisTV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WABC-DT3.png" group-title="Section 2",7.3 WABC-DT3 / thisTV
-https://v-ny.mybtv.net/live/556.m3u8
-#EXTINF:-1 tvg-id="HSN.us" tvg-name="7.4 WABC-DT4 / HSN" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WABC-DT4.png" group-title="Section 2",7.4 WABC-DT4 / HSN
-https://v-ny.mybtv.net/live/613.m3u8
-#EXTINF:-1 tvg-id="WWORDT.us" tvg-name="9.1 WWOR / myTV 9" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WWOR-DT.png" group-title="Section 2",9.1 WWOR / myTV 9
-https://v-ny.mybtv.net/live/559.m3u8
-#EXTINF:-1 tvg-id="HeroesandIconsNetwork.us" tvg-name="9.4 WWOR-DT4 / Heroes & Icons" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WWOR-DT4.png" group-title="Section 2",9.4 WWOR-DT4 / Heroes & Icons
-https://v-ny.mybtv.net/live/561.m3u8
-#EXTINF:-1 tvg-id="WPIXDT.us" tvg-name="11.1 WPIX / PIX 11 New York (The CW)" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPIX-DT.png" group-title="Section 2",11.1 WPIX / PIX 11 New York (The CW)
-https://v-ny.mybtv.net/live/562.m3u8
-
-
-#EXTINF:-1 tvg-id="WPIXDT3.us" tvg-name="11.3 WPIX-DT3 / Court TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPIX-DT3.png" group-title="Section 2",11.3 WPIX-DT3 / Court TV
-https://v-ny.mybtv.net/live/562.m3u8
-
-#EXTINF:-1 tvg-id="WPIXDT4.us" tvg-name="11.4 WPIX-DT4 / Rewind TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPIX-DT4.png" group-title="Section 2",11.4 WPIX-DT4 / Rewind TV
-https://v-ny.mybtv.net/live/565.m3u8
-#EXTINF:-1 tvg-id="WNETDT.us" tvg-name="13.1 WNET / PBS Thirteen" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNET-DT.png" group-title="Section 2",13.1 WNET / PBS Thirteen
-https://v-ny.mybtv.net/live/567.m3u8
-#EXTINF:-1 tvg-id="WNETDT2.us" tvg-name="13.2 WNET-DT2 / PBS Kids" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNET-DT2.png" group-title="Section 2",13.2 WNET-DT2 / PBS Kids
-https://v-ny.mybtv.net/live/568.m3u8
-#EXTINF:-1 tvg-id="WNDTCD.us" tvg-name="14.1 WNDT-CD / WNDT FNX" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNDT-CD.png" group-title="Section 2",14.1 WNDT-CD / WNDT FNX
-https://v-ny.mybtv.net/live/569.m3u8
-#EXTINF:-1 tvg-id="WLIWDT.us" tvg-name="21.1 WLIW / PBS WLIW21" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WLIW-DT.png" group-title="Section 2",21.1 WLIW / PBS WLIW21
-https://v-ny.mybtv.net/live/575.m3u8
-#EXTINF:-1 tvg-id="WLIWDT2.us" tvg-name="21.2 / PBS Create" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WLIW-DT2.png" group-title="Section 2",21.2 WLIW-DT2 / PBS Create
-https://v-ny.mybtv.net/live/576.m3u8
-#EXTINF:-1 tvg-id="WLIWDT3.us" tvg-name="21.3 WLIW-DT3 / PBS World" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WLIW-DT3.png" group-title="Section 2",21.3 WLIW-DT3 / PBS World
-https://v-ny.mybtv.net/live/577.m3u8
-#EXTINF:-1 tvg-id="WLIWDT4.us" tvg-name="21.4 WLIW-DT4 / PBS All Arts" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WLIW-DT4.png" group-title="Section 2",21.4 WLIW-DT4 / PBS All Arts
-https://v-ny.mybtv.net/live/578.m3u8
-#EXTINF:-1 tvg-id="WNYEDT.us" tvg-name="25.1 WNYE-TV / NYC Life" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNYE-DT.png" group-title="Section 2",25.1 WNYE-TV / NYC Life
-https://v-ny.mybtv.net/live/591.m3u8
-#EXTINF:-1 tvg-id="WNYEDT2.us" tvg-name="25.2 WNYE-DT2 / NYC Gov" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNYE-DT2.png" group-title="Section 2",25.2 WNYE-DT2 / NYC Gov
-https://v-ny.mybtv.net/live/592.m3u8
-#EXTINF:-1 tvg-id="WNYEDT3.us" tvg-name="25.3 WNYE-DT3 / CUNY TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNYE-DT3.png" group-title="Section 2",25.3 WNYE-DT3 / CUNY TV
-https://v-ny.mybtv.net/live/593.m3u8
-#EXTINF:-1 tvg-id="WPXNDT.us" tvg-name="31.1 WPXN / Ion" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPXN-DT.png" group-title="Section 2",31.1 WPXN-TV / Ion
-https://v-ny.mybtv.net/live/608.m3u8
-#EXTINF:-1 tvg-id="WPXNDT2.us" tvg-name="31.2 WPXN-DT2 / Bounce TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPXN-DT2.png" group-title="Section 2",31.2 WPXN-DT2 / Bounce TV
-https://v-ny.mybtv.net/live/581.m3u8
-#EXTINF:-1 tvg-id="WJLPDT4.us" tvg-name="31.3 WPXN-DT3 / Ion Mystery" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPXN-DT3.png" group-title="Section 2",31.3 WPXN-DT3 / Ion Mystery
-https://v-ny.mybtv.net/live/610.m3u8
-#EXTINF:-1 tvg-id="WPXNDT4.us" tvg-name="31.4 WPXN-DT4 / Defy TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPXN-DT4.png" group-title="Section 2",31.4 WPXN-DT4 / Defy TV
-https://v-ny.mybtv.net/live/611.m3u8
-#EXTINF:-1 tvg-id="Laff.us" tvg-name="31.5 WPXN-DT5 / Laff" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPXN-DT5.png" group-title="Section 2",31.5 WPXN-DT5 / Laff
-https://v-ny.mybtv.net/live/602.m3u8
-#EXTINF:-1 tvg-id="WPXNDT6.us" tvg-name="31.6 WPXN-DT6 / TrueReal" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPXN-DT6.png" group-title="Section 2",31.6 WPXN-DT6 / TrueReal
-https://v-ny.mybtv.net/live/596.m3u8
-#EXTINF:-1 tvg-id="Newsy.us" tvg-name="31.7 WPXN-DT7 / Newsy" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WPXN-DT7.png" group-title="Section 2",31.7 WPXN-DT7 / Newsy
-https://v-ny.mybtv.net/live/609.m3u8
-#EXTINF:-1 tvg-id="WJLPDT.us" tvg-name="33.1 WJLP / MeTV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WJLP-DT.png" group-title="Section 2",33.1 WJLP / MeTV
-https://v-ny.mybtv.net/live/637.m3u8
-#EXTINF:-1 tvg-id="Laff.us" tvg-name="33.2 WJLP-DT2 / Laff" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WJLP-DT2.png" group-title="Section 2",33.2 WJLP-DT2 / Laff
-https://v-ny.mybtv.net/live/625.m3u8
-#EXTINF:-1 tvg-id="WJLPDT3.us" tvg-name="33.3 WJLP-DT3 / Grit" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WJLP-DT3.png" group-title="Section 2",33.3 WJLP-DT3 / Grit
-https://v-ny.mybtv.net/live/626.m3u8
-#EXTINF:-1 tvg-id="WJLPDT4.us" tvg-name="33.4 WJLP-DT4 / Ion Mystery" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WJLP-DT4.png" group-title="Section 2",33.4 WJLP-DT4 / Ion Mystery
-https://v-ny.mybtv.net/live/627.m3u8
-#EXTINF:-1 tvg-id="WJLPDT5.us" tvg-name="33.5 WJLP-DT5 / Retro TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WJLP-DT5.png" group-title="Section 2",33.5 WJLP-DT5 / Retro TV
-https://v-ny.mybtv.net/live/628.m3u8
-#EXTINF:-1 tvg-id="WJLPDT6.us" tvg-name="33.6 WJLP-DT6 / Heartland" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WJLP-DT6.png" group-title="Section 2",33.6 WJLP-DT6 / Heartland
-https://v-ny.mybtv.net/live/629.m3u8
-#EXTINF:-1 tvg-id="WJLPDT7.us" tvg-name="33.7 WJLP-DT7 / Story Television" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WJLP-DT7.png" group-title="Section 2",33.7 WJLP-DT7 / Story Television
-https://v-ny.mybtv.net/live/634.m3u8
-#EXTINF:-1 tvg-id="WXTVDT(Spanish).us" tvg-name="41.1 WXTV / Univision 41 Nueva York" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WXTV-DT.png" group-title="Section 2",41.1 WXTV / Univision 41 Nueva York
-https://v-ny.mybtv.net/live/643.m3u8
-#EXTINF:-1 tvg-id="WXTVDT2.us" tvg-name="41.2 WXTV-DT2 / Bounce TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WXTV-DT2.png" group-title="Section 2",41.2 WXTV-DT2 / Bounce TV (WXTV)
-https://v-ny.mybtv.net/live/644.m3u8
-#EXTINF:-1 tvg-id="WXTVDT3.us" tvg-name="41.3 WXTV-DT3 / Twist" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WXTV-DT3.png" group-title="Section 2",41.3 WXTV-DT3 / Twist
-https://v-ny.mybtv.net/live/999.m3u8
-#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="42.6 WKOB-DT4 / Estrella TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WKOB-DT4.png" group-title="Section 2",42.6 WKOB-DT4 / Estrella TV
-https://v-ny.mybtv.net/live/650.m3u8
-#EXTINF:-1 tvg-id="ShopLC.us" tvg-name="42.7 WKOB-DT5 / Shop LC" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WKOB-DT5.png" group-title="Section 2",42.7 WKOB-DT5 / Shop LC
-https://v-ny.mybtv.net/live/651.m3u8
-#EXTINF:-1 tvg-id="WKOBDT6.us" tvg-name="42.8 WKOB-DT6 / Novelisima" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WKOB-DT6.png" group-title="Section 2",42.8 WKOB-DT6 / Novelisima
-https://v-ny.mybtv.net/live/652.m3u8
-#EXTINF:-1 tvg-id="WMBQCD.us" tvg-name="46.1 WMBQ-CD / WMBQ FNX" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WMBQ-CD.png" group-title="Section 2",46.1 WMBQ-CD / WMBQ FNX
-https://v-ny.mybtv.net/live/658.m3u8
-#EXTINF:-1 tvg-id="WNJUDT(Spanish).us" tvg-name="47.1 WNJU / Telemundo 47" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNJU-DT.png" group-title="Section 2",47.1 WNJU / Telemundo 47
-https://v-ny.mybtv.net/live/659.m3u8
-#EXTINF:-1 tvg-id="WNJUDT2(Spanish).us" tvg-name="47.2 WNJU-DT2 / TeleXitos" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WNJU-DT2.png" group-title="Section 2",47.2 WNJU-DT2 / TeleXitos
-https://v-ny.mybtv.net/live/660.m3u8
-#EXTINF:-1 tvg-id="WRNNDT.us" tvg-name="48.1 WRNN / ShopHQ" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WRNN-DT.png" group-title="Section 2",48.1 WRNN / ShopHQ
-https://v-ny.mybtv.net/live/661.m3u8
-#EXTINF:-1 tvg-id="WRNNDT2.us" tvg-name="48.2 WRNN-DT2 / Circle" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WRNN-DT2.png" group-title="Section 2",48.2 WRNN-DT2 / Circle
-https://v-ny.mybtv.net/live/662.m3u8
-#EXTINF:-1 tvg-id="WRNNDT3.us" tvg-name="48.3 WRNN-DT3 / Canal de la Fe" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WRNN-DT3.png" group-title="Section 2",48.3 WRNN-DT3 / Canal de la Fe
-https://v-ny.mybtv.net/live/663.m3u8
-#EXTINF:-1 tvg-id="QVC.us" tvg-name="48.4 WRNN-DT4 / QVC" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WRNN-DT4.png" group-title="Section 2",48.4 WRNN-DT4 / QVC
-https://v-ny.mybtv.net/live/612.m3u8
-#EXTINF:-1 tvg-id="WFUTDT(Spanish).us" tvg-name="68.1 WFUT / UniMás Nueva York" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WFUT-DT.png" group-title="Section 2",68.1 WFUT / UniMás Nueva York
-https://v-ny.mybtv.net/live/713.m3u8
-#EXTINF:-1 tvg-id="WFUTDT2(Spanish).us" tvg-name="68.2 WFUT-DT2 / True Crime Network" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-local/WFUT-DT2.png" group-title="Section 2",68.2 WFUT-DT2 / True Crime Network
-https://v-ny.mybtv.net/live/714.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/CNN.png" group-title="Section 2",CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 #EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/HLN.png" group-title="Section 2",HLN
@@ -236,10 +192,22 @@ https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="ABC7247.us" tvg-name="ABC 24/7 News New York" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/ABC7NYNews247.png" group-title="Section 2",ABC 24/7 News New York
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
-
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-name="NBC News NOW" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/NBCNewsNOW.png" group-title="Section 2",NBC News NOW
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-
+#EXTINF:-1 tvg-id="Vevo70s.us" tvg-name="Vevo 70s" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/Vevo70s.png" group-title="Section 2",Vevo 70s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5livestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&profilesFromStream=true
+#EXTINF:-1 tvg-id="Vevo80s.us" tvg-name="Vevo 80s" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/Vevo80s.png" group-title="Section 2",Vevo 80s
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Vevo90s.us" tvg-name="Vevo 90s" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/Vevo90s.png" group-title="Section 2",Vevo 90s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2livestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&profilesFromStream=true
+#EXTINF:-1 tvg-id="Vevo2K.us" tvg-name="Vevo 2K" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/Vevo2K.png" group-title="Section 2",Vevo 2K
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8clivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&profilesFromStream=true
+#EXTINF:-1 tvg-id="VevoRnB.us" tvg-name="Vevo R&B" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/VevoRnB.png" group-title="Section 2",Vevo R&B
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0elivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&profilesFromStream=true
+#EXTINF:-1 tvg-id="VevoReggaetonTrap.us" tvg-name="Vevo Reggaetón & Trap" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/VevoReggaetonTrap.png" group-title="Section 2",Vevo Reggaetón & Trap
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448livestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&profilesFromStream=true
+#EXTINF:-1 tvg-id="VevoCountry.us" tvg-name="Vevo Country" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/VevoCountry.png" group-title="Section 2",Vevo Country
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0livestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&profilesFromStream=true
 #EXTINF:-1 tvg-id="VevoPop.us" tvg-name="Vevo Pop" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/VevoPop.png" group-title="Section 2",Vevo Pop
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 #EXTINF:-1 tvg-id="VevoLatino.us" tvg-name="Vevo Latino" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/VevoLatino.png" group-title="Section 2",Vevo Latino
