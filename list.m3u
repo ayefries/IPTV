@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=""
+#EXTM3U url-tvg="http://m3u4u.com/epg/3wk1y28zr8t17935ygz7"
 #EXTINF:-1 tvg-id="RTCG1(src01).hr" tvg-name="RTCG 1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/RTCG1.png" group-title="Section 1",RTCG 1
 https://proxy.rtcg.me:1936/cg1/smil:cg1.smil/cg1.m3u8
 #EXTINF:-1 tvg-id="RTCG2(src01).hr" tvg-name="RTCG 2" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec1/RTCG2.png" group-title="Section 1",RTCG 2
