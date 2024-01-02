@@ -135,6 +135,8 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTINF:-1 tvg-id="FashionTV(src01).uk" tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/FTV.png" group-title="🇪🇺",Fashion TV
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/CartoonNetwork.png" group-title="🇪🇺",Cartoon Network
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=110897&extension=m3u8&play_token=xdbt7BgLik
 #EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/EBS.png" group-title="🇪🇺",EbS
 https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=96000-video=2600000.m3u8
 #EXTINF:-1 tvg-id="EbS+.be" tvg-name="EbS+" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/EBSP.png" group-title="🇪🇺",EbS+
@@ -169,13 +171,21 @@ http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 https://1229089492.rsc.cdn77.org/38633/index.m3u8
 #EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/BloombergTV.png" group-title="🇺🇸",Bloomberg TV
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/AMCUS.png" group-title="🇺🇸",AMC
+https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/BBCAmerica.png" group-title="🇺🇸",BBC America
+https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="Sundance TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/SundanceTV.png" group-title="🇺🇸",Sundance TV
+https://bcovlive-a.akamaihd.net/b68f4655411b4fe18b32d68bf68b067d/us-east-1/6240731308001/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/AnimalPlanet.png" group-title="🇺🇸",Animal Planet
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_17.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/CartoonNetwork.png" group-title="🇺🇸",Cartoon Network
-http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=110897&extension=m3u8&play_token=xdbt7BgLik
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/ESPN.png" group-title="🇺🇸",ESPN
 http://143.244.60.30/ESPN/tracks-v1a1/mono.m3u8
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=174655&extension=m3u8&play_token=xdbt7BgLik
+#EXTINF:-1 tvg-id="ViceTV.us" tvg-name="VICE TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/VICETV.png" group-title="🇺🇸",VICE TV
+https://1187196200.rsc.cdn77.org/1457/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-name="Bloomberg TV+" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/BloombergTVP.png" group-title="🇺🇸",Bloomberg TV+
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-id="CheddarNews.us" tvg-name="Cheddar News" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/Cheddar.png" group-title="🇺🇸",Cheddar News
