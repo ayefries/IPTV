@@ -67,6 +67,8 @@ https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 tvg-id="VH1.it" tvg-name="VH1 Italia" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/VH1Italia.png" group-title="🇮🇹",VH1 Italia
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/DasErste.png" group-title="🇩🇪",Das Erste
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 #EXTINF:-1 tvg-id="DW(src02).de" tvg-name="DW Deutsch" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/DWDE.png" group-title="🇩🇪",DW Deutsch
 http://ott-cdn.ucom.am/s26/index.m3u8
 #EXTINF:-1 tvg-id="RTS1.ch" tvg-name="RT Suisse 1" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/RTSuisse1.png" group-title="🇨🇭",RT Suisse 1
@@ -137,6 +139,10 @@ http://ott-cdn.ucom.am/s35/index.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/CartoonNetwork.png" group-title="🇪🇺",Cartoon Network
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=110897&extension=m3u8&play_token=xdbt7BgLik
+#EXTINF:-1 tvg-id="MTVGlobal.uk" tvg-name="MTV Adria" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/MTV.png" group-title="🇪🇺",MTV Adria
+http://37.18.239.36:8888/MTV_Adria/index.m3u8
+#EXTINF:-1 tvg-id="MTV '00s" tvg-name="MTV '00s" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/MTV00s.png" group-title="🇪🇺",MTV '00s
+http://37.18.239.36:8888/VH1/index.m3u8
 #EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/EBS.png" group-title="🇪🇺",EbS
 https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=96000-video=2600000.m3u8
 #EXTINF:-1 tvg-id="EbS+.be" tvg-name="EbS+" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/EBSP.png" group-title="🇪🇺",EbS+
