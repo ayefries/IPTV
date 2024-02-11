@@ -181,15 +181,21 @@ https://www.bloomberg.com/media-manifest/streams/us.m3u8
 https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/BBCAmerica.png" group-title="🇺🇸",BBC America
 https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="Sundance TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/SundanceTV.png" group-title="🇺🇸",Sundance TV
 https://bcovlive-a.akamaihd.net/b68f4655411b4fe18b32d68bf68b067d/us-east-1/6240731308001/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/AnimalPlanet.png" group-title="🇺🇸",Animal Planet
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_17.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/ESPN.png" group-title="🇺🇸",ESPN
 http://143.244.60.30/ESPN/tracks-v1a1/mono.m3u8
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=174655&extension=m3u8&play_token=xdbt7BgLik
+#EXTINF:-1 tvg-id="WUSA.us" tvg-name="WUSA" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/CBS.png" group-title="🇺🇸",WUSA 9 CBS (Washington DC)
+https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-2/index.m3u8
+#EXTINF:-1 tvg-id="WGBA.us" tvg-name="WGBA" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/NBC.png" group-title="🇺🇸",WGBA 26 NBC (Green Bay WI)
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+#EXTINF:-1 tvg-id="WFTX.us" tvg-name="WFTX" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/Fox.png" group-title="🇺🇸",WFTX 36 Fox (Cape Coral FL)
+https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
+#EXTINF:-1 tvg-id="WFAA.us" tvg-name="WFAA" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/ABC.png" group-title="🇺🇸",WFAA 8 ABC (Dallas TX)
+https://livevideo.tegnadigital.com/wfaa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WFAA/elvs/live.m3u8
 #EXTINF:-1 tvg-id="ViceTV.us" tvg-name="VICE TV" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/VICETV.png" group-title="🇺🇸",VICE TV
 https://1187196200.rsc.cdn77.org/1457/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-name="Bloomberg TV+" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/BloombergTVP.png" group-title="🇺🇸",Bloomberg TV+
